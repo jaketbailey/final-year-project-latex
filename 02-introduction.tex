@@ -1,0 +1,132 @@
+\chapter{Introduction}
+\label{chap:intro}
+
+\section{Overview}
+\label{intro:overview}
+
+Route planning is essential to all cyclists, from casual to professional, as it's important to know where they are going and what to expect on their journey. A casual rider may wish to find the quickest and safest route to their destination. In contrast, a professional rider would want to find the most challenging route, not necessarily the quickest.
+
+Currently, there are multiple route planning applications which range in their flexibility for different types of cyclists and their needs. No one application effectively caters for all cyclists, meaning multiple applications would be required depending on the type of route the user wants to plan.
+
+The proposed solution is a web application enabling cyclists to plan a route ahead of their ride and choose which criteria they want to affect the routing algorithm and, therefore, the final route. Some examples of these criteria are accommodation, road type and elevation. Other criteria will be used in determining the route, such as weather conditions and hazards along the route.
+
+\section{Aims and Objectives}
+\label{intro:aimsandobjectives}
+
+The overall aim of the project is to develop and build a prototype which can be further developed in the future to plan a range of routes for cyclists with a range of data-driven criteria to cater to the requirements of that specific user. Enabling customisable criteria for each user will allow them to understand the decisions made to plan their route and improve the user's experience when they are cycling, and give more members of the public the incentive to begin cycling.
+
+\section{Proposed Solution}
+\label{intro:proposedsolution}
+
+The solution is a prototype web application designed for cyclists of all levels (casual to professional). It will plan cycling routes based on a range of data-driven, user-customisable and fixed criteria through a user-friendly, modern user interface (UI). Furthermore, the solution will provide key information on the planned route, such as elevation, average speed and time to complete the route.
+
+\section{Scope}
+\label{intro:scope}
+
+There is a potentially large scope that could be attributed to this project whereby the application could be developed to consider a range of different sports that could benefit from route planning. These sports could be, running, walking and mountain cycling, which would increase the overall scope as there would be many other factors to consider for these sports. This would expand the current scope of the project to a great scale.
+
+To mitigate the risk of the scope becoming unfeasible, it's vital to focus on the key functionality planned for the application. Therefore, the decision has been made to narrow the scope and focus explicitly on catering the application to route-planning Road Cyclists. Focusing on this user-base will ensure focus on the key functionality to provide effective route planning on roads catering to the user's needs.
+
+\section{Deliverables}
+\label{intro:deliverables}
+
+This project will consist of two deliverables:
+\begin{itemize}
+    \item The project report
+    \item The artefact (web-based bicycle route planner)
+\end{itemize}
+
+\section{Resources and Facilities used}
+\label{intro:resourcesandfacilities}
+
+The section demonstrates all resources and facilities used to complete this project. It includes developing the prototype and writing this document; the list should aid anyone wishing to re-create this project. Some decisions on tools used are personal; for instance, the Integrated Development Environment (IDE), which is predominantly down to preference. On the other hand, the programming languages chosen are specific to the features and performance benefits they provide in developing such applications.
+
+\begin{itemize}
+    \item Applications/websites used to complete research and literature review
+    \begin{itemize}
+        \item Google Scholar
+        \item EBSCO Database
+    \end{itemize}
+    \item Programming Languages
+    \begin{itemize}
+        \item Javascript
+        \item HTML5
+        \item CSS
+        \item Go
+        \item Structured Query Language (SQL)
+    \end{itemize}
+    \item Integrated Development Environment/Text Editor
+    \begin{itemize}
+        \item Visual Studio Code
+    \end{itemize}
+    \item Database Management System (DBMS)
+    \begin{itemize}
+        \item PostgreSQL
+    \end{itemize}
+    \item Wireframes and Prototyping
+    \begin{itemize}
+        \item Figma
+    \end{itemize}
+    \item Libraries/Frameworks
+    \begin{itemize}
+        \item React.js
+        \item Vite
+        \item Bootstrap.js
+        \item Gin
+        \item Auth0
+        \item Open Route Service (ORM)
+        \item OpenStreetMap (OSM)
+        \item Leaflet
+        \item Leaflet Routing Machine
+    \end{itemize}
+    \item Testing
+    \begin{itemize}
+        \item Jest
+        \item Go Test Framework
+    \end{itemize}
+    \item Browser
+    \begin{itemize}
+        \item Google Chromium
+    \end{itemize}
+    \item Project Management and Version Control
+    \begin{itemize}
+        \item GitHub
+        \item GitHub Interactive Kanban Board
+        \item GitHub Issues
+        \item Git
+    \end{itemize}
+\end{itemize}
+
+\section{Risk Assessment}
+\label{intro:riskassessment}
+
+It is vital to understand the potential risks at the beginning of the project to establish a way to mitigate those risks should they occur. The risks have been identified when considering this project \see{tab:risk-assessment}.
+
+\begin{center}
+\begin{longtable}{ p{2cm} p{2.25cm} p{2cm} 
+p{1.5cm} p{5cm} } 
+\caption{Project Risk Assessment}
+\hline
+\textbf{Type} & \textbf{Risk} & \textbf{Likelihood} & \textbf{Severity} & \textbf{Description and Mitigation}\\
+\hline
+    Personal &  Illness & Low & Medium & There is the chance that I may fall ill unexpectedly during the project. To mitigate the risk of this visit a doctor if unwell and allocate time for rest around university work.\\ \cline{2-5}
+    & Supervisor illness & Medium & Medium &  The supervisor becoming unwell in any instance could impact the completion of tasks due to the lack of technical guidance and may delay the project’s timeline. If this occurs, we will conduct online meetings and plan time in preparation for the potential delay.\\
+    \hline
+    Management & Changing requirements & Medium & Medium &  During the project, the requirements initially suggested may change. To mitigate this, communicate regularly with the supervisor to discuss the feasibility of the current requirements to prevent any future changes.\\\cline{2-5}
+    & Time Availability & Medium & Medium &  The time to dedicate to the project may become more limited as I have more work to complete for other modules. To prevent this, plan tasks ahead of time to consider potential future setbacks.\\
+    \hline
+    Technical & Data loss/corruption & Low & High &  Data loss would mean the prototype must be developed again from scratch. To mitigate this issue, create regular backups on GitHub and locally in case either fails.\\\cline{2-5}
+    & Hardware failure & Low & High &  PC/Server/Laptop being used for development/hosting crashes/hardware gets damaged. Ensure multiple devices are being used so development can continue even whilst one device is down.\\\cline{2-5}
+    & Documentation availability & Low & Medium &  Documentation for frameworks, languages or libraries is unavailable. There is a range of readily available online for all the required technologies.\\
+    \hline
+\label{tab:risk-assessment}
+\end{longtable}
+\end{center}
+
+\clearpage
+\section{Legal, Ethical, Social and Professional issues}
+\label{intro:legal...issues}
+
+The key legislation to consider for this project is the Data Protection Act 2018 (DPA 2018). The project should not store personal information. However, the user’s current location will be requested upon the launch of the application; when the application no longer uses this data, it will be deleted and re-requested when the user enters the application again. Future iterations could implement accounts, storing a small amount of sensitive user information to include more features. However, the submitted artefact shouldn’t contain this data; regardless of this fact, it will be ensured the artefact abides by all principles of the DPA 2018 due to it handling the current location data of the user.
+
+One social issue that could arise is that the artefact may entice more public members to start cycling more frequently; whilst this result will be a great incentive for protecting the environment, some road users are cautious, with many cyclists riding unsafely on the roads. The artefact will push users to ride safely and abide by all road safety laws, just as vehicles do; there will also be the option only to use cycle routes/lanes when plotting a route to ensure those cyclists who are less comfortable on roads still feel safe on the routes planned by the artefact.
