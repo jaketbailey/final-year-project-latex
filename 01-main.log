@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.13)  17 NOV 2023 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.13)  17 NOV 2023 12:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1350,9 +1350,6 @@ Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `01-main.out' has not changed.
 (rerunfilecheck)             Checksum: C300A882DCFA057965BBE0BC8E8805BE;9894.
 
@@ -1373,7 +1370,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  94i,12n,92p,2192b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (37 pages, 3887706 bytes).
+Output written on 01-main.pdf (37 pages, 3887702 bytes).
 PDF statistics:
  770 PDF objects out of 1000 (max. 8388607)
  700 compressed objects within 7 object streams
