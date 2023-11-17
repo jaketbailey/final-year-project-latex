@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.13)  17 NOV 2023 12:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.13)  17 NOV 2023 14:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1068,20 +1068,26 @@ File: figures/current_apps.pdf Graphic file (type pdf)
 <use figures/current_apps.pdf>
 Package pdftex.def Info: figures/current_apps.pdf  used on input line 26.
 (pdftex.def)             Requested size: 426.79134pt x 301.59483pt.
- [17 <./figures/current_apps.pdf>] [18]
-<figures/bicycle_infrastructure_score_table.jpg, id=538, 926.71219pt x 229.60782pt>
+ [17 <./figures/current_apps.pdf>]
+File: figures/current_apps.pdf Graphic file (type pdf)
+<use figures/current_apps.pdf>
+Package pdftex.def Info: figures/current_apps.pdf  used on input line 46.
+(pdftex.def)             Requested size: 426.79134pt x 301.59483pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18] [19]
+<figures/bicycle_infrastructure_score_table.jpg, id=548, 926.71219pt x 229.60782pt>
 File: figures/bicycle_infrastructure_score_table.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_score_table.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_score_table.jpg  used on input line 66.
 (pdftex.def)             Requested size: 401.50146pt x 99.47919pt.
-<figures/bicycle_infrastructure_scores.jpg, id=541, 295.3434pt x 161.8848pt>
+<figures/bicycle_infrastructure_scores.jpg, id=551, 295.3434pt x 161.8848pt>
 File: figures/bicycle_infrastructure_scores.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_scores.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_scores.jpg  used on input line 73.
 (pdftex.def)             Requested size: 295.34267pt x 161.8844pt.
- [19]
-Underfull \vbox (badness 6944) has occurred while \output is active []
-
  [20 <./figures/bicycle_infrastructure_score_table.jpg> <./figures/bicycle_infrastructure_scores.jpg>]) [21]
 \openout2 = `04-methodology.aux'.
 
@@ -1350,6 +1356,9 @@ Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `01-main.out' has not changed.
 (rerunfilecheck)             Checksum: C300A882DCFA057965BBE0BC8E8805BE;9894.
 
@@ -1370,7 +1379,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  94i,12n,92p,2192b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (37 pages, 3887702 bytes).
+Output written on 01-main.pdf (37 pages, 3887803 bytes).
 PDF statistics:
  770 PDF objects out of 1000 (max. 8388607)
  700 compressed objects within 7 object streams

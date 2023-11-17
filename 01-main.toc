@@ -16,7 +16,7 @@
 \contentsline {subsection}{\numberline {2.3.3}Google Maps}{18}{subsection.2.3.3}%
 \contentsline {section}{\numberline {2.4}Risk Factors in Route Planning}{18}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Cycling Infrastructure}{18}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Weather Conditions}{19}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.2}Weather Conditions}{20}{subsection.2.4.2}%
 \contentsline {section}{\numberline {2.5}Conclusion}{21}{section.2.5}%
 \contentsline {chapter}{\numberline {3}Methodology}{22}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Chosen Methodology - Incremental}{22}{section.3.1}%
