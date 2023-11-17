@@ -1,13 +1,9 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Stack Overflow Trends JavaScript Frameworks (14/11/2023) (\blx@tocontentsinit {0}\cite {noauthor_stack_nodate})\relax }}{18}{figure.caption.8}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Model View Controller Model (\blx@tocontentsinit {0}\cite {curry_flexible_2008})\relax }}{18}{figure.caption.9}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Model View View-Model Model (\blx@tocontentsinit {0}\cite {zaris_-depth_nodate})\relax }}{20}{figure.caption.10}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Stack Overflow Trends Go (14/11/2023) (\blx@tocontentsinit {0}\cite {noauthor_stack_nodate-1})\relax }}{21}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Fork-Join Model (\blx@tocontentsinit {0}\cite {cox-buday_concurrency_2017})\relax }}{21}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Features in priority order based on user feedback\relax }}{23}{figure.caption.14}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Comparison of the bicycle infrastructure scores (\blx@tocontentsinit {0}\cite {hull_bicycle_2014}).\relax }}{24}{figure.caption.15}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Spider web diagram comparing the Bicycle Infrastructure Scores (\blx@tocontentsinit {0}\cite {hull_bicycle_2014}).\relax }}{25}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Table of current solutions and their included features\relax }}{17}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Features in priority order based on user feedback\relax }}{18}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Comparison of the bicycle infrastructure scores (\blx@tocontentsinit {0}\cite {hull_bicycle_2014}).\relax }}{20}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Spider web diagram comparing the Bicycle Infrastructure Scores (\blx@tocontentsinit {0}\cite {hull_bicycle_2014}).\relax }}{20}{figure.caption.11}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -16,6 +12,6 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Plotaroute.com UI\relax }}{41}{figure.caption.26}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Komoot UI\relax }}{42}{figure.caption.27}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Google Maps UI\relax }}{42}{figure.caption.28}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Plotaroute.com UI\relax }}{36}{figure.caption.21}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Komoot UI\relax }}{37}{figure.caption.22}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Google Maps UI\relax }}{37}{figure.caption.23}%
