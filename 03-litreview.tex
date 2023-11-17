@@ -5,8 +5,7 @@ This chapter presents the analysis and review of relevant literature conducted t
 
 \section{Background}
 \label{litrev:background}
-This project has a high level of complexity. It utilises custom, user and system inputs
-into a data-driven route planning algorithm, displaying the output on an OpenStreetMap-based web application. 
+This project has a high level of complexity. It utilises custom, user and system inputs into a data-driven route planning algorithm, displaying the output on an OpenStreetMap-based web application. 
 
 This review begins with researching literature on different web technologies and programming languages to develop an understanding of what technologies were available to build the proposed system. Once an understanding of the technologies was developed, a review of current competing products was reviewed. This allowed for gaps in the current market to be identified, therefore developing an idea of requirements for the proposed system \see{litrev:competingproducts}. 
 
@@ -87,6 +86,6 @@ Contrasting this, Hull and O'Holleran state that the main environmental barriers
 \section{Conclusion}
 \label{litrev:conclusion}
 
-To conclude, route planning with different customisable preferences has been implemented by a range of different existing organisations; however, focusing on a risk-based routing approach has not been addressed by these existing solutions. Utilising pre-existing routing algorithms such as Open Route Service (\cite{noauthor_openrouteservice_nodate}) or Open Source Routing Machine (\cite{noauthor_project_nodate}) and integrating custom, weather and infrastructure data alongside the usual user-preferences has not been implemented within existing solutions. Therefore, this enables a unique system to be developed whereby crowd-sourced infrastructure data alongside weather data provided by OpenWeatherMap (\cite{noauthor_urrent_nodate}) combined form a risk index utilised in a customised routing algorithm.
+To conclude, route planning with different customisable preferences has been implemented by a range of different existing organisations; however, focusing on a risk-based routing approach has not been addressed by these existing solutions. Utilising pre-existing routing algorithms such as Open Route Service (\cite{noauthor_openrouteservice_nodate}) or Open Source Routing Machine (\cite{noauthor_project_nodate}) and integrating custom, weather and infrastructure data alongside the usual user-preferences has not been implemented within existing solutions. Therefore, this enables a unique system to be developed whereby crowd-sourced infrastructure data alongside weather data provided by OpenWeatherMap combined form a risk index utilised in a customised routing algorithm. %(\cite{noauthor_urrent_nodate})%
 
 Furthermore, in order to develop this system, React.js was chosen to develop the front end and Go for the back end. Next.js was initially considered for the front-end. However, it was later found that Next's server-side rendering was not supported by Leaflet; used for Mapping with OpenCycleMap; (\cite{noauthor_leaflet_nodate};\cite{noauthor_opencyclemaporg_nodate}) due to it requiring direct interaction with the DOM. Go with the Gin Web Framework (\cite{noauthor_gin_nodate}) was chosen to develop the API and back-end due to its increased performance benefits over alternative languages such as Node.js with Express.js.

@@ -2855,12 +2855,11 @@
     <bcf:citekey order="26" intorder="1">miranda-moreno_weather_2011</bcf:citekey>
     <bcf:citekey order="27" intorder="1">noauthor_openrouteservice_nodate</bcf:citekey>
     <bcf:citekey order="28" intorder="1">noauthor_project_nodate</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">noauthor_urrent_nodate</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">noauthor_leaflet_nodate</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">noauthor_opencyclemaporg_nodate</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">noauthor_gin_nodate</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">noauthor_leaflet_nodate</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">noauthor_opencyclemaporg_nodate</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">noauthor_gin_nodate</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">dapeng_liu_case_2011</bcf:citekey>
     <bcf:citekey order="33" intorder="1">dapeng_liu_case_2011</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">dapeng_liu_case_2011</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
