@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.13)  17 NOV 2023 14:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.12)  8 DEC 2023 10:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -839,10 +839,10 @@ Package hyperref Info: Link coloring OFF on input line 60.
 \openout5 = `01-main.out'.
 
 Package epstopdf Info: Source file: <figures/UoP_Master_Logo_Linear_PMS.eps>
-(epstopdf)                    date: 2023-11-17 12:34:52
+(epstopdf)                    date: 2023-11-17 10:36:27
 (epstopdf)                    size: 672822 bytes
 (epstopdf)             Output file: <figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-11-17 12:35:47
+(epstopdf)                    date: 2023-11-17 14:12:59
 (epstopdf)                    size: 15628 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf figures/UoP_Master_Logo_Linear_PMS.eps>
 (epstopdf)             \includegraphics on input line 65.
@@ -1359,8 +1359,14 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `01-main.out' has not changed.
-(rerunfilecheck)             Checksum: C300A882DCFA057965BBE0BC8E8805BE;9894.
+
+Package rerunfilecheck Warning: File `01-main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `01-main.out':
+(rerunfilecheck)             Before: C300A882DCFA057965BBE0BC8E8805BE;9894
+(rerunfilecheck)             After:  FA33EB3E45DB7DBCB0E3DCAAFED986D3;9924.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                01-main
@@ -1379,7 +1385,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  94i,12n,92p,2192b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (37 pages, 3887803 bytes).
+Output written on 01-main.pdf (37 pages, 3887819 bytes).
 PDF statistics:
  770 PDF objects out of 1000 (max. 8388607)
  700 compressed objects within 7 object streams
