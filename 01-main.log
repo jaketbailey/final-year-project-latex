@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.12)  8 DEC 2023 10:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.13)  9 DEC 2023 10:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -839,15 +839,15 @@ Package hyperref Info: Link coloring OFF on input line 60.
 \openout5 = `01-main.out'.
 
 Package epstopdf Info: Source file: <figures/UoP_Master_Logo_Linear_PMS.eps>
-(epstopdf)                    date: 2023-11-17 10:36:27
+(epstopdf)                    date: 2023-11-17 12:34:52
 (epstopdf)                    size: 672822 bytes
 (epstopdf)             Output file: <figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-11-17 14:12:59
+(epstopdf)                    date: 2023-11-17 12:35:47
 (epstopdf)                    size: 15628 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf figures/UoP_Master_Logo_Linear_PMS.eps>
 (epstopdf)             \includegraphics on input line 65.
 Package epstopdf Info: Output file is already uptodate.
-<figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf, id=280, 421.575pt x 299.1175pt>
+<figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf, id=304, 421.575pt x 299.1175pt>
 File: figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf>
 Package pdftex.def Info: figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf  used on input line 65.
@@ -1063,7 +1063,7 @@ Chapter 2.
 
 
 ]
-<figures/current_apps.pdf, id=481, 845.1575pt x 597.23125pt>
+<figures/current_apps.pdf, id=511, 845.1575pt x 597.23125pt>
 File: figures/current_apps.pdf Graphic file (type pdf)
 <use figures/current_apps.pdf>
 Package pdftex.def Info: figures/current_apps.pdf  used on input line 26.
@@ -1078,12 +1078,12 @@ Package pdftex.def Info: figures/current_apps.pdf  used on input line 46.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [18] [19]
-<figures/bicycle_infrastructure_score_table.jpg, id=548, 926.71219pt x 229.60782pt>
+<figures/bicycle_infrastructure_score_table.jpg, id=578, 926.71219pt x 229.60782pt>
 File: figures/bicycle_infrastructure_score_table.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_score_table.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_score_table.jpg  used on input line 66.
 (pdftex.def)             Requested size: 401.50146pt x 99.47919pt.
-<figures/bicycle_infrastructure_scores.jpg, id=551, 295.3434pt x 161.8848pt>
+<figures/bicycle_infrastructure_scores.jpg, id=581, 295.3434pt x 161.8848pt>
 File: figures/bicycle_infrastructure_scores.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_scores.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_scores.jpg  used on input line 73.
@@ -1106,15 +1106,22 @@ Overfull \hbox (20.75558pt too wide) in paragraph at lines 12--13
 ]
 \openout2 = `05-project_management.aux'.
 
- (./05-project_management.tex)
+ (./05-project_management.tex
+Chapter 4.
+
+Underfull \vbox (badness 5189) has occurred while \output is active []
+
+ [23
+
+
+
+
+]) [24]
 \openout2 = `06-requirements.aux'.
 
  (./06-requirements.tex
-Chapter 4.
-[23
-
-
-
+Chapter 5.
+[25
 
 
 
@@ -1254,14 +1261,14 @@ Overfull \hbox (5.55505pt too wide) in paragraph at lines 145--145
 []\T1/ptm/m/n/12 Should| 
  []
 
-) [24
+) [26
 
-] [25] [26] [27]
+] [27] [28] [29]
 \openout2 = `07-design.aux'.
 
  (./07-design.tex
-Chapter 5.
-) [28
+Chapter 6.
+) [30
 
 
 
@@ -1270,8 +1277,8 @@ Chapter 5.
 \openout2 = `08-implementation.aux'.
 
  (./08-implementation.tex
-Chapter 6.
-) [29
+Chapter 7.
+) [31
 
 
 
@@ -1280,8 +1287,8 @@ Chapter 6.
 \openout2 = `09-testing.aux'.
 
  (./09-testing.tex
-Chapter 7.
-) [30
+Chapter 8.
+) [32
 
 
 
@@ -1290,8 +1297,8 @@ Chapter 7.
 \openout2 = `10-evaluation.aux'.
 
  (./10-evaluation.tex
-Chapter 8.
-) [31
+Chapter 9.
+) [33
 
 
 
@@ -1300,13 +1307,13 @@ Chapter 8.
 \openout2 = `11-reflection_and_conclusion.aux'.
 
  (./11-reflection_and_conclusion.tex
-Chapter 9.
-) [32
+Chapter 10.
+) [34
 
 
 
 
-] [33
+] [35
 
 
 
@@ -1315,7 +1322,7 @@ Overfull \hbox (21.26544pt too wide) in paragraph at lines 149--149
 \T1/ptm/m/n/12 cling? [Pub-lisher: Rout-ledge _eprint: https://doi.org/10.1080/21650020.2014.955210].
  []
 
-[34]
+[36]
 
 ./01-main.tex:149: LaTeX Error: Unicode character С (U+0421)
                not set up for use with LaTeX.
@@ -1329,44 +1336,35 @@ l.149
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[35]
+[37]
 \openout2 = `12-appendix.aux'.
 
  (./12-appendix.tex
 Appendix A.
-<figures/plotarouteui.png, id=703, 1289.56781pt x 717.43031pt>
+<figures/plotarouteui.png, id=745, 1289.56781pt x 717.43031pt>
 File: figures/plotarouteui.png Graphic file (type png)
 <use figures/plotarouteui.png>
 Package pdftex.def Info: figures/plotarouteui.png  used on input line 4.
 (pdftex.def)             Requested size: 426.79134pt x 237.43146pt.
-<figures/komootui.png, id=704, 1444.64719pt x 733.23938pt>
+<figures/komootui.png, id=746, 1444.64719pt x 733.23938pt>
 File: figures/komootui.png Graphic file (type png)
 <use figures/komootui.png>
 Package pdftex.def Info: figures/komootui.png  used on input line 11.
 (pdftex.def)             Requested size: 426.79134pt x 216.61702pt.
-<figures/gmapsui.png, id=705, 1445.4pt x 730.98094pt>
+<figures/gmapsui.png, id=747, 1445.4pt x 730.98094pt>
 File: figures/gmapsui.png Graphic file (type png)
 <use figures/gmapsui.png>
 Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
 (pdftex.def)             Requested size: 426.79134pt x 215.83827pt.
-) [36
+) [38
 
 
- <./figures/plotarouteui.png (PNG copy)>] [37 <./figures/komootui.png (PNG copy)> <./figures/gmapsui.png (PNG copy)>] (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix.aux))
+ <./figures/plotarouteui.png (PNG copy)>] [39 <./figures/komootui.png (PNG copy)> <./figures/gmapsui.png (PNG copy)>] (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix.aux))
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `01-main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `01-main.out':
-(rerunfilecheck)             Before: C300A882DCFA057965BBE0BC8E8805BE;9894
-(rerunfilecheck)             After:  FA33EB3E45DB7DBCB0E3DCAAFED986D3;9924.
+Package rerunfilecheck Info: File `01-main.out' has not changed.
+(rerunfilecheck)             Checksum: 6902CDF031EC4AC15FEAB9498087BFBB;10746.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                01-main
@@ -1377,18 +1375,18 @@ Package logreq Info: Writing requests to '01-main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24729 strings out of 477985
- 453232 string characters out of 5840057
+ 24746 strings out of 477985
+ 453463 string characters out of 5840057
  1876388 words of memory out of 5000000
- 44304 multiletter control sequences out of 15000+600000
+ 44313 multiletter control sequences out of 15000+600000
  557556 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,12n,92p,2192b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (37 pages, 3887819 bytes).
+Output written on 01-main.pdf (39 pages, 3892109 bytes).
 PDF statistics:
- 770 PDF objects out of 1000 (max. 8388607)
- 700 compressed objects within 7 object streams
- 163 named destinations out of 1000 (max. 500000)
- 592 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 813 PDF objects out of 1000 (max. 8388607)
+ 740 compressed objects within 8 object streams
+ 171 named destinations out of 1000 (max. 500000)
+ 640 words of extra memory for PDF output out of 10000 (max. 10000000)
 
