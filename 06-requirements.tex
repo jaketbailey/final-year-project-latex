@@ -1,6 +1,3 @@
-\setlength{\tabcolsep}{20pt}
-\renewcommand{\arraystretch}{1.5}
-
 \chapter{Requirements}
 \label{chap:requirements}
 
@@ -11,34 +8,43 @@ The identification of requirements was critical to the success of the project. P
 
 Requirements were gathered via multiple channels, initially research was undertaken to understand the offerings of current solutions to gather a list of potential functionalities. These were then taken to the client to set out a base set of user requirements to be used in primary research. A simple research application was developed to collect the opinions of cyclists in the general public, enabling participants to order a subset of a wider list in order of preference \see{fig:researchapp}.
 
+\section{Identifying Users}
+\label{requirements:identifyingusers}
+
+The aims highlighted the need to expand the route planning functionalities available to cyclists \see{intro:aimsandobjectives}. Multiple user groups were identified from this:
+\begin{itemize}
+  \item Commuter - A commuter would require a simple round trip route, likely focused on ease of ride and speed taken to commute.
+  \item Regular Cyclists - A cyclist who focuses on planning a ride tailored for their skill level. Wants multiple route options with varying levels of intensity.
+  \item Pro Cyclists - A pro cyclist would require a deeper level insight into each planned route, including a range of customisability and integration with fitness applications.
+\end{itemize}
+
+
+\section{Requirements Specification}
+\label{requirements:specification}
+
+User stories were established through various methods: regular face-to-face meetings were conducted with the client and research was conducted through a web application built to understand the users' preferred functionality \see{fig:researchapp}. Each user story was broken down into specific system requirements. The requirements have been ranked using the MoSCoW model; this demonstrated each requirements' level of importance aiming to prioritise the necessary requirements, limiting the time spent on the less-necessary requirements. The MoSCoW model seemed the most appropriate choice in prioritising requirements because of the research undertaken with real-world users, utilising the data collected on user preferences \see{fig:userfeedback01}.
+
+\begin{landscape}
 \begin{figure}
   \centering
-  \includegraphics[width=400px]{figures/research-application.png}
+  \includegraphics[width=650px]{figures/research-application.png}
   \caption{Firebase Research Application}
   \label{fig:researchapp}
 \end{figure}
 
-\section{Identifying Users}
-\label{requirements:identifyingusers}
-
-\section{Prioritising Requirements}
-\label{requirements:prioritising}
-
-Requirements were prioritised using the feedback received from the research appilication, a series of graphs were created to demonstrate the order of priority based on user feedback \see{fig:userfeedback01}.
-
 \begin{figure}
   \centering
-  \includegraphics[width=400px]{figures/logarithmic-scoring.png}
+  \includegraphics[width=650px]{figures/logarithmic-scoring.png}
   \caption{User Feedback}
   \label{fig:userfeedback01}
 \end{figure}
+\end{landscape}
 
 \clearpage
-\section{User Stories}
+\section{Elicited Requirements}
 \label{requirements:user-stories}
 
 \begin{table}[!htb]
-
 \caption{User Story 01}
 \label{tab:user-story-01}
 \begin{tabular}{ p{8cm} p{1cm}  p{1cm} }

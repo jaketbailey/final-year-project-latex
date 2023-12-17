@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.13)  9 DEC 2023 11:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.12)  17 DEC 2023 22:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -393,7 +393,15 @@ File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks35
 \c@AM@survey=\count304
 \AM@templatesizebox=\box61
-) (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+) (/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)) (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -745,27 +753,49 @@ Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix.aux))
+ (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix.aux
+
+LaTeX Warning: Label `tab:user-story-01' multiply defined.
+
+
+LaTeX Warning: Label `tab:user-story-02' multiply defined.
+
+
+LaTeX Warning: Label `tab:user-story-03' multiply defined.
+
+
+LaTeX Warning: Label `tab:user-story-04' multiply defined.
+
+
+LaTeX Warning: Label `tab:user-story-05' multiply defined.
+
+
+LaTeX Warning: Label `tab:user-story-06' multiply defined.
+
+
+LaTeX Warning: Label `tab:user-story-07' multiply defined.
+
+))
 \openout1 = `01-main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count453
@@ -792,15 +822,6 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
- (/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
- (/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
- (/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-))
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
  (/usr/share/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
@@ -831,26 +852,26 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '01-main.bbl' found.
  (./01-main.bbl)
-Package biblatex Info: Reference section=0 on input line 60.
-Package biblatex Info: Reference segment=0 on input line 60.
-Package hyperref Info: Link coloring OFF on input line 60.
+Package biblatex Info: Reference section=0 on input line 61.
+Package biblatex Info: Reference segment=0 on input line 61.
+Package hyperref Info: Link coloring OFF on input line 61.
  (./01-main.out) (./01-main.out)
 \@outlinefile=\write5
 \openout5 = `01-main.out'.
 
 Package epstopdf Info: Source file: <figures/UoP_Master_Logo_Linear_PMS.eps>
-(epstopdf)                    date: 2023-11-17 12:34:52
+(epstopdf)                    date: 2023-11-17 10:36:27
 (epstopdf)                    size: 672822 bytes
 (epstopdf)             Output file: <figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-11-17 12:35:47
+(epstopdf)                    date: 2023-11-17 14:12:59
 (epstopdf)                    size: 15628 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf figures/UoP_Master_Logo_Linear_PMS.eps>
-(epstopdf)             \includegraphics on input line 65.
+(epstopdf)             \includegraphics on input line 66.
 Package epstopdf Info: Output file is already uptodate.
 <figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf, id=300, 421.575pt x 299.1175pt>
 File: figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf>
-Package pdftex.def Info: figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf  used on input line 65.
+Package pdftex.def Info: figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf  used on input line 66.
 (pdftex.def)             Requested size: 227.62204pt x 161.50734pt.
  [1
 
@@ -1063,7 +1084,7 @@ Chapter 2.
 
 
 ]
-<figures/current_apps.pdf, id=510, 845.1575pt x 597.23125pt>
+<figures/current_apps.pdf, id=524, 845.1575pt x 597.23125pt>
 File: figures/current_apps.pdf Graphic file (type pdf)
 <use figures/current_apps.pdf>
 Package pdftex.def Info: figures/current_apps.pdf  used on input line 26.
@@ -1078,12 +1099,12 @@ Package pdftex.def Info: figures/current_apps.pdf  used on input line 46.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [18] [19]
-<figures/bicycle_infrastructure_score_table.jpg, id=577, 926.71219pt x 229.60782pt>
+<figures/bicycle_infrastructure_score_table.jpg, id=591, 926.71219pt x 229.60782pt>
 File: figures/bicycle_infrastructure_score_table.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_score_table.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_score_table.jpg  used on input line 66.
 (pdftex.def)             Requested size: 401.50146pt x 99.47919pt.
-<figures/bicycle_infrastructure_scores.jpg, id=580, 295.3434pt x 161.8848pt>
+<figures/bicycle_infrastructure_scores.jpg, id=594, 295.3434pt x 161.8848pt>
 File: figures/bicycle_infrastructure_scores.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_scores.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_scores.jpg  used on input line 73.
@@ -1121,60 +1142,318 @@ Underfull \vbox (badness 5189) has occurred while \output is active []
 
  (./06-requirements.tex
 Chapter 5.
-<figures/research-application.png, id=630, 1909.88531pt x 847.66687pt>
+
+Underfull \vbox (badness 1472) has occurred while \output is active []
+
+ [25
+
+
+
+
+] [26]
+<figures/research-application.png, id=656, 1909.88531pt x 847.66687pt>
 File: figures/research-application.png Graphic file (type png)
 <use figures/research-application.png>
-Package pdftex.def Info: figures/research-application.png  used on input line 16.
-(pdftex.def)             Requested size: 401.50146pt x 178.19637pt.
-[25
-
-
-
-
- <./figures/research-application.png (PNG copy)>]
-<figures/logarithmic-scoring.png, id=637, 2545.51pt x 1272.755pt>
+Package pdftex.def Info: figures/research-application.png  used on input line 30.
+(pdftex.def)             Requested size: 652.43988pt x 289.57396pt.
+<figures/logarithmic-scoring.png, id=657, 2545.51pt x 1272.755pt>
 File: figures/logarithmic-scoring.png Graphic file (type png)
 <use figures/logarithmic-scoring.png>
-Package pdftex.def Info: figures/logarithmic-scoring.png  used on input line 31.
-(pdftex.def)             Requested size: 401.50146pt x 200.73186pt.
- [26 <./figures/logarithmic-scoring.png>]
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 48--48
+Package pdftex.def Info: figures/logarithmic-scoring.png  used on input line 37.
+(pdftex.def)             Requested size: 652.43988pt x 326.2087pt.
+ [27 <./figures/research-application.png (PNG copy)>] [28 <./figures/logarithmic-scoring.png>]
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 54--54
 []\T1/ptm/m/n/12 Priority| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 53--53
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 59--59
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 68--68
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 74--74
 []\T1/ptm/m/n/12 Priority| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 72--72
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 78--78
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 73--73
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 79--79
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 74--74
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 80--80
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 75--75
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 81--81
 []\T1/ptm/m/n/12 Could| 
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 87--87
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 93--93
 []\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 97--97
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 98--98
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 110--110
+[]\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 112--112
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 113--113
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 114--114
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 115--115
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 116--116
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 128--128
+[]\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 130--130
+[]\T1/ptm/m/n/12 The sys-tem must pro-vide the user with a
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 132--132
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 133--133
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 134--134
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 146--146
+[]\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 150--150
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 151--151
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 152--152
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 164--164
+[]\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 168--168
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+) [29
+
+
+
+] [30] [31]
+\openout2 = `07-design.aux'.
+
+ (./07-design.tex
+Chapter 6.
+) [32
+
+
+
+
+]
+\openout2 = `08-implementation.aux'.
+
+ (./08-implementation.tex
+Chapter 7.
+) [33
+
+
+
+
+]
+\openout2 = `09-testing.aux'.
+
+ (./09-testing.tex
+Chapter 8.
+) [34
+
+
+
+
+]
+\openout2 = `10-evaluation.aux'.
+
+ (./10-evaluation.tex
+Chapter 9.
+) [35
+
+
+
+
+]
+\openout2 = `11-reflection_and_conclusion.aux'.
+
+ (./11-reflection_and_conclusion.tex
+Chapter 10.
+) [36
+
+
+
+
+] [37
+
+
+
+]
+Overfull \hbox (21.26544pt too wide) in paragraph at lines 150--150
+\T1/ptm/m/n/12 cling? [Pub-lisher: Rout-ledge _eprint: https://doi.org/10.1080/21650020.2014.955210].
+ []
+
+[38]
+
+./01-main.tex:150: LaTeX Error: Unicode character С (U+0421)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 
+      
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[39]
+\openout2 = `12-appendix.aux'.
+
+ (./12-appendix.tex
+Appendix A.
+<figures/plotarouteui.png, id=775, 1289.56781pt x 717.43031pt>
+File: figures/plotarouteui.png Graphic file (type png)
+<use figures/plotarouteui.png>
+Package pdftex.def Info: figures/plotarouteui.png  used on input line 4.
+(pdftex.def)             Requested size: 426.79134pt x 237.43146pt.
+<figures/komootui.png, id=776, 1444.64719pt x 733.23938pt>
+File: figures/komootui.png Graphic file (type png)
+<use figures/komootui.png>
+Package pdftex.def Info: figures/komootui.png  used on input line 11.
+(pdftex.def)             Requested size: 426.79134pt x 216.61702pt.
+<figures/gmapsui.png, id=777, 1445.4pt x 730.98094pt>
+File: figures/gmapsui.png Graphic file (type png)
+<use figures/gmapsui.png>
+Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
+(pdftex.def)             Requested size: 426.79134pt x 215.83827pt.
+[40
+
+
+ <./figures/plotarouteui.png (PNG copy)>] [41 <./figures/komootui.png (PNG copy)> <./figures/gmapsui.png (PNG copy)>]
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 32--32
+[]\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 37--37
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 52--52
+[]\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 56--56
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 57--57
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 58--58
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 59--59
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 71--71
+[]\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 75--75
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 76--76
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 88--88
+[]\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 90--90
+[]\T1/ptm/m/n/12 Should| 
  []
 
 
@@ -1188,73 +1467,63 @@ Overfull \hbox (0.88704pt too wide) in paragraph at lines 92--92
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 104--104
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 93--93
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 94--94
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 106--106
 []\T1/ptm/m/n/12 Priority| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 106--106
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 107--107
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 108--108
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 109--109
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 110--110
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 122--122
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Underfull \hbox (badness 1874) in paragraph at lines 124--124
+Underfull \hbox (badness 1874) in paragraph at lines 108--108
 []\T1/ptm/m/n/12 The sys-tem must pro-vide the user with a
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 126--126
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 110--110
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 127--127
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 111--111
 []\T1/ptm/m/n/12 Could| 
  []
 
 
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 128--128
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 112--112
 []\T1/ptm/m/n/12 Could| 
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 140--140
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 124--124
 []\T1/ptm/m/n/12 Priority| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 144--144
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 128--128
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 145--145
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 129--129
 []\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 130--130
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 142--142
+[]\T1/ptm/m/n/12 Priority| 
  []
 
 
@@ -1262,142 +1531,31 @@ Overfull \hbox (5.55505pt too wide) in paragraph at lines 146--146
 []\T1/ptm/m/n/12 Should| 
  []
 
+) [42
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 158--158
-[]\T1/ptm/m/n/12 Priority| 
- []
+] [43] [44] (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix.aux))
 
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 162--162
-[]\T1/ptm/m/n/12 Should| 
- []
-
-) [27
-
-] [28] [29] [30]
-\openout2 = `07-design.aux'.
-
- (./07-design.tex
-Chapter 6.
-) [31
-
-
-
-
-]
-\openout2 = `08-implementation.aux'.
-
- (./08-implementation.tex
-Chapter 7.
-) [32
-
-
-
-
-]
-\openout2 = `09-testing.aux'.
-
- (./09-testing.tex
-Chapter 8.
-) [33
-
-
-
-
-]
-\openout2 = `10-evaluation.aux'.
-
- (./10-evaluation.tex
-Chapter 9.
-) [34
-
-
-
-
-]
-\openout2 = `11-reflection_and_conclusion.aux'.
-
- (./11-reflection_and_conclusion.tex
-Chapter 10.
-) [35
-
-
-
-
-] [36
-
-
-
-]
-Overfull \hbox (21.26544pt too wide) in paragraph at lines 149--149
-\T1/ptm/m/n/12 cling? [Pub-lisher: Rout-ledge _eprint: https://doi.org/10.1080/21650020.2014.955210].
- []
-
-[37]
-
-./01-main.tex:149: LaTeX Error: Unicode character С (U+0421)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.149 
-      
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[38]
-\openout2 = `12-appendix.aux'.
-
- (./12-appendix.tex
-Appendix A.
-<figures/plotarouteui.png, id=755, 1289.56781pt x 717.43031pt>
-File: figures/plotarouteui.png Graphic file (type png)
-<use figures/plotarouteui.png>
-Package pdftex.def Info: figures/plotarouteui.png  used on input line 4.
-(pdftex.def)             Requested size: 426.79134pt x 237.43146pt.
-<figures/komootui.png, id=756, 1444.64719pt x 733.23938pt>
-File: figures/komootui.png Graphic file (type png)
-<use figures/komootui.png>
-Package pdftex.def Info: figures/komootui.png  used on input line 11.
-(pdftex.def)             Requested size: 426.79134pt x 216.61702pt.
-<figures/gmapsui.png, id=757, 1445.4pt x 730.98094pt>
-File: figures/gmapsui.png Graphic file (type png)
-<use figures/gmapsui.png>
-Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
-(pdftex.def)             Requested size: 426.79134pt x 215.83827pt.
-) [39
-
-
- <./figures/plotarouteui.png (PNG copy)>] [40 <./figures/komootui.png (PNG copy)> <./figures/gmapsui.png (PNG copy)>] (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix.aux))
-
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `01-main.out' has not changed.
-(rerunfilecheck)             Checksum: E9E0F8202E337FDCC2802A4693A13223;10631.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                01-main
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: F0955599640F76B52FB14D64265DE48F;10681.
 Package logreq Info: Writing requests to '01-main.run.xml'.
 \openout1 = `01-main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24762 strings out of 477985
- 453984 string characters out of 5840057
- 1876388 words of memory out of 5000000
+ 24774 strings out of 477985
+ 454136 string characters out of 5840057
+ 1881388 words of memory out of 5000000
  44325 multiletter control sequences out of 15000+600000
  557556 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,12n,92p,2192b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (40 pages, 4168440 bytes).
+Output written on 01-main.pdf (44 pages, 4174964 bytes).
 PDF statistics:
- 822 PDF objects out of 1000 (max. 8388607)
- 745 compressed objects within 8 object streams
- 173 named destinations out of 1000 (max. 500000)
+ 859 PDF objects out of 1000 (max. 8388607)
+ 778 compressed objects within 8 object streams
+ 185 named destinations out of 1000 (max. 500000)
  642 words of extra memory for PDF output out of 10000 (max. 10000000)
 
