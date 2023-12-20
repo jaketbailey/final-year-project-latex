@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.12)  20 DEC 2023 12:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.12)  20 DEC 2023 12:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1534,10 +1534,6 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `01-main.out' has not changed.
 (rerunfilecheck)             Checksum: F0955599640F76B52FB14D64265DE48F;10681.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to '01-main.run.xml'.
 \openout1 = `01-main.run.xml'.
 
