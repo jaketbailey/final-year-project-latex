@@ -30,44 +30,44 @@
 \contentsline {section}{\numberline {5.1}Requirements Gathering}{25}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Identifying Users}{25}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Requirements Specification}{26}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Elicited Requirements}{29}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Design}{32}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Architecture Design}{32}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Client-Server Architecture?}{32}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Alternative Architecture Patterns}{32}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Architecture Diagram}{32}{subsection.6.1.3}%
-\contentsline {section}{\numberline {6.2}System Design}{32}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}REST API}{32}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Open Weather Map API}{32}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}OSRM (Open Source Routing Machine)}{32}{subsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.2.4}Google Distance Matrix API}{32}{subsection.6.2.4}%
-\contentsline {subsection}{\numberline {6.2.5}Use Case Diagrams}{32}{subsection.6.2.5}%
-\contentsline {subsection}{\numberline {6.2.6}Hierarchical Task Analysis (HTA)}{32}{subsection.6.2.6}%
-\contentsline {section}{\numberline {6.3}User Interface Design}{32}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Low Fidelity Prototype}{32}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}High Fidelity Prototype}{32}{subsection.6.3.2}%
-\contentsline {section}{\numberline {6.4}Database Design}{32}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Users}{32}{subsection.6.4.1}%
-\contentsline {chapter}{\numberline {7}Implementation}{33}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Development Environment}{33}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Programming Languages}{33}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Database}{33}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Increments}{33}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Increment 1}{33}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Increment 2}{33}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Increment 3}{33}{subsection.7.4.3}%
-\contentsline {section}{\numberline {7.5}Documentation and Linting}{33}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Challenges and limitations}{33}{section.7.6}%
-\contentsline {chapter}{\numberline {8}Testing}{34}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Unit Testing}{34}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Testing here}{34}{subsection.8.1.1}%
-\contentsline {section}{\numberline {8.2}Postman}{34}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{34}{section.8.3}%
-\contentsline {chapter}{\numberline {9}Evaluation}{35}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{35}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Evaluation Process}{35}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Evaluating Requirements}{35}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Future Work}{35}{section.9.4}%
-\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{36}{chapter.10}%
-\contentsline {chapter}{References}{37}{section*.21}%
-\contentsline {chapter}{\numberline {A}Appendix}{40}{appendix.A}%
+\contentsline {section}{\numberline {5.4}Elicited Requirements}{28}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Design}{31}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Architecture Design}{31}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Client-Server Architecture?}{31}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Alternative Architecture Patterns}{31}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Architecture Diagram}{31}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}System Design}{31}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}REST API}{31}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Open Weather Map API}{31}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}OSRM (Open Source Routing Machine)}{31}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Google Distance Matrix API}{31}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Use Case Diagrams}{31}{subsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.2.6}Hierarchical Task Analysis (HTA)}{31}{subsection.6.2.6}%
+\contentsline {section}{\numberline {6.3}User Interface Design}{31}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Low Fidelity Prototype}{31}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}High Fidelity Prototype}{31}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Database Design}{31}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Users}{31}{subsection.6.4.1}%
+\contentsline {chapter}{\numberline {7}Implementation}{32}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Development Environment}{32}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Programming Languages}{32}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Database}{32}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Increments}{32}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Increment 1}{32}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Increment 2}{32}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Increment 3}{32}{subsection.7.4.3}%
+\contentsline {section}{\numberline {7.5}Documentation and Linting}{32}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Challenges and limitations}{32}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Testing}{33}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Unit Testing}{33}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Testing here}{33}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}Postman}{33}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{33}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Evaluation}{34}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{34}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Evaluation Process}{34}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Evaluating Requirements}{34}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Future Work}{34}{section.9.4}%
+\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{35}{chapter.10}%
+\contentsline {chapter}{References}{36}{section*.21}%
+\contentsline {chapter}{\numberline {A}Appendix}{39}{appendix.A}%
