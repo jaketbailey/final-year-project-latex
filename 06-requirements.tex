@@ -1,7 +1,7 @@
 \chapter{Requirements}
 \label{chap:requirements}
 
-The identification of requirements was critical to the success of the project. Primary research was undertaken to gather an understanding of real user preferences from a list of proposed functionalities as to understand their wants and needs of the application. It was critical to declare clear and concise requirements to ensure absolute clarity thooughout the project. This chapter discusses all methods undertaken to gather requirements, including the final requirements found as a result of this process.
+The identification of requirements was critical to the success of the project. Primary research was undertaken to gather an understanding of real user preferences from a list of proposed functionalities as to understand their wants and needs of the application. It was critical to declare clear and concise requirements to ensure absolute clarity throughout the project. This chapter discusses all methods undertaken to gather requirements, including the final requirements found as a result of this process.
 
 \section{Requirements Gathering}
 \label{requirements:gathering}
@@ -47,7 +47,7 @@ The elicited requirements were a direct result of discussions with the client an
 \begin{table}[!htb]
 \caption{User Story 01}
 \label{tab:user-story-01}
-\begin{tabular}{ p{8cm} p{1cm}  p{1cm} }
+\begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
 \hline
 \multicolumn{3}{p{13cm}}{As a user, I want a page that allows me to configure my starting and destination location to plan a route.}\\ 
 \hline
@@ -65,7 +65,7 @@ The route configuration page must plan the route once two or more locations are 
 \begin{table}[!htb]
 \caption{User Story 02}
 \label{tab:user-story-02}
-\begin{tabular}{ p{8cm} p{1cm}  p{1cm} }
+\begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
 \hline
 \multicolumn{3}{p{13cm}}{As a user, I want to change preferences to allow me to customise the route, including avoiding certain road types and road altitudes.}\\ 
 \hline
@@ -84,7 +84,7 @@ The update preferences overlay must provide a 'round trip' user input field. & C
 \begin{table}[!htb]
 \caption{User Story 03}
 \label{tab:user-story-03}
-\begin{tabular}{ p{8cm} p{1cm}  p{1cm} }
+\begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
 \hline
 \multicolumn{3}{p{13cm}}{As a user, I want to be able to export the planned route for use on my mobile phone or GPS device.}\\ 
 \hline
@@ -101,7 +101,7 @@ The system must provide an export online (to Google Drive, OneDrive and/or other
 \begin{table}[!htb]
 \caption{User Story 04}
 \label{tab:user-story-04}
-\begin{tabular}{ p{8cm} p{1cm}  p{1cm} }
+\begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
 \hline
 \multicolumn{3}{p{13cm}}{As a user, I want to share my route with other people.}\\ 
 \hline
@@ -117,7 +117,7 @@ The system must provide an option to share the route direct to Strava. & Could &
 \begin{table}[!htb]
 \caption{User Story 05}
 \label{tab:user-story-05}
-\begin{tabular}{ p{8cm} p{1cm}  p{1cm} }
+\begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
 \hline
 \multicolumn{3}{p{13cm}}{As a user, I want to be provided with route suggestions based on predicted weather conditions over the week.}\\ 
 \hline
@@ -136,7 +136,7 @@ An option to include weather in route planning should be provided, ensuring the 
 \begin{table}[!htb]
 \caption{User Story 06}
 \label{tab:user-story-06}
-\begin{tabular}{ p{8cm} p{1cm}  p{1cm} }
+\begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
 \hline
 \multicolumn{3}{p{13cm}}{As a user, I want to view the route in detail and get information about parts of the route.}\\ 
 \hline
@@ -146,9 +146,9 @@ The system must provide the user with an interactive map to display the planned 
 The interactive map must allow the user to zoom into parts of the planned route. & Must & SR26\\
 The interactive map must allow the user to select parts of the route and receive detailed information about that subsection of the route. & Should & SR27\\
 The interactive map must allow the user to select and drag the planned route to modify its path. & Should & SR28\\ 
-The system must display an elevation graph for the planned route beneath the interactive map. & Should & SR28\\
-The system must allow the user to measuer chosen sections of the route & Must & SR29\\
-The system must provide multiple map layers to give users the greater options when viewing the route & Must & SR30\\ 
+The system must display an elevation graph for the planned route beneath the interactive map. & Should & SR29\\
+The system must allow the user to measuer chosen sections of the route & Must & SR30\\
+The system must provide multiple map layers to give users the greater options when viewing the route & Must & SR31\\ 
 \hline
 \end{tabular}
 \end{table}
@@ -156,20 +156,69 @@ The system must provide multiple map layers to give users the greater options wh
 \begin{table}[!htb]
 \caption{User Story 07}
 \label{tab:user-story-07}
-\begin{tabular}{ p{8cm} p{1cm}  p{1cm} }
+\begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
 \hline
 \multicolumn{3}{p{13cm}}{As a user, I want the ability to add and utilise hazard/infrastructure waypoints ot be considered in route planning.}\\ 
 \hline
 Acceptance Criteria / System Requirements & Priority & ID\\
 \hline
-The system must provide a user input modal to input Hazard and Infrastructure Data. & Must & SR31 \\
-The hazard input modal must provide a Type drop-down menu based on the OSM Hazard Types. & Must & SR32\\
-The hazard input modal must provide a date entry point to specify the date the hazard was seen. & Should & SR33\\
-The hazard input modal must provide a submit button to add the hazard to the hazard index. & Must & SR34\\
-The infrastructure input modal must provide a Type drop-down menu with different types of cycling/road infrastructure & Must & SR35\\
-The infrastructure input modal must provide a date entry point to specify when the bad infrastructure was found & Must & SR36\\
-The infrastructure input modal must provide an input box providing the user with the option to supply more detail & Should & SR37\\
-Both Hazard and Infrastructure data should be displayed on the map, with an option to toggle on/off, and report errors & Should & SR38\\
+The system must provide a user input modal to input Hazard and Infrastructure Data. & Must & SR32 \\
+The hazard input modal must provide a Type drop-down menu based on the OSM Hazard Types. & Must & SR33\\
+The hazard input modal must provide a date entry point to specify the date the hazard was seen. & Should & SR34\\
+The hazard input modal must provide a submit button to add the hazard to the hazard index. & Must & SR35\\
+The infrastructure input modal must provide a Type drop-down menu with different types of cycling/road infrastructure & Must & SR36\\
+The infrastructure input modal must provide a date entry point to specify when the bad infrastructure was found & Must & SR37\\
+The infrastructure input modal must provide an input box providing the user with the option to supply more detail & Should & SR38\\
+Both Hazard and Infrastructure data should be displayed on the map, with an option to toggle on/off, and report errors & Should & SR39\\
 \hline
 \end{tabular}
+\end{table}
+
+\begin{table}[!htb]
+  \caption{User Story 08}
+  \label{tab:user-story-08}
+  \begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
+  \hline
+  \multicolumn{3}{p{13cm}}{As a user, I want to be able to view key waypoints along the jouney such as, accommodation and key tourist points.}\\ 
+  \hline
+  Acceptance Criteria / System Requirements & Priority & ID\\
+  \hline
+  The system must provide a map layer to include key waypoints. & Must & SR40 \\
+  The waypoint layer must provide locations of accommodation along the route. & Must & SR41\\
+  The waypoint layer must provide locations of tourist points along the route & Should & SR42\\
+  The waypoint layers must be able to be toggled on and off & Must & SR43\\
+  Each waypoint must be clickable to provide extra detail on each point & Must & SR44\\
+  Each waypoint must have a button to add stop along the route and the route will be re-plotted via the waypoint. & Should & SR45\\
+  \hline
+  \end{tabular}
+\end{table}
+
+\begin{table}[!htb]
+  \caption{User Story 09}
+  \label{tab:user-story-09}
+  \begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
+  \hline
+  \multicolumn{3}{p{13cm}}{As a user, I want select what type of cyclist I am, for example road cyclist and commuter cyclist.}\\ 
+  \hline
+  Acceptance Criteria / System Requirements & Priority & ID\\
+  \hline
+  The system must provide an option within the route planning modal to select the rider type. & Must & SR46\\
+  The system must provide an option within the route planning modal to select the fitness level of the rider. & Should & SR47\\
+  \hline
+  \end{tabular}
+\end{table}
+
+\begin{table}[!htb]
+  \caption{User Story 10}
+  \label{tab:user-story-10}
+  \begin{tabular}{ p{11cm} p{1cm}  p{1cm} }
+  \hline
+  \multicolumn{3}{p{13cm}}{As a user, I to be able pre-planned routes from other applications.}\\ 
+  \hline
+  Acceptance Criteria / System Requirements & Priority & ID\\
+  \hline
+  The system must provide an import option for GPX files. & Should & SR48\\
+  The system must provide an import option for GeoJSON files. & Should & SR49\\
+  \hline
+  \end{tabular}
 \end{table}
