@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.12)  20 DEC 2023 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.13)  21 DEC 2023 09:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -861,10 +861,10 @@ Package hyperref Info: Link coloring OFF on input line 60.
 \openout5 = `01-main.out'.
 
 Package epstopdf Info: Source file: <figures/UoP_Master_Logo_Linear_PMS.eps>
-(epstopdf)                    date: 2023-11-17 10:36:27
+(epstopdf)                    date: 2023-11-17 12:34:52
 (epstopdf)                    size: 672822 bytes
 (epstopdf)             Output file: <figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-11-17 14:12:59
+(epstopdf)                    date: 2023-11-17 12:35:47
 (epstopdf)                    size: 15628 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf figures/UoP_Master_Logo_Linear_PMS.eps>
 (epstopdf)             \includegraphics on input line 65.
@@ -1582,7 +1582,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  94i,12n,92p,2192b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (44 pages, 4241657 bytes).
+Output written on 01-main.pdf (44 pages, 4241697 bytes).
 PDF statistics:
  887 PDF objects out of 1000 (max. 8388607)
  800 compressed objects within 8 object streams
