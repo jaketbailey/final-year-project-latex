@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.13)  21 DEC 2023 10:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  23 JAN 2024 15:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**01-main
-(./01-main.tex
+**/home/jakeb/git/final-year-project-latex/01-main.tex
+(/home/jakeb/git/final-year-project-latex/01-main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./abdnthesis.cls
 Document Class: abdnthesis 2013/08/11 2.3 ABDN Thesis Class
@@ -745,7 +745,11 @@ Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix-a.aux) (./13-appendix-b.aux
+ (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux
+
+LaTeX Warning: Label `tab:user-story-10' multiply defined.
+
+) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix-a.aux) (./13-appendix-b.aux
 
 LaTeX Warning: Label `tab:user-story-01' multiply defined.
 
@@ -861,10 +865,10 @@ Package hyperref Info: Link coloring OFF on input line 60.
 \openout5 = `01-main.out'.
 
 Package epstopdf Info: Source file: <figures/UoP_Master_Logo_Linear_PMS.eps>
-(epstopdf)                    date: 2023-11-17 12:34:52
+(epstopdf)                    date: 2024-01-09 21:48:08
 (epstopdf)                    size: 672822 bytes
 (epstopdf)             Output file: <figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-11-17 12:35:47
+(epstopdf)                    date: 2024-01-09 21:48:08
 (epstopdf)                    size: 15628 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf figures/UoP_Master_Logo_Linear_PMS.eps>
 (epstopdf)             \includegraphics on input line 65.
@@ -1085,13 +1089,13 @@ Chapter 2.
 
 
 ]
-<figures/current_apps.pdf, id=540, 845.1575pt x 597.23125pt>
+<figures/current_apps.pdf, id=542, 845.1575pt x 597.23125pt>
 File: figures/current_apps.pdf Graphic file (type pdf)
 <use figures/current_apps.pdf>
 Package pdftex.def Info: figures/current_apps.pdf  used on input line 26.
 (pdftex.def)             Requested size: 426.79134pt x 301.59483pt.
  [17 <./figures/current_apps.pdf>]
-<figures/current_apps_post_research.pdf, id=577, 845.1575pt x 597.23125pt>
+<figures/current_apps_post_research.pdf, id=579, 845.1575pt x 597.23125pt>
 File: figures/current_apps_post_research.pdf Graphic file (type pdf)
 <use figures/current_apps_post_research.pdf>
 Package pdftex.def Info: figures/current_apps_post_research.pdf  used on input line 46.
@@ -1101,12 +1105,12 @@ Package pdftex.def Info: figures/current_apps_post_research.pdf  used on input l
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [18] [19 <./figures/current_apps_post_research.pdf>]
-<figures/bicycle_infrastructure_score_table.jpg, id=626, 926.71219pt x 229.60782pt>
+<figures/bicycle_infrastructure_score_table.jpg, id=628, 926.71219pt x 229.60782pt>
 File: figures/bicycle_infrastructure_score_table.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_score_table.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_score_table.jpg  used on input line 66.
 (pdftex.def)             Requested size: 401.50146pt x 99.47919pt.
-<figures/bicycle_infrastructure_scores.jpg, id=629, 295.3434pt x 161.8848pt>
+<figures/bicycle_infrastructure_scores.jpg, id=631, 295.3434pt x 161.8848pt>
 File: figures/bicycle_infrastructure_scores.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_scores.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_scores.jpg  used on input line 73.
@@ -1153,497 +1157,13 @@ Underfull \vbox (badness 1472) has occurred while \output is active []
 
 
 ]
-<figures/logarithmic-scoring.png, id=687, 1888.05376pt x 943.525pt>
+<figures/logarithmic-scoring.png, id=689, 1888.05376pt x 943.525pt>
 File: figures/logarithmic-scoring.png Graphic file (type png)
 <use figures/logarithmic-scoring.png>
 Package pdftex.def Info: figures/logarithmic-scoring.png  used on input line 29.
 (pdftex.def)             Requested size: 401.50146pt x 200.63678pt.
-<figures/research-application.png, id=689, 1802.735pt x 1993.4475pt>
+<figures/research-application.png, id=691, 1802.735pt x 1993.4475pt>
 File: figures/research-application.png Graphic file (type png)
 <use figures/research-application.png>
 Package pdftex.def Info: figures/research-application.png  used on input line 36.
-(pdftex.def)             Requested size: 401.50146pt x 443.97414pt.
- [26 <./figures/logarithmic-scoring.png>] [27 <./figures/research-application.png>]
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 54--54
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 72--72
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 76--76
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 77--77
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 78--78
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 79--79
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 91--91
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 95--95
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 108--108
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 110--110
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 111--111
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 112--112
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 124--124
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 128--128
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 129--129
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 130--130
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 131--131
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 143--143
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 147--147
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 148--148
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 149--149
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 163--163
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 167--167
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 171--171
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 172--172
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 184--184
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 188--188
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 191--191
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 203--203
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 206--206
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 218--218
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 220--220
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 221--221
-[]\T1/ptm/m/n/12 Should| 
- []
-
-) [28
-
-] [29] [30] [31]
-\openout2 = `07-design.aux'.
-
- (./07-design.tex
-Chapter 6.
-) [32
-
-
-
-
-]
-\openout2 = `08-implementation.aux'.
-
- (./08-implementation.tex
-Chapter 7.
-) [33
-
-
-
-
-]
-\openout2 = `09-testing.aux'.
-
- (./09-testing.tex
-Chapter 8.
-) [34
-
-
-
-
-]
-\openout2 = `10-evaluation.aux'.
-
- (./10-evaluation.tex
-Chapter 9.
-) [35
-
-
-
-
-]
-\openout2 = `11-reflection_and_conclusion.aux'.
-
- (./11-reflection_and_conclusion.tex
-Chapter 10.
-) [36
-
-
-
-
-] [37
-
-
-
-]
-Overfull \hbox (21.26544pt too wide) in paragraph at lines 149--149
-\T1/ptm/m/n/12 cling? [Pub-lisher: Rout-ledge _eprint: https://doi.org/10.1080/21650020.2014.955210].
- []
-
-[38]
-
-./01-main.tex:149: LaTeX Error: Unicode character С (U+0421)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.149 
-      
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[39]
-\openout2 = `12-appendix-a.aux'.
-
- (./12-appendix-a.tex
-Appendix A.
-<figures/plotarouteui.png, id=812, 1289.56781pt x 717.43031pt>
-File: figures/plotarouteui.png Graphic file (type png)
-<use figures/plotarouteui.png>
-Package pdftex.def Info: figures/plotarouteui.png  used on input line 4.
-(pdftex.def)             Requested size: 426.79134pt x 237.43146pt.
-<figures/komootui.png, id=813, 1444.64719pt x 733.23938pt>
-File: figures/komootui.png Graphic file (type png)
-<use figures/komootui.png>
-Package pdftex.def Info: figures/komootui.png  used on input line 11.
-(pdftex.def)             Requested size: 426.79134pt x 216.61702pt.
-<figures/gmapsui.png, id=814, 1445.4pt x 730.98094pt>
-File: figures/gmapsui.png Graphic file (type png)
-<use figures/gmapsui.png>
-Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
-(pdftex.def)             Requested size: 426.79134pt x 215.83827pt.
-) [40
-
-
- <./figures/plotarouteui.png (PNG copy)>] [41 <./figures/komootui.png (PNG copy)> <./figures/gmapsui.png (PNG copy)>]
-\openout2 = `13-appendix-b.aux'.
-
- (./13-appendix-b.tex
-Appendix B.
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 9--9
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 14--14
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 29--29
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 33--33
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 34--34
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 35--35
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 36--36
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 48--48
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 52--52
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 53--53
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 65--65
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 67--67
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 68--68
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 69--69
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 70--70
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 71--71
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 83--83
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 87--87
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 88--88
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 89--89
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 101--101
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 105--105
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 106--106
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 107--107
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 119--119
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 123--123
-[]\T1/ptm/m/n/12 Should| 
- []
-
-) [42
-
-
-
-
-] [43] [44]
-\openout2 = `14-appendix-c.aux'.
-
- (./14-appendix-c.tex
-Appendix C.
-<figures/ethics_certificate.pdf, id=836, 598.235pt x 845.1575pt>
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf>
-Package pdftex.def Info: figures/ethics_certificate.pdf  used on input line 2.
-(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf>
-Package pdftex.def Info: figures/ethics_certificate.pdf  used on input line 2.
-(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<figures/ethics_certificate.pdf, id=839, page=1, 598.235pt x 845.1575pt>
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf, page 1>
-Package pdftex.def Info: figures/ethics_certificate.pdf , page1 used on input line 2.
-(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf, page 1>
-Package pdftex.def Info: figures/ethics_certificate.pdf , page1 used on input line 2.
-(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
-[45
-
-
-
-
-]
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf, page 1>
-Package pdftex.def Info: figures/ethics_certificate.pdf , page1 used on input line 2.
-(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf, page 1>
-Package pdftex.def Info: figures/ethics_certificate.pdf , page1 used on input line 2.
-(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf, page 1>
-Package pdftex.def Info: figures/ethics_certificate.pdf , page1 used on input line 2.
-(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
- [46 <./figures/ethics_certificate.pdf>]
-<figures/ethics_certificate.pdf, id=862, page=2, 598.235pt x 845.1575pt>
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf, page 2>
-Package pdftex.def Info: figures/ethics_certificate.pdf , page2 used on input line 2.
-(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf, page 2>
-Package pdftex.def Info: figures/ethics_certificate.pdf , page2 used on input line 2.
-(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
-File: figures/ethics_certificate.pdf Graphic file (type pdf)
-<use figures/ethics_certificate.pdf, page 2>
-Package pdftex.def Info: figures/ethics_certificate.pdf , page2 used on input line 2.
-(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
- [47 <./figures/ethics_certificate.pdf>]) (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix-a.aux) (./13-appendix-b.aux) (./14-appendix-c.aux))
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package rerunfilecheck Info: File `01-main.out' has not changed.
-(rerunfilecheck)             Checksum: FC5F325CEE66F5F3ACD9B9502B38BD45;11043.
-Package logreq Info: Writing requests to '01-main.run.xml'.
-\openout1 = `01-main.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 24865 strings out of 477985
- 457053 string characters out of 5840057
- 1887388 words of memory out of 5000000
- 44392 multiletter control sequences out of 15000+600000
- 557556 words of font info for 81 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 94i,17n,92p,2192b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (47 pages, 4322819 bytes).
-PDF statistics:
- 928 PDF objects out of 1000 (max. 8388607)
- 827 compressed objects within 9 object streams
- 192 named destinations out of 1000 (max. 500000)
- 688 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+(pdftex.def)             Requested size: 40
