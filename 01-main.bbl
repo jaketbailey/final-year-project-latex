@@ -83,7 +83,7 @@
       \verb{url}
       \verb https://www.mdpi.com/2071-1050/9/2/241
       \endverb
-      \keyw{cycling,bicycle,bicycle infrastructure,place,siting,stakeholder engagement,sustainability science,transportation planning,urban,urban planning}
+      \keyw{bicycle,bicycle infrastructure,cycling,place,siting,stakeholder engagement,sustainability science,transportation planning,urban,urban planning}
     \endentry
     \entry{dapeng_liu_case_2011}{article}{}
       \name{author}{3}{}{%
@@ -345,6 +345,26 @@
       \verb https://www.google.com/maps
       \endverb
     \endentry
+    \entry{noauthor_home_nodate}{online}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Home - Google Drive}
+      \field{urlday}{2}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Home - Google Drive:/home/jakeb/Zotero/storage/ICVKKAUG/home.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://drive.google.com/drive/u/0/home
+      \endverb
+      \verb{url}
+      \verb https://drive.google.com/drive/u/0/home
+      \endverb
+    \endentry
     \entry{hong_can_2020}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=caba6a78f040a898be562fa724fbdd9f}{%
@@ -469,6 +489,45 @@
       \endverb
       \keyw{accompanied ride-alongs,bicycle infrastructure design,comfort and convenience,perception of safety,promoting cycling}
     \endentry
+    \entry{international_garmin_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30a5657ff963aaec310199047970c187}{%
+           family={International},
+           familyi={I\bibinitperiod},
+           given={Garmin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{30a5657ff963aaec310199047970c187}
+      \strng{fullhash}{30a5657ff963aaec310199047970c187}
+      \strng{bibnamehash}{30a5657ff963aaec310199047970c187}
+      \strng{authorbibnamehash}{30a5657ff963aaec310199047970c187}
+      \strng{authornamehash}{30a5657ff963aaec310199047970c187}
+      \strng{authorfullhash}{30a5657ff963aaec310199047970c187}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Running, walking, cycling, swimming, skiing, triathlons – no matter how you move, you can record your active lifestyle on Garmin Connect. It’s the only online community created specifically for Garmin devices.}
+      \field{langid}{british}
+      \field{title}{Garmin Connect {|} Free Online Fitness Community}
+      \field{titleaddon}{Garmin Connect}
+      \field{urlday}{2}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/XGMGQAL3/connect.garmin.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://connect.garmin.com/
+      \endverb
+      \verb{url}
+      \verb https://connect.garmin.com/
+      \endverb
+    \endentry
     \entry{noauthor_komoot_nodate}{online}{}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
@@ -504,11 +563,34 @@
       \field{urlmonth}{11}
       \field{urlyear}{2023}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/D5HNWBUR/leafletjs.com.html:text/html
+      \endverb
       \verb{urlraw}
       \verb https://leafletjs.com/
       \endverb
       \verb{url}
       \verb https://leafletjs.com/
+      \endverb
+    \endentry
+    \entry{noauthor_marvel_nodate}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Marvel - The design platform for digital products. Get started for free.}
+      \field{urlday}{2}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Marvel - The design platform for digital products. Get started for free.:/home/jakeb/Zotero/storage/W7T2K2DY/marvelapp.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://marvelapp.com/
+      \endverb
+      \verb{url}
+      \verb https://marvelapp.com/
       \endverb
     \endentry
     \entry{noauthor_material_nodate}{online}{}
@@ -584,7 +666,7 @@
       \verb 10.3141/2247-06
       \endverb
       \verb{file}
-      \verb Full Text PDF:/home/jakeb/Zotero/storage/U7AMSLWE/Miranda-Moreno and Nosal - 2011 - Weather or Not to C "latex-workshop.latex.recipes": [ { "name": "PDFLaTeX", "tools": [ "pdflatex", "biber", "pdflatex", "pdflatex" ] },ycle Temporal Trends and Impac.pdf:application/pdf
+      \verb Full Text PDF:/home/jakeb/Zotero/storage/U7AMSLWE/Miranda-Moreno and Nosal - 2011 - Weather or Not to Cycle Temporal Trends and Impac.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.3141/2247-06
@@ -905,7 +987,7 @@
       \verb{url}
       \verb https://www.mdpi.com/2071-1050/9/2/241
       \endverb
-      \keyw{cycling,bicycle,bicycle infrastructure,place,siting,stakeholder engagement,sustainability science,transportation planning,urban,urban planning}
+      \keyw{bicycle,bicycle infrastructure,cycling,place,siting,stakeholder engagement,sustainability science,transportation planning,urban,urban planning}
     \endentry
     \entry{dapeng_liu_case_2011}{article}{}
       \name{author}{3}{}{%
@@ -1167,6 +1249,26 @@
       \verb https://www.google.com/maps
       \endverb
     \endentry
+    \entry{noauthor_home_nodate}{online}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Home - Google Drive}
+      \field{urlday}{2}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Home - Google Drive:/home/jakeb/Zotero/storage/ICVKKAUG/home.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://drive.google.com/drive/u/0/home
+      \endverb
+      \verb{url}
+      \verb https://drive.google.com/drive/u/0/home
+      \endverb
+    \endentry
     \entry{hong_can_2020}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=caba6a78f040a898be562fa724fbdd9f}{%
@@ -1291,6 +1393,45 @@
       \endverb
       \keyw{accompanied ride-alongs,bicycle infrastructure design,comfort and convenience,perception of safety,promoting cycling}
     \endentry
+    \entry{international_garmin_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30a5657ff963aaec310199047970c187}{%
+           family={International},
+           familyi={I\bibinitperiod},
+           given={Garmin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{30a5657ff963aaec310199047970c187}
+      \strng{fullhash}{30a5657ff963aaec310199047970c187}
+      \strng{bibnamehash}{30a5657ff963aaec310199047970c187}
+      \strng{authorbibnamehash}{30a5657ff963aaec310199047970c187}
+      \strng{authornamehash}{30a5657ff963aaec310199047970c187}
+      \strng{authorfullhash}{30a5657ff963aaec310199047970c187}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Running, walking, cycling, swimming, skiing, triathlons – no matter how you move, you can record your active lifestyle on Garmin Connect. It’s the only online community created specifically for Garmin devices.}
+      \field{langid}{british}
+      \field{title}{Garmin Connect {|} Free Online Fitness Community}
+      \field{titleaddon}{Garmin Connect}
+      \field{urlday}{2}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/XGMGQAL3/connect.garmin.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://connect.garmin.com/
+      \endverb
+      \verb{url}
+      \verb https://connect.garmin.com/
+      \endverb
+    \endentry
     \entry{noauthor_komoot_nodate}{online}{}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
@@ -1326,11 +1467,34 @@
       \field{urlmonth}{11}
       \field{urlyear}{2023}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/D5HNWBUR/leafletjs.com.html:text/html
+      \endverb
       \verb{urlraw}
       \verb https://leafletjs.com/
       \endverb
       \verb{url}
       \verb https://leafletjs.com/
+      \endverb
+    \endentry
+    \entry{noauthor_marvel_nodate}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Marvel - The design platform for digital products. Get started for free.}
+      \field{urlday}{2}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Marvel - The design platform for digital products. Get started for free.:/home/jakeb/Zotero/storage/W7T2K2DY/marvelapp.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://marvelapp.com/
+      \endverb
+      \verb{url}
+      \verb https://marvelapp.com/
       \endverb
     \endentry
     \entry{noauthor_material_nodate}{online}{}
@@ -1406,7 +1570,7 @@
       \verb 10.3141/2247-06
       \endverb
       \verb{file}
-      \verb Full Text PDF:/home/jakeb/Zotero/storage/U7AMSLWE/Miranda-Moreno and Nosal - 2011 - Weather or Not to C "latex-workshop.latex.recipes": [ { "name": "PDFLaTeX", "tools": [ "pdflatex", "biber", "pdflatex", "pdflatex" ] },ycle Temporal Trends and Impac.pdf:application/pdf
+      \verb Full Text PDF:/home/jakeb/Zotero/storage/U7AMSLWE/Miranda-Moreno and Nosal - 2011 - Weather or Not to Cycle Temporal Trends and Impac.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.3141/2247-06

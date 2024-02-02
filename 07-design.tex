@@ -1,50 +1,72 @@
 \chapter{Design}
 \label{chap:design}
 
-\section{Architecture Design}
-\label{design:architecture}
+This chapter explains the design process undertaken considering both the research found within the literature review \see{chap:litrev} and the established requirements \see{chap:requirements}.
+\section{Assumptions and Decisions Taken}
+\label{design:assumptions/decisions}
 
-\subsection{Client-Server Architecture?}
-\label{architecture:client-server}
+Discussions with the client required specific assumptions and decisions to be made to assit in the project's overall development and progression.
 
-\subsection{Alternative Architecture Patterns}
-\label{architecture:alt}
+A decision was made to build the application as a web app, primarily to aid with accessibility and device compatibility of the artefact, this type of application also opens the artefact up to a large pre-existing userbase with greater ease. Different screen sizes have been acommodated for with the use of CSS media queries, however the artefact is aimed at desktop route planning, with the potential to be expanded to support mobile devices in the future. 
 
-\subsection{Architecture Diagram}
-\label{architecture:diagram}
+It was assumed that the target users would have a preexisting knolwedge of route planning and had used similar systems in the past. Due to this, instructions to use the application were not provided as a part of the artefact. Futhermore, a minimal user interface approach was used when developing the artefact to ensure the apps ease of use, whilst enabling key custom route planning functionality \see{design:ui}.
 
-\section{System Design}
-\label{design:sysdesign}
+Research was undertaken into different available open source routing algorithms, finally deciding to implement Open Route Service (\cite{noauthor_openrouteservice_nodate}) due to its customisability and native support of round trip route planning.
 
-\subsection{REST API}
-\label{sysdesign:restapi}
+Specific data sets were stored within the browser LocalStorage, this was chosen for certain data such as user authentication tokens, last route plotted and other data which needed storing between browser sessions. Data sets such as the previous planned route (and related data sets) enabled the user to load the previous route when opening the application after having closed the tab/browser previously. Other data sets such as user tokens, enabled the application to remain logged into external services such as Strava (\cite{noauthor_strava_nodate}), Garmin Connect (\cite{international_garmin_nodate}) and Google Drive (\cite{noauthor_home_nodate}), only requiring the user to reauthenticate once these tokens had expired.
 
-\subsection{Open Weather Map API}
-\label{sysdesign:owm-api}
+\section{User Interface}
+\label{design:ui}
+Initially, multiple hand-drawn low-fidelity protoype was created to demonstrate two iterations of the artefact \see{fig:lofi1}, demonstrating some design changes and new features in the second low-fidelity prototype \see{fig:lofi2}. After the low-fidelity prototypes were complete, a high fidelity prototype was created based on the second design using MarvelApp (\cite{noauthor_marvel_nodate}).
 
-\subsection{OSRM (Open Source Routing Machine)}
-\label{sysdesign:osrm}
+The following 5 components form the overall User Interface (UI): Map,  Elevation Chart, Router, Route Preferences Panel and the Weather/Side Panel. The primary component which most other components were dependant on was the Map component; each other component would add enhanced functionality to the artefact.
 
-\subsection{Google Distance Matrix API}
-\label{sysdesign:google-distance-matrix-api}
+\subsection{Colour Scheme}
+\label{ui:colourscheme}
 
-\subsection{Use Case Diagrams}
-\label{sysdesign:usecase}
-
-\subsection{Hierarchical Task Analysis (HTA)}
-\label{sysdesign:hta}
-
-\section{User Interface Design}
-\label{design:uidesign}
+The plain and simple colour scheme was chosen for simplicity and ease-of-use of the artefact. Despite dark mode being considered for the artefact, it was chosen against after conducting research on pre-existing route planners, it was found that a light map, and surrounding UI was generally considered more usable to the average user. A dark mode could be implemented in the future, enabling the user to switch modes should they choose, also altering the map layer to the corresponding dark/light theme.
 
 \subsection{Low Fidelity Prototype}
-\label{uidesign:low-fi}
+\label{ui:low-fi}
+
+  \begin{figure}[!ht]
+    \centering
+    \includegraphics[width=400px]{figures/lofi-1-min.png}
+    \caption{Lo-Fidelity Design 1}
+    \label{fig:lofi1}
+  \end{figure}
+
+  \begin{figure}[!ht]
+    \centering
+    \includegraphics[width=400px]{figures/lofi-2-min.png}
+    \caption{Lo-Fidelity Design 2}
+    \label{fig:lofi2}
+  \end{figure}
 
 \subsection{High Fidelity Prototype}
-\label{uidesign:hi-fi}
+\label{ui:hi-fi}
 
-\section{Database Design}
-\label{design:database}
+  \begin{figure}[!ht]
+    \centering
+    \includegraphics[width=400px]{figures/hifi-1.png}
+    \caption{Hi-Fidelity Design 1}
+    \label{fig:hifi}
+  \end{figure}
 
-\subsection{Users}
-\label{database:users}
+\section{Use Cases}
+\label{design:usecase}
+
+\subsection{Use Case Diagrams}
+\label{usecase:diagrams}
+
+\section{System Design}
+\label{design:system}
+
+\subsection{Architecture Design}
+\label{system:architecture-design}
+
+\subsection{Module Architecture}
+\label{system:module-architecture}
+
+\section{Critique of Designs}
+\label{design:critique}
