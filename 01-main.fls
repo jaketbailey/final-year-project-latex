@@ -1340,6 +1340,11 @@ INPUT ./figures/use-case.png
 INPUT figures/use-case.png
 INPUT ./figures/use-case.png
 INPUT ./figures/use-case.png
+INPUT ./figures/client-server.png
+INPUT ./figures/client-server.png
+INPUT figures/client-server.png
+INPUT ./figures/client-server.png
+INPUT ./figures/client-server.png
 INPUT ./08-implementation.tex
 INPUT ./08-implementation.tex
 INPUT ./08-implementation.tex

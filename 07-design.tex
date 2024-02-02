@@ -83,8 +83,22 @@ During the requirements gathering process, the target user groups were identifie
 \section{System Design}
 \label{design:system}
 
+It is vital to design not only the viewable client-side of the application, but to also consider the internal system, comprising of the Go Gin Web Server, PostgreSQL database as well as the React.js client. This chapter delves further into the internal design of the artefact. 
+
 \subsection{Architecture Design}
 \label{system:architecture-design}
+
+The client-server architecture was used to build the artefact \see{fig:clientserver}. This architecture was selected to enable easy expansion of the artefact, with the aim for the web application to be hosted centrally, along with the PostgreSQL (PSQL) database. For security reasons, it was also necessary to implement this architecture due to different services requiring oauth, these services make enforce authentication through the server, rather than completely on the client-side application. Furthermore, this architecture enabled different processes to be handled via the server, reducing the overall load the client application requires to run.
+
+Client-Server architectures do however, add the risk of a single point of failure, whereby the application is wholly dependant on the web server. Overall the risk was deemed minimal due to the lack of sensitive information being stored \see{tab:risk-assessment}. In the case of a system failure, the application would remain unaccessable until fixed, however there is a low chance of this occurring as the appropriate measures such as thorough testing have been undertaken to reduce the risk \see{chap:testing}.
+
+\clearpage
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=250px]{figures/client-server.png}
+  \caption{Client-Server Architecture}
+  \label{fig:clientserver}
+\end{figure}
 
 \subsection{Module Architecture}
 \label{system:module-architecture}
