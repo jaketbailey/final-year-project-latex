@@ -36,35 +36,35 @@
 \contentsline {section}{\numberline {6.2}User Interface}{33}{section.6.2}%
 \contentsline {subsection}{\numberline {6.2.1}Colour Scheme}{33}{subsection.6.2.1}%
 \contentsline {subsection}{\numberline {6.2.2}Low Fidelity Prototype}{33}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}High Fidelity Prototype}{33}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}Use Cases}{33}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Use Case Diagrams}{33}{subsection.6.3.1}%
-\contentsline {section}{\numberline {6.4}System Design}{33}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Architecture Design}{33}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Module Architecture}{33}{subsection.6.4.2}%
-\contentsline {section}{\numberline {6.5}Critique of Designs}{33}{section.6.5}%
-\contentsline {chapter}{\numberline {7}Implementation}{36}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Development Environment}{36}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Programming Languages}{36}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Database}{36}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Increments}{36}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Increment 1}{36}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Increment 2}{36}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Increment 3}{36}{subsection.7.4.3}%
-\contentsline {section}{\numberline {7.5}Documentation and Linting}{36}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Challenges and limitations}{36}{section.7.6}%
-\contentsline {chapter}{\numberline {8}Testing}{37}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Unit Testing}{37}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Testing here}{37}{subsection.8.1.1}%
-\contentsline {section}{\numberline {8.2}Postman}{37}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{37}{section.8.3}%
-\contentsline {chapter}{\numberline {9}Evaluation}{38}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{38}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Evaluation Process}{38}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Evaluating Requirements}{38}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Future Work}{38}{section.9.4}%
-\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{39}{chapter.10}%
-\contentsline {chapter}{References}{40}{section*.28}%
-\contentsline {chapter}{\numberline {A}Current Solutions}{42}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Initial User Requirements}{44}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Ethics Certificate}{47}{appendix.C}%
+\contentsline {subsection}{\numberline {6.2.3}High-Fidelity Prototype}{33}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Use Cases}{34}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Use Case Diagrams}{34}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}System Design}{34}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Architecture Design}{34}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Module Architecture}{34}{subsection.6.4.2}%
+\contentsline {section}{\numberline {6.5}Critique of Designs}{34}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Implementation}{37}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Development Environment}{37}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Programming Languages}{37}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Database}{37}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Increments}{37}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Increment 1}{37}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Increment 2}{37}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Increment 3}{37}{subsection.7.4.3}%
+\contentsline {section}{\numberline {7.5}Documentation and Linting}{37}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Challenges and limitations}{37}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Testing}{38}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Unit Testing}{38}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Testing here}{38}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}Postman}{38}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{38}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Evaluation}{39}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{39}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Evaluation Process}{39}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Evaluating Requirements}{39}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Future Work}{39}{section.9.4}%
+\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{40}{chapter.10}%
+\contentsline {chapter}{References}{41}{section*.29}%
+\contentsline {chapter}{\numberline {A}Current Solutions}{43}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Initial User Requirements}{45}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Ethics Certificate}{48}{appendix.C}%

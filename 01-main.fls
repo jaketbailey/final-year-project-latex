@@ -1327,6 +1327,11 @@ INPUT ./figures/hifi-1.png
 INPUT figures/hifi-1.png
 INPUT ./figures/hifi-1.png
 INPUT ./figures/hifi-1.png
+INPUT ./figures/hifi-2.png
+INPUT ./figures/hifi-2.png
+INPUT figures/hifi-2.png
+INPUT ./figures/hifi-2.png
+INPUT ./figures/hifi-2.png
 INPUT ./08-implementation.tex
 INPUT ./08-implementation.tex
 INPUT ./08-implementation.tex
