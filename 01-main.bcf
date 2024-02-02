@@ -2865,6 +2865,7 @@
     <bcf:citekey order="36" intorder="1">international_garmin_nodate</bcf:citekey>
     <bcf:citekey order="37" intorder="1">noauthor_home_nodate</bcf:citekey>
     <bcf:citekey order="38" intorder="1">noauthor_marvel_nodate</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">noauthor_ideal_nodate</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
