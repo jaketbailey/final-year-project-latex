@@ -112,17 +112,27 @@ The database is a pivitol part of the artefact's extended functionality, it prim
   \label{fig:erd}
 \end{figure}
 
-\subsection{Module Architecture}
-\label{system:module-architecture}
-React.js allows for a modular design approach utilising the component-based framework and storing variables in the form of states to re-render the application dependant on the states of different variables. All the necessary data, functions and states can be passed to and from different components using the props functionality built into React, whereby a component inherits data from its parent component \see{fig:components}.  
+\subsection{Modular Architecture}
+\label{system:modular-architecture}
+React.js allows for a modular design approach utilising the component-based framework and storing variables in the form of states to re-render the application depending on the states of different variables. All the necessary data, functions and states can be passed to and from different components using the props functionality built into React, whereby a component inherits data from its parent component \see{fig:components}.
+
+While the App.jsx file is the starting point of the React application, the Map component acts as the primary parent for most of the artefact's key components. Multiple states and variables are declared within Map and are transferred across the rest of its children via props, this is necessary, because all the key functionality of the route planner is wholly dependent on the Map component. However, not all child components of Map are required for the application to function, demonstrating the modular functionality of the application. The LeftPanel component and its children remain standalone from the rest of the application as these components act to display information, rarely updating.
 
 \begin{figure}[!ht]
   \centering
-  \includegraphics[width=350px]{figures/components.png}
+  \includegraphics[width=400px]{figures/components.png}
   \caption{Modular Components}
   \label{fig:components}
 \end{figure}
 
-
+\clearpage
 \section{Critique of Designs}
 \label{design:critique}
+
+The progressive approach was used to develop the UI, and whilst beneficial to the overall project and its aims, mobile devices were not catered for. While this can be seen as bad software development practice, the artefact is aimed at users on a desktop environment, exporting routes to external mobile navigation/fitness applications. Therefore, the designs were catered for a desktop experience, over a mobile-first design.
+
+Both high-fidelity designs only demonstrate a light mode colour scheme. Due to this, all users are forced to use the artefact in a brighter, light mode with no option of customisability. In hindsight, it would have been beneficial to develop multiple high-fidelity designs to include both a light and dark mode for the artefact.
+
+The database was designed to only store hazard and cycling infrastructure information, ideally, the database would store more than just this data. To expand some of the artefact's basic functionality, the database would also store user oAuth tokens, as well as their planned routes. Implementing such tables would enable the user to load more than just the last planned route into the application, without the requirement to store GPX/GeoJSON files locally, instead, they could save routes to their account. These tables would also enable a more expansive sharing functionality to social media, enabling users to share links to routes, rather than map screenshots of their routes \see{evaluation:future}.
+
+Finally, the modular architecture approach, was ideal for developing the artefact, however, the modules could have been better structured to maximise the benefits of the modular approach. The artefact should be customisable, whereby specific modules can be disabled entirely if the user doesn't require them. At this stage, the design only caters to the manual disabling of each module, with certain modules being necessary for the artefact to function \see{evaluation:limitations}.
