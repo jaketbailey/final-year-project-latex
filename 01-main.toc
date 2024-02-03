@@ -50,8 +50,8 @@
 \contentsline {subsection}{\numberline {7.2.1}Leaflet - Open Street Map (OSM)}{41}{subsection.7.2.1}%
 \contentsline {subsection}{\numberline {7.2.2}Basic Route Planning}{42}{subsection.7.2.2}%
 \contentsline {subsection}{\numberline {7.2.3}Elevation Chart}{42}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}Weather Information Panel}{43}{subsection.7.2.4}%
-\contentsline {subsection}{\numberline {7.2.5}Main Challenges}{45}{subsection.7.2.5}%
+\contentsline {subsection}{\numberline {7.2.4}Weather Information Panel}{44}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Main Challenges}{44}{subsection.7.2.5}%
 \contentsline {section}{\numberline {7.3}Iteration 2}{45}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Iteration 3}{45}{section.7.4}%
 \contentsline {chapter}{\numberline {8}Testing}{46}{chapter.8}%

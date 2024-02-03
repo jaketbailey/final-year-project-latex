@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  3 FEB 2024 14:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  3 FEB 2024 15:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1410,52 +1410,46 @@ Package pdftex.def Info: figures/components.png  used on input line 123.
 
  (./08-implementation.tex
 Chapter 7.
-
-LaTeX Warning: Hyper reference `appendix:initial-user-requirements' on page 41 undefined on input line 13.
-
-
-LaTeX Warning: Reference `appendix:initial-user-requirements' on page 41 undefined on input line 13.
-
-
-LaTeX Warning: Reference `appendix:initial-user-requirements' on page 41 undefined on input line 13.
-
 [41
 
 
 
 
 ]
-<figures/Progress Images/Iteration-1/SR25/Basic Route.png, id=834, 1445.4pt x 700.86844pt>
+<figures/Progress Images/Iteration-1/SR25/Basic Route.png, id=836, 1445.4pt x 700.86844pt>
 File: figures/Progress Images/Iteration-1/SR25/Basic Route.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR25/Basic Route.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR25/Basic Route.png  used on input line 21.
 (pdftex.def)             Requested size: 426.5953pt x 206.85065pt.
-<figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png, id=839, 1444.64719pt x 703.87968pt>
+<figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png, id=841, 1444.64719pt x 703.87968pt>
 File: figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png  used on input line 31.
 (pdftex.def)             Requested size: 426.5953pt x 207.84677pt.
  [42 <./figures/Progress Images/Iteration-1/SR25/Basic Route.png>]
-<figures/Progress Images/Iteration-1/SR1/waypoint-arr.png, id=852, 361.35pt x 506.89375pt>
+<figures/Progress Images/Iteration-1/SR1/waypoint-arr.png, id=854, 361.35pt x 506.89375pt>
 File: figures/Progress Images/Iteration-1/SR1/waypoint-arr.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR1/waypoint-arr.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR1/waypoint-arr.png  used on input line 42.
 (pdftex.def)             Requested size: 200.75073pt x 281.6078pt.
-<figures/Progress Images/Iteration-1/SR28/elevation-hover.png, id=853, 1926.44719pt x 1027.58907pt>
+<figures/Progress Images/Iteration-1/SR28/elevation-hover.png, id=855, 1926.44719pt x 1027.58907pt>
 File: figures/Progress Images/Iteration-1/SR28/elevation-hover.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR28/elevation-hover.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR28/elevation-hover.png  used on input line 49.
 (pdftex.def)             Requested size: 426.5953pt x 227.54419pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [43 <./figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png (PNG copy)> <./figures/Progress Images/Iteration-1/SR1/waypoint-arr.png>]
-<figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png, id=862, 1443.14156pt x 705.38531pt>
+<figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png, id=864, 1443.14156pt x 705.38531pt>
 File: figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png  used on input line 60.
 (pdftex.def)             Requested size: 426.5953pt x 208.50662pt.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44 <./figures/Progress Images/Iteration-1/SR28/elevation-hover.png (PNG copy)> <./figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png (PNG copy)>] [45]
+Underfull \vbox (badness 1454) has occurred while \output is active []
+
+ [44 <./figures/Progress Images/Iteration-1/SR28/elevation-hover.png (PNG copy)>]) [45 <./figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png (PNG copy)>]
 \openout2 = `09-testing.aux'.
 
  (./09-testing.tex
@@ -1499,17 +1493,17 @@ Overfull \hbox (21.26544pt too wide) in paragraph at lines 149--149
 
  (./12-appendix-a.tex
 Appendix A.
-<figures/plotarouteui.png, id=946, 1289.56781pt x 717.43031pt>
+<figures/plotarouteui.png, id=948, 1289.56781pt x 717.43031pt>
 File: figures/plotarouteui.png Graphic file (type png)
 <use figures/plotarouteui.png>
 Package pdftex.def Info: figures/plotarouteui.png  used on input line 4.
 (pdftex.def)             Requested size: 426.79134pt x 237.43146pt.
-<figures/komootui.png, id=947, 1444.64719pt x 733.23938pt>
+<figures/komootui.png, id=949, 1444.64719pt x 733.23938pt>
 File: figures/komootui.png Graphic file (type png)
 <use figures/komootui.png>
 Package pdftex.def Info: figures/komootui.png  used on input line 11.
 (pdftex.def)             Requested size: 426.79134pt x 216.61702pt.
-<figures/gmapsui.png, id=948, 1445.4pt x 730.98094pt>
+<figures/gmapsui.png, id=950, 1445.4pt x 730.98094pt>
 File: figures/gmapsui.png Graphic file (type png)
 <use figures/gmapsui.png>
 Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
@@ -1523,28 +1517,18 @@ Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
  (./13-appendix-b.tex
 Appendix B.
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 9--9
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 11--11
 []\T1/ptm/m/n/12 Priority| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 14--14
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 16--16
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 29--29
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 31--31
 []\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 33--33
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 34--34
-[]\T1/ptm/m/n/12 Should| 
  []
 
 
@@ -1553,48 +1537,48 @@ Overfull \hbox (5.55505pt too wide) in paragraph at lines 35--35
  []
 
 
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 36--36
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 36--36
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 37--37
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 38--38
 []\T1/ptm/m/n/12 Could| 
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 48--48
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 50--50
 []\T1/ptm/m/n/12 Priority| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 52--52
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 54--54
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 53--53
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 55--55
 []\T1/ptm/m/n/12 Could| 
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 65--65
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 67--67
 []\T1/ptm/m/n/12 Priority| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 67--67
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 69--69
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 68--68
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 70--70
 []\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 69--69
-[]\T1/ptm/m/n/12 Could| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 70--70
-[]\T1/ptm/m/n/12 Could| 
  []
 
 
@@ -1603,38 +1587,38 @@ Overfull \hbox (0.88704pt too wide) in paragraph at lines 71--71
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 83--83
-[]\T1/ptm/m/n/12 Priority| 
- []
-
-
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 87--87
-[]\T1/ptm/m/n/12 Should| 
- []
-
-
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 88--88
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 72--72
 []\T1/ptm/m/n/12 Could| 
  []
 
 
-Overfull \hbox (0.88704pt too wide) in paragraph at lines 89--89
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 73--73
 []\T1/ptm/m/n/12 Could| 
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 101--101
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 85--85
 []\T1/ptm/m/n/12 Priority| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 105--105
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 89--89
 []\T1/ptm/m/n/12 Should| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 106--106
-[]\T1/ptm/m/n/12 Should| 
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 90--90
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 91--91
+[]\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 103--103
+[]\T1/ptm/m/n/12 Priority| 
  []
 
 
@@ -1643,12 +1627,22 @@ Overfull \hbox (5.55505pt too wide) in paragraph at lines 107--107
  []
 
 
-Overfull \hbox (8.21872pt too wide) in paragraph at lines 119--119
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 108--108
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 109--109
+[]\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 121--121
 []\T1/ptm/m/n/12 Priority| 
  []
 
 
-Overfull \hbox (5.55505pt too wide) in paragraph at lines 123--123
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 125--125
 []\T1/ptm/m/n/12 Should| 
  []
 
@@ -1662,7 +1656,7 @@ Overfull \hbox (5.55505pt too wide) in paragraph at lines 123--123
 
  (./14-appendix-c.tex
 Appendix C.
-<figures/ethics_certificate.pdf, id=970, 598.235pt x 845.1575pt>
+<figures/ethics_certificate.pdf, id=972, 598.235pt x 845.1575pt>
 File: figures/ethics_certificate.pdf Graphic file (type pdf)
 <use figures/ethics_certificate.pdf>
 Package pdftex.def Info: figures/ethics_certificate.pdf  used on input line 2.
@@ -1671,7 +1665,7 @@ File: figures/ethics_certificate.pdf Graphic file (type pdf)
 <use figures/ethics_certificate.pdf>
 Package pdftex.def Info: figures/ethics_certificate.pdf  used on input line 2.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<figures/ethics_certificate.pdf, id=973, page=1, 598.235pt x 845.1575pt>
+<figures/ethics_certificate.pdf, id=975, page=1, 598.235pt x 845.1575pt>
 File: figures/ethics_certificate.pdf Graphic file (type pdf)
 <use figures/ethics_certificate.pdf, page 1>
 Package pdftex.def Info: figures/ethics_certificate.pdf , page1 used on input line 2.
@@ -1699,7 +1693,7 @@ File: figures/ethics_certificate.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/ethics_certificate.pdf , page1 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [58 <./figures/ethics_certificate.pdf>]
-<figures/ethics_certificate.pdf, id=996, page=2, 598.235pt x 845.1575pt>
+<figures/ethics_certificate.pdf, id=998, page=2, 598.235pt x 845.1575pt>
 File: figures/ethics_certificate.pdf Graphic file (type pdf)
 <use figures/ethics_certificate.pdf, page 2>
 Package pdftex.def Info: figures/ethics_certificate.pdf , page2 used on input line 2.
@@ -1717,7 +1711,7 @@ Package pdftex.def Info: figures/ethics_certificate.pdf , page2 used on input li
 
  (./15-appendix-d.tex
 Appendix D.
-<figures/PID.pdf, id=1001, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=1003, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf>
 Package pdftex.def Info: figures/PID.pdf  used on input line 2.
@@ -1726,7 +1720,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf>
 Package pdftex.def Info: figures/PID.pdf  used on input line 2.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<figures/PID.pdf, id=1004, page=1, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=1006, page=1, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 1>
 Package pdftex.def Info: figures/PID.pdf , page1 used on input line 2.
@@ -1754,7 +1748,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page1 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [61 <./figures/PID.pdf>]
-<figures/PID.pdf, id=1028, page=2, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=1030, page=2, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 2>
 Package pdftex.def Info: figures/PID.pdf , page2 used on input line 2.
@@ -1768,7 +1762,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page2 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [62 <./figures/PID.pdf>]
-<figures/PID.pdf, id=1034, page=3, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=1036, page=3, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 3>
 Package pdftex.def Info: figures/PID.pdf , page3 used on input line 2.
@@ -1782,7 +1776,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page3 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [63 <./figures/PID.pdf>]
-<figures/PID.pdf, id=1039, page=4, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=1041, page=4, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 4>
 Package pdftex.def Info: figures/PID.pdf , page4 used on input line 2.
@@ -1796,7 +1790,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page4 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [64 <./figures/PID.pdf>]
-<figures/PID.pdf, id=1050, page=5, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=1052, page=5, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 5>
 Package pdftex.def Info: figures/PID.pdf , page5 used on input line 2.
@@ -1810,7 +1804,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page5 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [65 <./figures/PID.pdf>]
-<figures/PID.pdf, id=1056, page=6, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=1058, page=6, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 6>
 Package pdftex.def Info: figures/PID.pdf , page6 used on input line 2.
@@ -1824,7 +1818,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page6 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [66 <./figures/PID.pdf>]
-<figures/PID.pdf, id=1061, page=7, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=1063, page=7, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 7>
 Package pdftex.def Info: figures/PID.pdf , page7 used on input line 2.
@@ -1838,7 +1832,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page7 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [67 <./figures/PID.pdf>]
-<figures/PID.pdf, id=1068, page=8, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=1070, page=8, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 8>
 Package pdftex.def Info: figures/PID.pdf , page8 used on input line 2.
@@ -1852,9 +1846,6 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page8 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [68 <./figures/PID.pdf>]) (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix-a.aux) (./13-appendix-b.aux) (./14-appendix-c.aux) (./15-appendix-d.aux))
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1873,10 +1864,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  94i,17n,92p,2233b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (68 pages, 49881099 bytes).
+Output written on 01-main.pdf (68 pages, 49881730 bytes).
 PDF statistics:
- 1141 PDF objects out of 1200 (max. 8388607)
- 978 compressed objects within 10 object streams
+ 1143 PDF objects out of 1200 (max. 8388607)
+ 980 compressed objects within 10 object streams
  222 named destinations out of 1000 (max. 500000)
  792 words of extra memory for PDF output out of 10000 (max. 10000000)
 
