@@ -88,7 +88,7 @@ It is vital to design not only the viewable client-side of the application, but 
 \subsection{Architecture Design}
 \label{system:architecture-design}
 
-The client-server architecture was used to build the artefact \see{fig:clientserver}. This architecture was selected to enable easy expansion of the artefact, with the aim for the web application to be hosted centrally, along with the PostgreSQL (PSQL) database. For security reasons, it was also necessary to implement this architecture due to different services requiring oauth, these services make enforce authentication through the server, rather than completely on the client-side application. Furthermore, this architecture enabled different processes to be handled via the server, reducing the overall load the client application requires to run.
+The client-server architecture was used to build the artefact \see{fig:clientserver}. This architecture was selected to enable easy expansion of the artefact, with the aim for the web application to be hosted centrally, along with the PostgreSQL (PSQL) database \see{system:database-design}. For security reasons, it was also necessary to implement this architecture due to different services requiring oauth, these services make enforce authentication through the server, rather than completely on the client-side application. Furthermore, this architecture enabled different processes to be handled via the server, reducing the overall load the client application requires to run.
 
 Client-Server architectures do however, add the risk of a single point of failure, whereby the application is wholly dependant on the web server. Overall the risk was deemed minimal due to the lack of sensitive information being stored \see{tab:risk-assessment}. In the case of a system failure, the application would remain unaccessable until fixed, however there is a low chance of this occurring as the appropriate measures such as thorough testing have been undertaken to reduce the risk \see{chap:testing}.
 
@@ -100,8 +100,29 @@ Client-Server architectures do however, add the risk of a single point of failur
   \label{fig:clientserver}
 \end{figure}
 
+\subsection{Database Design}
+\label{system:database-design}
+
+The database is a pivitol part of the artefact's extended functionality, it primarily servers as a hazard index database, whilst also storing different areas of concerning cycling infrastructure. PostgreSQL was chosen as the Relational Database Management System (RDBMS), as PostGIS was available to use to add the functionality for storing, indexing and querying of geospacial data (\cite{noauthor_postgis_nodate}). This data is used to display concerning areas on the map for which users may want to avoid, with the potential to include native routing support to avoid these hazards, futher highlighted under future work \see{evaluation:future} \see{fig:erd}. 
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=350px]{figures/erd.png}
+  \caption{Entity Relationship Diagram}
+  \label{fig:erd}
+\end{figure}
+
 \subsection{Module Architecture}
 \label{system:module-architecture}
+React.js allows for a modular design approach utilising the component-based framework and storing variables in the form of states to re-render the application dependant on the states of different variables. All the necessary data, functions and states can be passed to and from different components using the props functionality built into React, whereby a component inherits data from its parent component \see{fig:components}.  
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=350px]{figures/components.png}
+  \caption{Modular Components}
+  \label{fig:components}
+\end{figure}
+
 
 \section{Critique of Designs}
 \label{design:critique}

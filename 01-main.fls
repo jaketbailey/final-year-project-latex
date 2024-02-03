@@ -1345,6 +1345,16 @@ INPUT ./figures/client-server.png
 INPUT figures/client-server.png
 INPUT ./figures/client-server.png
 INPUT ./figures/client-server.png
+INPUT ./figures/erd.png
+INPUT ./figures/erd.png
+INPUT figures/erd.png
+INPUT ./figures/erd.png
+INPUT ./figures/erd.png
+INPUT ./figures/components.png
+INPUT ./figures/components.png
+INPUT figures/components.png
+INPUT ./figures/components.png
+INPUT ./figures/components.png
 INPUT ./08-implementation.tex
 INPUT ./08-implementation.tex
 INPUT ./08-implementation.tex
