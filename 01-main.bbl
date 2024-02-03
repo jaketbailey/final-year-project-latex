@@ -85,6 +85,28 @@
       \endverb
       \keyw{bicycle,bicycle infrastructure,cycling,place,siting,stakeholder engagement,sustainability science,transportation planning,urban,urban planning}
     \endentry
+    \entry{noauthor_chartjs_nodate}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Simple yet flexible {JavaScript} charting library for the modern web}
+      \field{langid}{american}
+      \field{title}{Chart.js}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/KGNX4MJM/www.chartjs.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.chartjs.org/
+      \endverb
+      \verb{url}
+      \verb https://www.chartjs.org/
+      \endverb
+    \endentry
     \entry{dapeng_liu_case_2011}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9477e4b4717424c1a53d386d5d820d89}{%
@@ -593,6 +615,26 @@
       \verb https://leafletjs.com/
       \endverb
     \endentry
+    \entry{noauthor_leaflet_nodate-1}{online}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Leaflet Routing Machine}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Leaflet Routing Machine:/home/jakeb/Zotero/storage/W8N9Z82Q/leaflet-routing-machine.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.liedman.net/leaflet-routing-machine/
+      \endverb
+      \verb{url}
+      \verb https://www.liedman.net/leaflet-routing-machine/
+      \endverb
+    \endentry
     \entry{noauthor_marvel_nodate}{online}{}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
@@ -733,6 +775,29 @@
       \verb https://openrouteservice.org/
       \endverb
     \endentry
+    \entry{noauthor_openstreetmap_nodate}{online}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{OpenStreetMap} is a map of the world, created by people like you and free to use under an open licence.}
+      \field{langid}{british}
+      \field{title}{{OpenStreetMap}}
+      \field{titleaddon}{{OpenStreetMap}}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/QLZR8JK4/www.openstreetmap.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.openstreetmap.org/
+      \endverb
+      \verb{url}
+      \verb https://www.openstreetmap.org/
+      \endverb
+    \endentry
     \entry{noauthor_postgis_nodate}{online}{}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
@@ -773,6 +838,28 @@
       \endverb
       \verb{url}
       \verb https://project-osrm.org/
+      \endverb
+    \endentry
+    \entry{noauthor_react_nodate}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{React components for Leaflet maps}
+      \field{langid}{english}
+      \field{title}{React Leaflet {|} React Leaflet}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/3YVFPFET/react-leaflet.js.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://react-leaflet.js.org/
+      \endverb
+      \verb{url}
+      \verb https://react-leaflet.js.org/
       \endverb
     \endentry
     \entry{reynolds_impact_2009}{article}{}
@@ -941,6 +1028,48 @@
       \endverb
       \verb{url}
       \verb https://www.strava.com/
+      \endverb
+    \endentry
+    \entry{noauthor_visual_nodate}{online}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, {macOS}, and Windows.}
+      \field{langid}{english}
+      \field{title}{Visual Studio Code - Code Editing. Redefined}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/JVJ28UWQ/code.visualstudio.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://code.visualstudio.com/
+      \endverb
+      \verb{url}
+      \verb https://code.visualstudio.com/
+      \endverb
+    \endentry
+    \entry{noauthor_weather_nodate}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Weather Icons by Bas}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Weather Icons by Bas:/home/jakeb/Zotero/storage/XH75DQMF/index-fill.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://basmilius.github.io/weather-icons/index-fill.html
+      \endverb
+      \verb{url}
+      \verb https://basmilius.github.io/weather-icons/index-fill.html
       \endverb
     \endentry
     \entry{noauthor_zotero_nodate}{online}{}
@@ -1031,6 +1160,28 @@
       \endverb
       \keyw{bicycle,bicycle infrastructure,cycling,place,siting,stakeholder engagement,sustainability science,transportation planning,urban,urban planning}
     \endentry
+    \entry{noauthor_chartjs_nodate}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Simple yet flexible {JavaScript} charting library for the modern web}
+      \field{langid}{american}
+      \field{title}{Chart.js}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/KGNX4MJM/www.chartjs.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.chartjs.org/
+      \endverb
+      \verb{url}
+      \verb https://www.chartjs.org/
+      \endverb
+    \endentry
     \entry{dapeng_liu_case_2011}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9477e4b4717424c1a53d386d5d820d89}{%
@@ -1539,6 +1690,26 @@
       \verb https://leafletjs.com/
       \endverb
     \endentry
+    \entry{noauthor_leaflet_nodate-1}{online}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Leaflet Routing Machine}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Leaflet Routing Machine:/home/jakeb/Zotero/storage/W8N9Z82Q/leaflet-routing-machine.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.liedman.net/leaflet-routing-machine/
+      \endverb
+      \verb{url}
+      \verb https://www.liedman.net/leaflet-routing-machine/
+      \endverb
+    \endentry
     \entry{noauthor_marvel_nodate}{online}{}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
@@ -1679,6 +1850,29 @@
       \verb https://openrouteservice.org/
       \endverb
     \endentry
+    \entry{noauthor_openstreetmap_nodate}{online}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{OpenStreetMap} is a map of the world, created by people like you and free to use under an open licence.}
+      \field{langid}{british}
+      \field{title}{{OpenStreetMap}}
+      \field{titleaddon}{{OpenStreetMap}}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/QLZR8JK4/www.openstreetmap.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.openstreetmap.org/
+      \endverb
+      \verb{url}
+      \verb https://www.openstreetmap.org/
+      \endverb
+    \endentry
     \entry{noauthor_postgis_nodate}{online}{}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
@@ -1719,6 +1913,28 @@
       \endverb
       \verb{url}
       \verb https://project-osrm.org/
+      \endverb
+    \endentry
+    \entry{noauthor_react_nodate}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{React components for Leaflet maps}
+      \field{langid}{english}
+      \field{title}{React Leaflet {|} React Leaflet}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/3YVFPFET/react-leaflet.js.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://react-leaflet.js.org/
+      \endverb
+      \verb{url}
+      \verb https://react-leaflet.js.org/
       \endverb
     \endentry
     \entry{reynolds_impact_2009}{article}{}
@@ -1887,6 +2103,48 @@
       \endverb
       \verb{url}
       \verb https://www.strava.com/
+      \endverb
+    \endentry
+    \entry{noauthor_visual_nodate}{online}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, {macOS}, and Windows.}
+      \field{langid}{english}
+      \field{title}{Visual Studio Code - Code Editing. Redefined}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/JVJ28UWQ/code.visualstudio.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://code.visualstudio.com/
+      \endverb
+      \verb{url}
+      \verb https://code.visualstudio.com/
+      \endverb
+    \endentry
+    \entry{noauthor_weather_nodate}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Weather Icons by Bas}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Weather Icons by Bas:/home/jakeb/Zotero/storage/XH75DQMF/index-fill.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://basmilius.github.io/weather-icons/index-fill.html
+      \endverb
+      \verb{url}
+      \verb https://basmilius.github.io/weather-icons/index-fill.html
       \endverb
     \endentry
     \entry{noauthor_zotero_nodate}{online}{}

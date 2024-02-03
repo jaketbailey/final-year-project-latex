@@ -2867,6 +2867,13 @@
     <bcf:citekey order="38" intorder="1">noauthor_marvel_nodate</bcf:citekey>
     <bcf:citekey order="39" intorder="1">noauthor_ideal_nodate</bcf:citekey>
     <bcf:citekey order="40" intorder="1">noauthor_postgis_nodate</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">noauthor_visual_nodate</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">noauthor_react_nodate</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">noauthor_openstreetmap_nodate</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">noauthor_leaflet_nodate-1</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">noauthor_project_nodate</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">noauthor_chartjs_nodate</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">noauthor_weather_nodate</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

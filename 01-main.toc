@@ -46,28 +46,28 @@
 \contentsline {section}{\numberline {6.5}Critique of Designs}{40}{section.6.5}%
 \contentsline {chapter}{\numberline {7}Implementation}{41}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Development Environment}{41}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Programming Languages}{41}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Database}{41}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Increments}{41}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Increment 1}{41}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Increment 2}{41}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Increment 3}{41}{subsection.7.4.3}%
-\contentsline {section}{\numberline {7.5}Documentation and Linting}{41}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Challenges and limitations}{41}{section.7.6}%
-\contentsline {chapter}{\numberline {8}Testing}{42}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Unit Testing}{42}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Testing here}{42}{subsection.8.1.1}%
-\contentsline {section}{\numberline {8.2}Postman}{42}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{42}{section.8.3}%
-\contentsline {chapter}{\numberline {9}Evaluation}{43}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{43}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Evaluation Process}{43}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Evaluating Requirements}{43}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Limitations}{43}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Future Work}{43}{section.9.5}%
-\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{44}{chapter.10}%
-\contentsline {chapter}{References}{45}{section*.33}%
-\contentsline {chapter}{\numberline {A}Current Solutions}{47}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Initial User Requirements}{49}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Ethics Certificate}{52}{appendix.C}%
-\contentsline {chapter}{\numberline {D}Project Initiation Document}{55}{appendix.D}%
+\contentsline {section}{\numberline {7.2}Iteration 1 - Basic UI and Core Routing}{41}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Leaflet - Open Street Map (OSM)}{41}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Basic Route Planning}{42}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Elevation Chart}{42}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Weather Information Panel}{43}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Main Challenges}{45}{subsection.7.2.5}%
+\contentsline {section}{\numberline {7.3}Iteration 2}{45}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Iteration 3}{45}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Testing}{46}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Unit Testing}{46}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Testing here}{46}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}Postman}{46}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{46}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Evaluation}{47}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{47}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Evaluation Process}{47}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Evaluating Requirements}{47}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Limitations}{47}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Future Work}{47}{section.9.5}%
+\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{48}{chapter.10}%
+\contentsline {chapter}{References}{49}{section*.38}%
+\contentsline {chapter}{\numberline {A}Current Solutions}{52}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Initial User Requirements}{54}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Ethics Certificate}{57}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Project Initiation Document}{60}{appendix.D}%
