@@ -53,7 +53,7 @@ To create an elevation chart, the component was declared, with the plan to use C
 
 \subsection{Weather Information Panel}
 \label{iteration1:weather-panel}
-A generic weather panel was created within iteration 1, displaying weather information for the current day at the user's current location. The weather panel used the browser's geolocation API called within a React UseEffect to get the user's general location, asking for permission via a pop-up window, then storing the geolocation in a state variable. The approximate coordinates returned from the API were then passed to Open Weather Map to gather all weather data for the current day. The Meteocons icons (\cite{noauthor_weather_nodate}) were used to display images demonstrating the current weather conditions \see{fig:basic-weather-panel}. The visibility of the weather panel was determined by a State variable, if the variable was true, the height and width of the panel expand, and when false, reduce to the button size.
+A generic weather panel was created within iteration 1, displaying weather information for the current day at the user's current location. The weather panel used the browser's geolocation API called within a React useEffect to get the user's general location, asking for permission via a pop-up window, then storing the geolocation in a state variable. The approximate coordinates returned from the API were then passed to Open Weather Map to gather all weather data for the current day. The Meteocons icons (\cite{noauthor_weather_nodate}) were used to display images demonstrating the current weather conditions \see{fig:basic-weather-panel}. The visibility of the weather panel was determined by a State variable, if the variable was true, the height and width of the panel expand, and when false, reduce to the button size.
 
 \begin{figure}[!ht]
     \centering
@@ -70,6 +70,8 @@ Furthermore, the only other challenge faced was retrieving the user's geolocatio
 
 \section{Iteration 2}
 \label{implementation:iteration2}
+
+Unlike i1, the development of Iteration 2 (i2) was conducted after the primary research and requirements review had been completed. The remaining updated requirements were organised in order of priority and distributed between i2 and Iteration 3 (i3) \see{implementation:iteration3}. I2 builds on i1, enhancing existing functionality and introducing new features throughout the iteration.
 
 \section{Iteration 3}
 \label{implementation:iteration3}

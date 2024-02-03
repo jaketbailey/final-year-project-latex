@@ -1017,6 +1017,15 @@ INPUT 14-appendix-c.aux
 INPUT ./15-appendix-d.aux
 INPUT 15-appendix-d.aux
 INPUT 15-appendix-d.aux
+INPUT ./16-appendix-e.aux
+INPUT 16-appendix-e.aux
+INPUT 16-appendix-e.aux
+INPUT ./17-appendix-f.aux
+INPUT 17-appendix-f.aux
+INPUT 17-appendix-f.aux
+INPUT ./18-appendix-g.aux
+INPUT 18-appendix-g.aux
+INPUT 18-appendix-g.aux
 OUTPUT 01-main.aux
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1468,53 +1477,51 @@ INPUT ./14-appendix-c.tex
 INPUT 14-appendix-c.tex
 INPUT ./14-appendix-c.tex
 INPUT 14-appendix-c.tex
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
-INPUT figures/ethics_certificate.pdf
-INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
 INPUT ./15-appendix-d.tex
 INPUT ./15-appendix-d.tex
 INPUT ./15-appendix-d.tex
@@ -1525,6 +1532,155 @@ INPUT ./15-appendix-d.tex
 INPUT 15-appendix-d.tex
 INPUT ./15-appendix-d.tex
 INPUT 15-appendix-d.tex
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./16-appendix-e.tex
+INPUT ./16-appendix-e.tex
+INPUT ./16-appendix-e.tex
+OUTPUT 16-appendix-e.aux
+INPUT ./16-appendix-e.tex
+INPUT ./16-appendix-e.tex
+INPUT ./16-appendix-e.tex
+INPUT 16-appendix-e.tex
+INPUT ./16-appendix-e.tex
+INPUT 16-appendix-e.tex
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./17-appendix-f.tex
+INPUT ./17-appendix-f.tex
+INPUT ./17-appendix-f.tex
+OUTPUT 17-appendix-f.aux
+INPUT ./17-appendix-f.tex
+INPUT ./17-appendix-f.tex
+INPUT ./17-appendix-f.tex
+INPUT 17-appendix-f.tex
+INPUT ./17-appendix-f.tex
+INPUT 17-appendix-f.tex
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT figures/ethics_certificate.pdf
+INPUT ./figures/ethics_certificate.pdf
+INPUT ./18-appendix-g.tex
+INPUT ./18-appendix-g.tex
+INPUT ./18-appendix-g.tex
+OUTPUT 18-appendix-g.aux
+INPUT ./18-appendix-g.tex
+INPUT ./18-appendix-g.tex
+INPUT ./18-appendix-g.tex
+INPUT 18-appendix-g.tex
+INPUT ./18-appendix-g.tex
+INPUT 18-appendix-g.tex
 INPUT ./figures/PID.pdf
 INPUT figures/PID.pdf
 INPUT ./figures/PID.pdf
@@ -1693,6 +1849,15 @@ INPUT 14-appendix-c.aux
 INPUT ./15-appendix-d.aux
 INPUT 15-appendix-d.aux
 INPUT 15-appendix-d.aux
+INPUT ./16-appendix-e.aux
+INPUT 16-appendix-e.aux
+INPUT 16-appendix-e.aux
+INPUT ./17-appendix-f.aux
+INPUT 17-appendix-f.aux
+INPUT 17-appendix-f.aux
+INPUT ./18-appendix-g.aux
+INPUT 18-appendix-g.aux
+INPUT 18-appendix-g.aux
 INPUT ./01-main.out
 INPUT ./01-main.out
 INPUT 01-main.run.xml
