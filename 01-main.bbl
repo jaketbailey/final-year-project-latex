@@ -19,6 +19,34 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{noauthor_gegewebleaflet-routing-machine-openroute_2020}{online}{}
+      \field{sortinit}{g}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A Leaflet plugin that extend Leaflet Routing Machine with support for {OpenRoute} Service.. Latest version: 0.1.10, last published: 4 years ago. Start using @gegeweb/leaflet-routing-machine-openroute in your project by running `npm i @gegeweb/leaflet-routing-machine-openroute`. There are no other projects in the npm registry using @gegeweb/leaflet-routing-machine-openroute.}
+      \field{day}{9}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{@gegeweb/leaflet-routing-machine-openroute}
+      \field{titleaddon}{npm}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/ZYIBWZG4/leaflet-routing-machine-openroute.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.npmjs.com/package/@gegeweb/leaflet-routing-machine-openroute
+      \endverb
+      \verb{url}
+      \verb https://www.npmjs.com/package/@gegeweb/leaflet-routing-machine-openroute
+      \endverb
+    \endentry
     \entry{boettge_assessing_2017}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1fc9e61514f4fea562f6890dd7dfc83d}{%
@@ -1240,6 +1268,34 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{noauthor_gegewebleaflet-routing-machine-openroute_2020}{online}{}
+      \field{sortinit}{g}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A Leaflet plugin that extend Leaflet Routing Machine with support for {OpenRoute} Service.. Latest version: 0.1.10, last published: 4 years ago. Start using @gegeweb/leaflet-routing-machine-openroute in your project by running `npm i @gegeweb/leaflet-routing-machine-openroute`. There are no other projects in the npm registry using @gegeweb/leaflet-routing-machine-openroute.}
+      \field{day}{9}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{@gegeweb/leaflet-routing-machine-openroute}
+      \field{titleaddon}{npm}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/ZYIBWZG4/leaflet-routing-machine-openroute.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.npmjs.com/package/@gegeweb/leaflet-routing-machine-openroute
+      \endverb
+      \verb{url}
+      \verb https://www.npmjs.com/package/@gegeweb/leaflet-routing-machine-openroute
+      \endverb
+    \endentry
     \entry{boettge_assessing_2017}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1fc9e61514f4fea562f6890dd7dfc83d}{%

@@ -25,7 +25,7 @@ The Map component was the first to be developed because the rest of the artefact
 
 \subsection{Basic Route Planning}
 \label{iteration1:basic-routing}
-After conducting research, the most effective way to implement route planning with Leaflet was to use Leaflet Routing Machine (\cite{noauthor_leaflet_nodate-1}). This library enabled a RoutingMachine component to be natively added on top of the React Leaflet map component, whilst providing a basic, customisable route planning UI \see{fig:routing-ui}. The routing API in use at the beginning was Open Source Routing Machine (OSRM) (\cite{noauthor_project_nodate}) which appeared to meet all requirements of a routing algorithm until round trip routing was required \see{implementation:iteration2}. This new routing functionality enabled the user to select a start, destination and any intermediate locations, a route would then be planned. At this stage, the route could be altered through the use of waypoints, but the artefact did not provide any further custom routing features to the user.
+After conducting research, the most effective way to implement route planning with Leaflet was to use Leaflet Routing Machine (\cite{noauthor_leaflet_nodate-1}). This library enabled a RoutingMachine component to be natively added on top of the React Leaflet map component, whilst providing a basic, customisable route planning UI \see{fig:routing-ui}. The routing API in use at the beginning was Open Source Routing Machine (OSRM) (\cite{noauthor_project_nodate}) which appeared to meet all requirements of a routing algorithm until round trip routing was required \see{iteration3:round-trip}. This new routing functionality enabled the user to select a start, destination and any intermediate locations, a route would then be planned. At this stage, the route could be altered through the use of waypoints, but the artefact did not provide any further custom routing features to the user.
 \begin{figure}[!ht]
     \centering
     \includegraphics[width=425px]{figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png}
@@ -168,16 +168,41 @@ The INSERT hazard query was the most complex. The PLpgSQL language was used to c
 
 The Strava API was also challenging as it was required to implement oAuth 2.0 manually to authorise the application to upload activities to the user's account. The Strava API documentation was relatively clear on how to implement this process, however, having not manually implemented oAuth before, without using libraries such as Auth0, it was a steep learning curve. This experience proved great later on however when implementing oAuth 1.0 for use with the Garmin Connect API \see{iteration3:garmin-integration}.
 
+
+\clearpage
 \section{Iteration 3 - Round Trip, Route Import and Garmin Integration}
 \label{implementation:iteration3}
 
+Finally, i3 included the remainder of the critical and desired requirements. These included round trip routing, route import, Garmin Connect integration and social media sharing. There were only a few requirements which were not implemented due to time constraints, these were lowest priority requirements and were not critical to the artefact's functionality.
+
 \subsection{Round Trip Routing}
+\label{iteration3:round-trip}
+
+The OpenRouteService (ORS) API was implemented shortly after it was found that OSRM didn't support round-trip routing, only A to B routing \see{iteration1:basic-routing}. The new API was implemented towards the end of i1 ahead of knowing the requirements for i3. 
+
+To implement round-trip, the library used for using ORS with Leaflet Routing Machine (\cite{noauthor_gegewebleaflet-routing-machine-openroute_2020}) was customised to fit the artefacts needs. A fork was created 'jaketbailey/leaflet-routing-machine-openroute' to allow the round trip feature to be used with the library. This fork allowed for only one waypoint to act as an input to trigger the API call for round trip routing. The API call would then return a route in the same format as an A to B route, with the start and end being the same point. The route was then drawn on the map and the elevation chart updated to reflect the new route \see{fig:round-trip}.
+
+Once the updates were made to the forked library, the other functionalities of the artefact all worked seamlessly in both the standard A to B and the round trip mode. The only minor change required was to track the mode which the user last left the artefact in LocalStorage. This then ensured that when the user returned and chose to load their previous route, the artefact would know which mode to load the route and UI in.
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png}
+  \caption{Round Trip Route}
+  \label{fig:round-trip}
+\end{figure}
 
 \subsection{Route Import}
+\label{iteration3:route-import}
+
+Importing routes was a vital feature as it would enable route sharing across many applications supporting the same standards. The GPX and GeoJSON file formats were chosen to be supported as they are the most common file formats used for route sharing and were already used for exporting routes from the artefact. Adding such a minor feature would enable the artefact to manually import routes from other applications, such as Strava, Komoot and RideWithGPS.
+
+
 
 \subsection{Garmin Connect Integration}
 \label{iteration3:garmin-integration}
 
 \subsection{Social Media Sharing}
+\label{iteration3:social-sharing}
 
 \subsection{Main Challenges}
+\label{iteration3:main-challenges}
