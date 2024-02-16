@@ -2874,6 +2874,12 @@
     <bcf:citekey order="45" intorder="1">noauthor_project_nodate</bcf:citekey>
     <bcf:citekey order="46" intorder="1">noauthor_chartjs_nodate</bcf:citekey>
     <bcf:citekey order="47" intorder="1">noauthor_weather_nodate</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">noauthor_gpx_nodate</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">noauthor_geojson_nodate</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">noauthor_email_nodate</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">noauthor_keyhazard_nodate</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">noauthor_pq_nodate</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">noauthor_places_nodate</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

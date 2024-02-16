@@ -229,6 +229,29 @@
       \endverb
       \keyw{Cycling,Exercise intensity,Heart rate,Perceived risk}
     \endentry
+    \entry{noauthor_email_nodate}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Start sending transactional and marketing email in minutes. Easily scale to enterprise-volume with Twilio {SendGrid}’s Email {API}. Try it free!}
+      \field{langid}{american}
+      \field{title}{Email {API}}
+      \field{titleaddon}{Twilio}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/EFIJNHPD/email-api.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.twilio.com/en-us/sendgrid/email-api
+      \endverb
+      \verb{url}
+      \verb https://www.twilio.com/en-us/sendgrid/email-api
+      \endverb
+    \endentry
     \entry{flynn_weather_2012}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=d739827aeaaa88df63be0c2ce3794d32}{%
@@ -321,6 +344,26 @@
       \verb https://www.plotaroute.com
       \endverb
     \endentry
+    \entry{noauthor_geojson_nodate}{online}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{{GeoJSON}}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb GeoJSON:/home/jakeb/Zotero/storage/9KHDC67U/geojson.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://geojson.org/
+      \endverb
+      \verb{url}
+      \verb https://geojson.org/
+      \endverb
+    \endentry
     \entry{noauthor_gin_nodate}{online}{}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
@@ -365,6 +408,26 @@
       \endverb
       \verb{url}
       \verb https://www.google.com/maps
+      \endverb
+    \endentry
+    \entry{noauthor_gpx_nodate}{online}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{{GPX}: the {GPS} Exchange Format}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb GPX\: the GPS Exchange Format:/home/jakeb/Zotero/storage/HPSDA72E/gpx.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.topografix.com/gpx.asp
+      \endverb
+      \verb{url}
+      \verb https://www.topografix.com/gpx.asp
       \endverb
     \endentry
     \entry{noauthor_home_nodate}{online}{}
@@ -568,6 +631,26 @@
       \endverb
       \verb{url}
       \verb https://connect.garmin.com/
+      \endverb
+    \endentry
+    \entry{noauthor_keyhazard_nodate}{online}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Key:hazard - {OpenStreetMap} Wiki}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Key\:hazard - OpenStreetMap Wiki:/home/jakeb/Zotero/storage/E8EZ5AKX/Keyhazard.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://wiki.openstreetmap.org/wiki/Key:hazard
+      \endverb
+      \verb{url}
+      \verb https://wiki.openstreetmap.org/wiki/Key:hazard
       \endverb
     \endentry
     \entry{noauthor_komoot_nodate}{online}{}
@@ -798,6 +881,29 @@
       \verb https://www.openstreetmap.org/
       \endverb
     \endentry
+    \entry{noauthor_places_nodate}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Elevate your apps with Foursquare's Places {API} by unlocking the power of precise point of interest data using location intelligence. Click here to learn more.}
+      \field{langid}{american}
+      \field{title}{Places {API}}
+      \field{titleaddon}{Foursquare}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/4F6342PC/places-api.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://location.foursquare.com/products/places-api/
+      \endverb
+      \verb{url}
+      \verb https://location.foursquare.com/products/places-api/
+      \endverb
+    \endentry
     \entry{noauthor_postgis_nodate}{online}{}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
@@ -818,6 +924,26 @@
       \endverb
       \verb{url}
       \verb https://postgis.net/
+      \endverb
+    \endentry
+    \entry{noauthor_pq_nodate}{online}{}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{pq package - github.com/lib/pq - Go Packages}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb pq package - github.com/lib/pq - Go Packages:/home/jakeb/Zotero/storage/B83SBPS8/pq@v1.10.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://pkg.go.dev/github.com/lib/pq@v1.10.9
+      \endverb
+      \verb{url}
+      \verb https://pkg.go.dev/github.com/lib/pq@v1.10.9
       \endverb
     \endentry
     \entry{noauthor_project_nodate}{online}{}
@@ -1304,6 +1430,29 @@
       \endverb
       \keyw{Cycling,Exercise intensity,Heart rate,Perceived risk}
     \endentry
+    \entry{noauthor_email_nodate}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Start sending transactional and marketing email in minutes. Easily scale to enterprise-volume with Twilio {SendGrid}’s Email {API}. Try it free!}
+      \field{langid}{american}
+      \field{title}{Email {API}}
+      \field{titleaddon}{Twilio}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/EFIJNHPD/email-api.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.twilio.com/en-us/sendgrid/email-api
+      \endverb
+      \verb{url}
+      \verb https://www.twilio.com/en-us/sendgrid/email-api
+      \endverb
+    \endentry
     \entry{flynn_weather_2012}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=d739827aeaaa88df63be0c2ce3794d32}{%
@@ -1396,6 +1545,26 @@
       \verb https://www.plotaroute.com
       \endverb
     \endentry
+    \entry{noauthor_geojson_nodate}{online}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{{GeoJSON}}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb GeoJSON:/home/jakeb/Zotero/storage/9KHDC67U/geojson.org.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://geojson.org/
+      \endverb
+      \verb{url}
+      \verb https://geojson.org/
+      \endverb
+    \endentry
     \entry{noauthor_gin_nodate}{online}{}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
@@ -1440,6 +1609,26 @@
       \endverb
       \verb{url}
       \verb https://www.google.com/maps
+      \endverb
+    \endentry
+    \entry{noauthor_gpx_nodate}{online}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{{GPX}: the {GPS} Exchange Format}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb GPX\: the GPS Exchange Format:/home/jakeb/Zotero/storage/HPSDA72E/gpx.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.topografix.com/gpx.asp
+      \endverb
+      \verb{url}
+      \verb https://www.topografix.com/gpx.asp
       \endverb
     \endentry
     \entry{noauthor_home_nodate}{online}{}
@@ -1643,6 +1832,26 @@
       \endverb
       \verb{url}
       \verb https://connect.garmin.com/
+      \endverb
+    \endentry
+    \entry{noauthor_keyhazard_nodate}{online}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{Key:hazard - {OpenStreetMap} Wiki}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Key\:hazard - OpenStreetMap Wiki:/home/jakeb/Zotero/storage/E8EZ5AKX/Keyhazard.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://wiki.openstreetmap.org/wiki/Key:hazard
+      \endverb
+      \verb{url}
+      \verb https://wiki.openstreetmap.org/wiki/Key:hazard
       \endverb
     \endentry
     \entry{noauthor_komoot_nodate}{online}{}
@@ -1873,6 +2082,29 @@
       \verb https://www.openstreetmap.org/
       \endverb
     \endentry
+    \entry{noauthor_places_nodate}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Elevate your apps with Foursquare's Places {API} by unlocking the power of precise point of interest data using location intelligence. Click here to learn more.}
+      \field{langid}{american}
+      \field{title}{Places {API}}
+      \field{titleaddon}{Foursquare}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/4F6342PC/places-api.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://location.foursquare.com/products/places-api/
+      \endverb
+      \verb{url}
+      \verb https://location.foursquare.com/products/places-api/
+      \endverb
+    \endentry
     \entry{noauthor_postgis_nodate}{online}{}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
@@ -1893,6 +2125,26 @@
       \endverb
       \verb{url}
       \verb https://postgis.net/
+      \endverb
+    \endentry
+    \entry{noauthor_pq_nodate}{online}{}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{pq package - github.com/lib/pq - Go Packages}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb pq package - github.com/lib/pq - Go Packages:/home/jakeb/Zotero/storage/B83SBPS8/pq@v1.10.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://pkg.go.dev/github.com/lib/pq@v1.10.9
+      \endverb
+      \verb{url}
+      \verb https://pkg.go.dev/github.com/lib/pq@v1.10.9
       \endverb
     \endentry
     \entry{noauthor_project_nodate}{online}{}

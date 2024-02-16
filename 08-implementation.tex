@@ -57,7 +57,7 @@ A generic weather panel was created within iteration 1, displaying weather infor
 
 \begin{figure}[!ht]
     \centering
-    \includegraphics[width=425px]{figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png}
+    \includegraphics[width=300px]{figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png}
     \caption{Weather Panel}
     \label{fig:basic-weather-panel}
 \end{figure}
@@ -68,10 +68,114 @@ The main challenge of Iteration 1 (i1), was primarily integrating multiple servi
 
 Furthermore, the only other challenge faced was retrieving the user's geolocation from the browser. A useEffect was required to access the geolocation API, however, the useState was at first missed to store the geolocation value once the API had returned the data. Once the state variable was added, however, the weather panel would re-render once the data was retrieved.
 
-\section{Iteration 2}
+\section{Iteration 2 - Route Sharing, Hazard Index and POI Integration}
 \label{implementation:iteration2}
 
-Unlike i1, the development of Iteration 2 (i2) was conducted after the primary research and requirements review had been completed. The remaining updated requirements were organised in order of priority and distributed between i2 and Iteration 3 (i3) \see{implementation:iteration3}. I2 builds on i1, enhancing existing functionality and introducing new features throughout the iteration.
+Unlike i1, Iteration 2 (i2) development was conducted after the primary research and requirements review had been completed. The remaining updated requirements were prioritised and distributed between i2 and Iteration 3 (i3) \see{implementation:iteration3}. I2 builds on i1, enhancing existing functionality and introducing new features throughout the iteration. 
 
-\section{Iteration 3}
+\subsection{Sharing Route Functionality}
+\label{iteration2:sharing-route}
+
+Route sharing was implemented with i2, when routes were found using Open Route Service, GPX (\cite{noauthor_gpx_nodate}) and GeoJSON (\cite{noauthor_geojson_nodate}) strings were generated. These files were then used to create a share to email feature using the Twilio SENDGRID API (\cite{noauthor_email_nodate}). Initially, it was planned to send emails direct to the SENDGRID directly from the client, to mitigate the middle-man required to send the request, however it was found that SENDGRID would only accept incoming requests from the server. Therefore, an API endpoint was created with Gin to handle the POST request from the frontend. 
+
+Each email would contain a simple amount of predefined text with the included GPX and/or GeoJSON files selected for export. A modal was created to display the email form, where the user could input the recipient's email address, route name and choose what type of file to share \see{fig:basic-weather-panel}.
+
+Initially, it was planned to use the Strava API to upload GPX files directly to the user's Strava Routes account, however, it was found that the Strava API had no such endpoint to integrate with routes. It was decided to still implement Strava integration, but with activities, enabling route export as an activity for users without dedicated fitness devices. 
+
+A modal was created \see{fig:strava-modal} and a POST request endpoint set up to handle the request to the Strava API. The user would be required to log in to their Strava account, to enable the artefact access to upload activities. Once logged in, the user could select the route to upload, then the artefact would send the GPX file to the Strava API, where it would be converted to an activity and stored in the user's account \see{fig:strava-example}.
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-2/SR17/SR17png.png}
+  \caption{Share to Email Modal}
+  \label{fig:share-email-modal}
+\end{figure}
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-2/SR18/SR18 Upload Example 1.png}
+  \caption{Strava Activity}
+  \label{fig:strava-example}
+\end{figure}
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-2/SR18/SR18 Strava Modal.png}
+  \caption{Share to Strava Modal}
+  \label{fig:strava-modal}
+\end{figure}
+
+
+\subsection{Hazard Index Database Creation and Integration}
+\label{iteration2:hazard-index}
+
+Creation and integration of the hazard index database was the largest task of i2. The database was created using PostgreSQL using PostGIS. The database was split into eight tables representing a hazard, related details and its geospatial data \see{system:database-design}. Hazard types were chosen based on the most relevant hazards defined on the Open Street Map wiki (\cite{noauthor_keyhazard_nodate}) with the addition of a 'Cycling Infrastructure' hazard. The 'Cycling Infrastructure' hazard type was added to allow users to report and view bad cycling infrastructure in their area, with the intention of routing algorithms avoiding these areas in the future.
+
+To integrate the database into the artefact, API endpoints were created to handle GET and POST requests to the database. The database was connected to the Go backend using the 'github.com/lib/pq' package (\cite{noauthor_pq_nodate}), with Gin handling the routing of requests to the database. Using the fetch API, the frontend could make API calls, to add and retrieve hazards from the database, supplying coordinates for the hazard location/area and the hazard type \see{fig:hazard-creation}.
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point.png}
+  \caption{Hazard Creation Modal}
+  \label{fig:hazard-creation}
+\end{figure}
+
+Furthermore, it was vital to make the hazards visible on the map, therefore a new map layer was created to display the hazards. The layer was added to the map using the React Leaflet library, where the hazards were retrieved from the database and drawn on the map. These hazards were shown as both markers and polygons to represent a point or area hazard \see{fig:hazard-layer}. The API endpoint was set up to allow the user to retrieve all hazards within a five mile radius of a point, to enable the user to see hazards in their area, as the map was panned, the hazard layer would update \see{fig:hazard-API}.
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=300px]{figures/Progress Images/Iteration-2/SR32-37/sr32-hazard-popup.png}
+  \caption{Hazard Map Layer}
+  \label{fig:hazard-layer}
+\end{figure}
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API further developed.png}
+  \caption{Hazard API Query}
+  \label{fig:hazard-API}
+\end{figure}
+
+\subsection{Key Point-of-Interest (POI) Integration}
+\label{iteration2:poi-integration}
+
+The POI integration was the final feature of i2, where the user could view points of interest in their area. The POI data was retrieved from the Foursquare Places API (\cite{noauthor_places_nodate}). Two separate map layers were created similar to the hazard layer \see{iteration2:hazard-index}, one to display accommodation POI and another to display the attractions/leisure POI \see{fig:poi-layers}. The layer also allowed the user to click on each POI marker to view more information about the location, such as the name and address.
+
+After the core POI layers were developed, two buttons were then added to each POI popup window. These were to allow a user to either route to or via the POI. If the user chose to route to, the last route waypoint would be updated to the POI's latitude and longitude. Whereas to route via, the route waypoints would initially be taken to find which route waypoint was closest to the POI, it would then be inserted into waypoints before the closest waypoint. The route would then be recalculated to include the POI as a waypoint \see{fig:poi-route}.
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-2/SR40-45/SR40 - Attractions and Accommodation KeyPOI.png}
+  \caption{Attractions and Accommodation Layers}
+  \label{fig:poi-layers}
+\end{figure}
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png}
+  \caption{Route To/Via POI}
+  \label{fig:poi-route}
+\end{figure}
+
+\subsection{Main Challenges}
+\label{iteration2:main-challenges}
+
+The main challenges for i2 resided in setting up the SQL queries to handle the hazard data requests as well as oauth authentication with the Strava API.
+
+The INSERT hazard query was the most complex. The PLpgSQL language was used to create a function to handle  this logic as loops were required when inserting multiple PostGIS Point data types (coordinates) for each hazard. A loop was also required to insert the properties for each hazard, where each hazard could have one or more. The function was then called from the API endpoint, passing the json string input directly into the PLpgSQL function as type JSONB.
+
+The Strava API was also challenging as it was required to implement oAuth 2.0 manually to authorise the application to upload activities to the user's account. The Strava API documentation was relatively clear on how to implement this process, however, having not manually implemented oAuth before, without using libraries such as Auth0, it was a steep learning curve. This experience proved great later on however when implementing oAuth 1.0 for use with the Garmin Connect API \see{iteration3:garmin-integration}.
+
+\section{Iteration 3 - Round Trip, Route Import and Garmin Integration}
 \label{implementation:iteration3}
+
+\subsection{Round Trip Routing}
+
+\subsection{Route Import}
+
+\subsection{Garmin Connect Integration}
+\label{iteration3:garmin-integration}
+
+\subsection{Social Media Sharing}
+
+\subsection{Main Challenges}
