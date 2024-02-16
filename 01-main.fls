@@ -1445,6 +1445,34 @@ INPUT ./figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png
 INPUT figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png
 INPUT ./figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png
 INPUT ./figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png
+INPUT ./figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png
+INPUT ./figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png
+INPUT figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png
+INPUT ./figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png
+INPUT ./figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png
+INPUT ./figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png
+INPUT ./figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png
+INPUT figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png
+INPUT ./figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png
+INPUT ./figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png
+INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/zptmcm7m.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/psyro.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/zptmcm7t.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/zptmcm7v.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/zptmcm7t.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/zptmcm7y.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT ./09-testing.tex
 INPUT ./09-testing.tex
 INPUT ./09-testing.tex
@@ -1477,7 +1505,6 @@ INPUT ./11-reflection_and_conclusion.tex
 INPUT 11-reflection_and_conclusion.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT ./12-appendix-a.tex
 INPUT ./12-appendix-a.tex
 INPUT ./12-appendix-a.tex
@@ -1554,6 +1581,9 @@ INPUT ./01-main.out
 INPUT ./01-main.out
 INPUT 01-main.run.xml
 OUTPUT 01-main.run.xml
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb

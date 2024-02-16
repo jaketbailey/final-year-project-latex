@@ -766,6 +766,34 @@
       \verb https://www.liedman.net/leaflet-routing-machine/
       \endverb
     \endentry
+    \entry{noauthor_leaflet-simple-map-screenshoter_2022}{online}{}
+      \field{sortinit}{l}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Leaflet plugin plugin which take screenshot of map. Latest version: 0.5.0, last published: a year ago. Start using leaflet-simple-map-screenshoter in your project by running `npm i leaflet-simple-map-screenshoter`. There are 17 other projects in the npm registry using leaflet-simple-map-screenshoter.}
+      \field{day}{17}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{leaflet-simple-map-screenshoter}
+      \field{titleaddon}{npm}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/E56747GR/leaflet-simple-map-screenshoter.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.npmjs.com/package/leaflet-simple-map-screenshoter
+      \endverb
+      \verb{url}
+      \verb https://www.npmjs.com/package/leaflet-simple-map-screenshoter
+      \endverb
+    \endentry
     \entry{noauthor_marvel_nodate}{online}{}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
@@ -2013,6 +2041,34 @@
       \endverb
       \verb{url}
       \verb https://www.liedman.net/leaflet-routing-machine/
+      \endverb
+    \endentry
+    \entry{noauthor_leaflet-simple-map-screenshoter_2022}{online}{}
+      \field{sortinit}{l}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Leaflet plugin plugin which take screenshot of map. Latest version: 0.5.0, last published: a year ago. Start using leaflet-simple-map-screenshoter in your project by running `npm i leaflet-simple-map-screenshoter`. There are 17 other projects in the npm registry using leaflet-simple-map-screenshoter.}
+      \field{day}{17}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{leaflet-simple-map-screenshoter}
+      \field{titleaddon}{npm}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/jakeb/Zotero/storage/E56747GR/leaflet-simple-map-screenshoter.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.npmjs.com/package/leaflet-simple-map-screenshoter
+      \endverb
+      \verb{url}
+      \verb https://www.npmjs.com/package/leaflet-simple-map-screenshoter
       \endverb
     \endentry
     \entry{noauthor_marvel_nodate}{online}{}
