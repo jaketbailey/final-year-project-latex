@@ -65,16 +65,15 @@
 \contentsline {subsection}{\numberline {7.4.5}Main Challenges}{56}{subsection.7.4.5}%
 \contentsline {chapter}{\numberline {8}Testing}{57}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Unit Testing}{57}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Testing here}{57}{subsection.8.1.1}%
-\contentsline {section}{\numberline {8.2}Postman}{57}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{57}{section.8.3}%
-\contentsline {chapter}{\numberline {9}Evaluation}{58}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{58}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Evaluation Process}{58}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Evaluating Requirements}{58}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Limitations}{58}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Future Work}{58}{section.9.5}%
-\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{59}{chapter.10}%
-\contentsline {chapter}{References}{60}{section*.50}%
-\contentsline {chapter}{\numberline {A}Current Solutions}{63}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Initial User Requirements}{65}{appendix.B}%
+\contentsline {section}{\numberline {8.2}Postman}{58}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{58}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Evaluation}{60}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{60}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Evaluation Process}{60}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Evaluating Requirements}{60}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Limitations}{60}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Future Work}{60}{section.9.5}%
+\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{61}{chapter.10}%
+\contentsline {chapter}{References}{62}{section*.52}%
+\contentsline {chapter}{\numberline {A}Current Solutions}{65}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Initial User Requirements}{67}{appendix.B}%

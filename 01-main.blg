@@ -1,16 +1,16 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is '01-main.blg'
-[56] biber:340> INFO - === Fri Feb 16, 2024, 18:28:11
-[68] Biber.pm:419> INFO - Reading '01-main.bcf'
-[129] Biber.pm:979> INFO - Found 40 citekeys in bib section 0
-[146] Biber.pm:4419> INFO - Processing section 0
-[153] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
-[156] bibtex.pm:1713> INFO - LaTeX decoding ...
-[199] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
-[323] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[324] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[324] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[324] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[59] biber:340> INFO - === Fri Feb 16, 2024, 22:24:08
+[71] Biber.pm:419> INFO - Reading '01-main.bcf'
+[133] Biber.pm:979> INFO - Found 40 citekeys in bib section 0
+[150] Biber.pm:4419> INFO - Processing section 0
+[157] Biber.pm:4610> INFO - Looking for bibtex file 'refs.bib' for section 0
+[161] bibtex.pm:1713> INFO - LaTeX decoding ...
+[203] bibtex.pm:1519> INFO - Found BibTeX data source 'refs.bib'
+[324] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[325] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[325] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[325] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
 [362] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
 [362] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
 [362] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
