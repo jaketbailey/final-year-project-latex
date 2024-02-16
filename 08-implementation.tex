@@ -196,7 +196,15 @@ Once the updates were made to the forked library, the other functionalities of t
 
 Importing routes was a vital feature as it would enable route sharing across many applications supporting the same standards. The GPX and GeoJSON file formats were chosen to be supported as they are the most common file formats used for route sharing and were already used for exporting routes from the artefact. Adding such a minor feature would enable the artefact to manually import routes from other applications, such as Strava, Komoot and RideWithGPS.
 
+To interpret the GPX string, the DOMParser was used to parse the string into an XML document. The XML document was then traversed to find the route's latitude and longitude points, which were then stored in an array of latLng values. This array was then stored in a state variable called 'waypoints' whilst also being stored in LocalStorage. For GeoJSON, the JSON.parse method was used to parse the string, then the coordinates were extracted and stored in the same way as the coordinates in the GPX \see{fig:gpx-import}.
 
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png}
+  \caption{Import GPX Route}
+  \label{fig:gpx-import}
+\end{figure}
 
 \subsection{Garmin Connect Integration}
 \label{iteration3:garmin-integration}

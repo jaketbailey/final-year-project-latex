@@ -60,9 +60,9 @@
 \contentsline {section}{\numberline {7.4}Iteration 3 - Round Trip, Route Import and Garmin Integration}{53}{section.7.4}%
 \contentsline {subsection}{\numberline {7.4.1}Round Trip Routing}{53}{subsection.7.4.1}%
 \contentsline {subsection}{\numberline {7.4.2}Route Import}{53}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Garmin Connect Integration}{53}{subsection.7.4.3}%
-\contentsline {subsection}{\numberline {7.4.4}Social Media Sharing}{53}{subsection.7.4.4}%
-\contentsline {subsection}{\numberline {7.4.5}Main Challenges}{53}{subsection.7.4.5}%
+\contentsline {subsection}{\numberline {7.4.3}Garmin Connect Integration}{54}{subsection.7.4.3}%
+\contentsline {subsection}{\numberline {7.4.4}Social Media Sharing}{54}{subsection.7.4.4}%
+\contentsline {subsection}{\numberline {7.4.5}Main Challenges}{54}{subsection.7.4.5}%
 \contentsline {chapter}{\numberline {8}Testing}{55}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Unit Testing}{55}{section.8.1}%
 \contentsline {subsection}{\numberline {8.1.1}Testing here}{55}{subsection.8.1.1}%
@@ -75,6 +75,6 @@
 \contentsline {section}{\numberline {9.4}Limitations}{56}{section.9.4}%
 \contentsline {section}{\numberline {9.5}Future Work}{56}{section.9.5}%
 \contentsline {chapter}{\numberline {10}Reflection and Conclusion}{57}{chapter.10}%
-\contentsline {chapter}{References}{58}{section*.47}%
+\contentsline {chapter}{References}{58}{section*.48}%
 \contentsline {chapter}{\numberline {A}Current Solutions}{61}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Initial User Requirements}{63}{appendix.B}%
