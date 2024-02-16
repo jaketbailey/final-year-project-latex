@@ -113,14 +113,16 @@ Creation and integration of the hazard index database was the largest task of i2
 
 To integrate the database into the artefact, API endpoints were created to handle GET and POST requests to the database. The database was connected to the Go backend using the 'github.com/lib/pq' package (\cite{noauthor_pq_nodate}), with Gin handling the routing of requests to the database. Using the fetch API, the frontend could make API calls, to add and retrieve hazards from the database, supplying coordinates for the hazard location/area and the hazard type \see{fig:hazard-creation}.
 
+To enable users to contribute to the hazard index database, a UI was created using the Leaflet Draw API (\cite{noauthor_leaflet_nodate-2}). The API allowed a few controls to be added to the map, including buttons to draw markers and polygons onto the map. These buttons were used to create a hazard, where I implemented an event handler to catch the polygon/marker drawn once completed. This event handler would then proceed to make open the hazard creation modal, with the coordinates of the drawn polygon/marker passed to the modal via props. The user could then add the extra information required for the hazard and submit the hazard to the database.
+
+Furthermore, to display the hazard data on the map, a new layer must be created. The layer was added to the map using the React Leaflet library, where the hazards were retrieved from the database and drawn on the map. These hazards were shown as both markers and polygons to represent a point or area hazard \see{fig:hazard-layer}. The API endpoint was set up to allow the user to retrieve all hazards within a five mile radius of a point, to enable the user to see hazards in their area, as the map was panned, the hazard layer would update \see{fig:hazard-API}.
+
 \begin{figure}[!ht]
   \centering
   \includegraphics[width=425px]{figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point.png}
   \caption{Hazard Creation Modal}
   \label{fig:hazard-creation}
 \end{figure}
-
-Furthermore, it was vital to make the hazards visible on the map, therefore a new map layer was created to display the hazards. The layer was added to the map using the React Leaflet library, where the hazards were retrieved from the database and drawn on the map. These hazards were shown as both markers and polygons to represent a point or area hazard \see{fig:hazard-layer}. The API endpoint was set up to allow the user to retrieve all hazards within a five mile radius of a point, to enable the user to see hazards in their area, as the map was panned, the hazard layer would update \see{fig:hazard-API}.
 
 \begin{figure}[!ht]
   \centering

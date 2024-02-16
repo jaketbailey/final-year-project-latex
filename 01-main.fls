@@ -1583,42 +1583,141 @@ INPUT ./15-appendix-d.tex
 INPUT 15-appendix-d.tex
 INPUT ./15-appendix-d.tex
 INPUT 15-appendix-d.tex
-INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
-INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
-INPUT figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
-INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png
-INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
-INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
-INPUT figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
-INPUT ./figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png
-INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
-INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
-INPUT figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
-INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png
-INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
-INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
-INPUT figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
-INPUT ./figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png
-INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
-INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
-INPUT figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
-INPUT ./figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png
-INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
-INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
-INPUT figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
-INPUT ./figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png
-INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
-INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
-INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
-INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png
-INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
-INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
-INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
-INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png
-INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
-INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
-INPUT figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
-INPUT ./figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png
+INPUT figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png
+INPUT figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png
+INPUT figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png
+INPUT ./figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png
+INPUT ./figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png
+INPUT figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png
+INPUT ./figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png
+INPUT ./figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png
+INPUT ./figures/Progress Images/Iteration-2/SR15/SR15 - Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR15/SR15 - Success.png
+INPUT figures/Progress Images/Iteration-2/SR15/SR15 - Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR15/SR15 - Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR15/SR15 - Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png
+INPUT figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png
+INPUT figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png
+INPUT figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Success.png
+INPUT figures/Progress Images/Iteration-2/SR17/SR17 Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR17/SR17 Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png
+INPUT figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png
+INPUT figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png
+INPUT figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png
+INPUT figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png
+INPUT figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png
+INPUT figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png
+INPUT figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png
+INPUT ./figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png
+INPUT ./figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png
+INPUT ./figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png
+INPUT figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png
+INPUT ./figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png
+INPUT ./figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png
+INPUT ./figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png
+INPUT ./figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png
+INPUT figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png
+INPUT ./figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png
+INPUT ./figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png
+INPUT figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png
+INPUT figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png
+INPUT figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png
+INPUT figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png
+INPUT figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png
+INPUT ./figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png
+INPUT figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png
+INPUT figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png
+INPUT figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png
+INPUT figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png
+INPUT ./figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png
 INPUT ./16-appendix-e.tex
 INPUT ./16-appendix-e.tex
 INPUT ./16-appendix-e.tex

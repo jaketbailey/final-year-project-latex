@@ -2879,7 +2879,8 @@
     <bcf:citekey order="50" intorder="1">noauthor_email_nodate</bcf:citekey>
     <bcf:citekey order="51" intorder="1">noauthor_keyhazard_nodate</bcf:citekey>
     <bcf:citekey order="52" intorder="1">noauthor_pq_nodate</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">noauthor_places_nodate</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">noauthor_leaflet_nodate-2</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">noauthor_places_nodate</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
