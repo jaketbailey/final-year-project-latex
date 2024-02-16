@@ -208,7 +208,7 @@ To interpret the GPX string, the DOMParser was used to parse the string into an 
 \subsection{Garmin Connect Integration}
 \label{iteration3:garmin-integration}
 
-To integrate with the Garmin Connect API, the oAuth 1.0 protocol was implemented to allow the artefact to access the user's Garmin Connect account. The oAuth 1.0 protocol was implemented manually, as the Garmin Connect API documentation was clear on the oAuth process, having implemented oAuth 2.0 for Strava \see{iteration2:sharing-route}, the process was far easier to understand.
+To integrate with the Garmin Connect API, the oAuth 1.0 protocol was implemented to allow the artefact to access the user's Garmin Connect account. The oAuth 1.0 protocol was implemented manually, as the Garmin Connect API documentation was clear on the oAuth process, having implemented oAuth 2.0 for Strava \see{iteration2:sharing-route}, the process was more understandable.
 
 Once authentication had been completed, the create route endpoint was set up to handle the POST request from the frontend. The endpoint required the oAuth token, oAuth secret, the route details as a JSON string as per the Garmin documentation. The fetch API was then called to make the post request to the Go backend which would pass the route to the Garmin API to be uploaded. The route was then stored as a course in the user's Garmin Connect account, where it could be accessed from the Garmin Connect website or app \see{fig:garmin-connect}. 
 
@@ -239,3 +239,5 @@ Where $x_1$ and $y_1$ are the latitude and longitude of the start point, and $x_
 
 \subsection{Main Challenges}
 \label{iteration3:main-challenges}
+
+The main challenge of i3 was the oAuth 1.0 protocol for authentication with the Garmin Connect API. Despite having implemented oAuth 2.0 for Strava \see{iteration2:sharing-route}, Garmin did use an alternative protocol. The logic used for the Strava oAuth process was not transferable, therefore it had to be implemented from scratch. Minor issues with React were also found where in developer mode, the artefact would re-render twice, leading to the user-independent token being changed twice, causing issues with the oAuth process. This was resolved through thorough debugging, ensuring correct use of the useEffect and testing in production mode.
