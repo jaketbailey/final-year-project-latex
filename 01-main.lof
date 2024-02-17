@@ -7,41 +7,41 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces User Feedback\relax }}{27}{figure.caption.12}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Firebase Research Application\relax }}{28}{figure.caption.13}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces User Feedback\relax }}{29}{figure.caption.12}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Firebase Research Application\relax }}{30}{figure.caption.13}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Low-Fidelity Prototype 1\relax }}{35}{figure.caption.25}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Low-Fidelity Prototype 2\relax }}{35}{figure.caption.26}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces High-Fidelity Prototype 1\relax }}{36}{figure.caption.27}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces High-Fidelity Prototype 2\relax }}{36}{figure.caption.28}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Use Case Diagram\relax }}{38}{figure.caption.29}%
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Client-Server Architecture\relax }}{39}{figure.caption.30}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Entity Relationship Diagram\relax }}{39}{figure.caption.31}%
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Modular Components\relax }}{40}{figure.caption.32}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Low-Fidelity Prototype 1\relax }}{37}{figure.caption.25}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Low-Fidelity Prototype 2\relax }}{37}{figure.caption.26}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces High-Fidelity Prototype 1\relax }}{38}{figure.caption.27}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces High-Fidelity Prototype 2\relax }}{38}{figure.caption.28}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Use Case Diagram\relax }}{40}{figure.caption.29}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Client-Server Architecture\relax }}{41}{figure.caption.30}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Entity Relationship Diagram\relax }}{41}{figure.caption.31}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Modular Components\relax }}{42}{figure.caption.32}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Basic Map with Route\relax }}{43}{figure.caption.33}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Routing UI\relax }}{44}{figure.caption.34}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Route Waypoint/Elevation Array\relax }}{44}{figure.caption.35}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Elevation Plot Hover Functionality\relax }}{45}{figure.caption.36}%
-\contentsline {figure}{\numberline {7.5}{\ignorespaces Weather Panel\relax }}{45}{figure.caption.37}%
-\contentsline {figure}{\numberline {7.6}{\ignorespaces Share to Email Modal\relax }}{47}{figure.caption.38}%
-\contentsline {figure}{\numberline {7.7}{\ignorespaces Strava Activity\relax }}{48}{figure.caption.39}%
-\contentsline {figure}{\numberline {7.8}{\ignorespaces Share to Strava Modal\relax }}{48}{figure.caption.40}%
-\contentsline {figure}{\numberline {7.9}{\ignorespaces Hazard Creation Modal\relax }}{49}{figure.caption.41}%
-\contentsline {figure}{\numberline {7.10}{\ignorespaces Hazard Map Layer\relax }}{50}{figure.caption.42}%
-\contentsline {figure}{\numberline {7.11}{\ignorespaces Hazard API Query\relax }}{51}{figure.caption.43}%
-\contentsline {figure}{\numberline {7.12}{\ignorespaces Attractions and Accommodation Layers\relax }}{52}{figure.caption.44}%
-\contentsline {figure}{\numberline {7.13}{\ignorespaces Route To/Via POI\relax }}{52}{figure.caption.45}%
-\contentsline {figure}{\numberline {7.14}{\ignorespaces Round Trip Route\relax }}{54}{figure.caption.46}%
-\contentsline {figure}{\numberline {7.15}{\ignorespaces Import GPX Route\relax }}{54}{figure.caption.47}%
-\contentsline {figure}{\numberline {7.16}{\ignorespaces Garmin Connect Successfully Uploaded Route\relax }}{55}{figure.caption.48}%
-\contentsline {figure}{\numberline {7.17}{\ignorespaces Share to Facebook\relax }}{56}{figure.caption.49}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Basic Map with Route\relax }}{45}{figure.caption.33}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Routing UI\relax }}{46}{figure.caption.34}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Route Waypoint/Elevation Array\relax }}{46}{figure.caption.35}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Elevation Plot Hover Functionality\relax }}{47}{figure.caption.36}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Weather Panel\relax }}{47}{figure.caption.37}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Share to Email Modal\relax }}{49}{figure.caption.38}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Strava Activity\relax }}{50}{figure.caption.39}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Share to Strava Modal\relax }}{50}{figure.caption.40}%
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Hazard Creation Modal\relax }}{51}{figure.caption.41}%
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Hazard Map Layer\relax }}{52}{figure.caption.42}%
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Hazard API Query\relax }}{53}{figure.caption.43}%
+\contentsline {figure}{\numberline {7.12}{\ignorespaces Attractions and Accommodation Layers\relax }}{54}{figure.caption.44}%
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Route To/Via POI\relax }}{54}{figure.caption.45}%
+\contentsline {figure}{\numberline {7.14}{\ignorespaces Round Trip Route\relax }}{56}{figure.caption.46}%
+\contentsline {figure}{\numberline {7.15}{\ignorespaces Import GPX Route\relax }}{56}{figure.caption.47}%
+\contentsline {figure}{\numberline {7.16}{\ignorespaces Garmin Connect Successfully Uploaded Route\relax }}{57}{figure.caption.48}%
+\contentsline {figure}{\numberline {7.17}{\ignorespaces Share to Facebook\relax }}{58}{figure.caption.49}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Unit Tests\relax }}{58}{figure.caption.50}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Unit Tests\relax }}{60}{figure.caption.50}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Plotaroute.com UI\relax }}{65}{figure.caption.54}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Komoot UI\relax }}{66}{figure.caption.55}%
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Google Maps UI\relax }}{66}{figure.caption.56}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Plotaroute.com UI\relax }}{67}{figure.caption.54}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Komoot UI\relax }}{68}{figure.caption.55}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Google Maps UI\relax }}{68}{figure.caption.56}%
 \addvspace {10\p@ }

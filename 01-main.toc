@@ -26,54 +26,54 @@
 \contentsline {subsection}{\numberline {4.2.1}Kanban Board and Projects}{24}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Version Control}{25}{subsection.4.2.2}%
 \contentsline {section}{\numberline {4.3}Supervisor Meetings}{25}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Requirements}{26}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Requirements Gathering}{26}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Identifying Users}{26}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Requirements Specification}{27}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Elicited Requirements}{29}{section.5.4}%
-\contentsline {chapter}{\numberline {6}Design}{33}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Assumptions and Decisions Taken}{33}{section.6.1}%
-\contentsline {section}{\numberline {6.2}User Interface}{34}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Colour Scheme}{34}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Low Fidelity Prototype}{34}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}High-Fidelity Prototype}{34}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}Use Cases}{37}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Use Case Diagram}{37}{subsection.6.3.1}%
-\contentsline {section}{\numberline {6.4}System Design}{37}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Architecture Design}{37}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Database Design}{39}{subsection.6.4.2}%
-\contentsline {subsection}{\numberline {6.4.3}Modular Architecture}{40}{subsection.6.4.3}%
-\contentsline {section}{\numberline {6.5}Critique of Designs}{41}{section.6.5}%
-\contentsline {chapter}{\numberline {7}Implementation}{42}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Development Environment}{42}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Iteration 1 - Basic UI and Core Routing}{42}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Leaflet - Open Street Map (OSM)}{42}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Basic Route Planning}{43}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}Elevation Chart}{43}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}Weather Information Panel}{45}{subsection.7.2.4}%
-\contentsline {subsection}{\numberline {7.2.5}Main Challenges}{46}{subsection.7.2.5}%
-\contentsline {section}{\numberline {7.3}Iteration 2 - Route Sharing, Hazard Index and POI Integration}{46}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Sharing Route Functionality}{46}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}Hazard Index Database Creation and Integration}{47}{subsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.3.3}Key Point-of-Interest (POI) Integration}{49}{subsection.7.3.3}%
-\contentsline {subsection}{\numberline {7.3.4}Main Challenges}{50}{subsection.7.3.4}%
-\contentsline {section}{\numberline {7.4}Iteration 3 - Round Trip, Route Import and Garmin Integration}{53}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Round Trip Routing}{53}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Route Import}{53}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}Garmin Connect Integration}{54}{subsection.7.4.3}%
-\contentsline {subsection}{\numberline {7.4.4}Social Media Sharing}{55}{subsection.7.4.4}%
-\contentsline {subsection}{\numberline {7.4.5}Main Challenges}{56}{subsection.7.4.5}%
-\contentsline {chapter}{\numberline {8}Testing}{57}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Unit Testing}{57}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Postman}{58}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{58}{section.8.3}%
-\contentsline {chapter}{\numberline {9}Evaluation}{60}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{60}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Evaluation Process}{60}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Evaluating Requirements}{60}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Limitations}{60}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Future Work}{60}{section.9.5}%
-\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{61}{chapter.10}%
-\contentsline {chapter}{References}{62}{section*.52}%
-\contentsline {chapter}{\numberline {A}Current Solutions}{65}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Initial User Requirements}{67}{appendix.B}%
+\contentsline {chapter}{\numberline {5}Requirements}{28}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Requirements Gathering}{28}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Identifying Users}{28}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Requirements Specification}{29}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Elicited Requirements}{31}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Design}{35}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Assumptions and Decisions Taken}{35}{section.6.1}%
+\contentsline {section}{\numberline {6.2}User Interface}{36}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Colour Scheme}{36}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Low Fidelity Prototype}{36}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}High-Fidelity Prototype}{36}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Use Cases}{39}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Use Case Diagram}{39}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}System Design}{39}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Architecture Design}{39}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Database Design}{41}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Modular Architecture}{42}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Critique of Designs}{43}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Implementation}{44}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Development Environment}{44}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Iteration 1 - Basic UI and Core Routing}{44}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Leaflet - Open Street Map (OSM)}{44}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Basic Route Planning}{45}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Elevation Chart}{45}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Weather Information Panel}{47}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Main Challenges}{48}{subsection.7.2.5}%
+\contentsline {section}{\numberline {7.3}Iteration 2 - Route Sharing, Hazard Index and POI Integration}{48}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Sharing Route Functionality}{48}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Hazard Index Database Creation and Integration}{49}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Key Point-of-Interest (POI) Integration}{51}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Main Challenges}{52}{subsection.7.3.4}%
+\contentsline {section}{\numberline {7.4}Iteration 3 - Round Trip, Route Import and Garmin Integration}{55}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Round Trip Routing}{55}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Route Import}{55}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Garmin Connect Integration}{56}{subsection.7.4.3}%
+\contentsline {subsection}{\numberline {7.4.4}Social Media Sharing}{57}{subsection.7.4.4}%
+\contentsline {subsection}{\numberline {7.4.5}Main Challenges}{58}{subsection.7.4.5}%
+\contentsline {chapter}{\numberline {8}Testing}{59}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Unit Testing}{59}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Postman}{60}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Chrome Developer Tools}{60}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Evaluation}{62}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Evaluation Methods and Techniques}{62}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Evaluation Process}{62}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Evaluating Requirements}{62}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Limitations}{62}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Future Work}{62}{section.9.5}%
+\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{63}{chapter.10}%
+\contentsline {chapter}{References}{64}{section*.52}%
+\contentsline {chapter}{\numberline {A}Current Solutions}{67}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Initial User Requirements}{69}{appendix.B}%
