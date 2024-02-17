@@ -1516,6 +1516,16 @@ INPUT ./10-evaluation.tex
 INPUT 10-evaluation.tex
 INPUT ./10-evaluation.tex
 INPUT 10-evaluation.tex
+INPUT ./figures/Old FYP Gantt - Timeline 1.pdf
+INPUT ./figures/Old FYP Gantt - Timeline 1.pdf
+INPUT figures/Old FYP Gantt - Timeline 1.pdf
+INPUT ./figures/Old FYP Gantt - Timeline 1.pdf
+INPUT ./figures/Old FYP Gantt - Timeline 1.pdf
+INPUT ./figures/Actual FYP Gantt.pdf
+INPUT ./figures/Actual FYP Gantt.pdf
+INPUT figures/Actual FYP Gantt.pdf
+INPUT ./figures/Actual FYP Gantt.pdf
+INPUT ./figures/Actual FYP Gantt.pdf
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
