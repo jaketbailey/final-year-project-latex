@@ -69,10 +69,10 @@
 \contentsline {section}{\numberline {8.3}Chrome Developer Tools}{60}{section.8.3}%
 \contentsline {chapter}{\numberline {9}Evaluation}{62}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Project Timeline and Management}{62}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Evaluating Requirements}{62}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Limitations}{66}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Future Work}{66}{section.9.4}%
-\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{67}{chapter.10}%
-\contentsline {chapter}{References}{68}{section*.57}%
-\contentsline {chapter}{\numberline {A}Current Solutions}{71}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Initial User Requirements}{73}{appendix.B}%
+\contentsline {section}{\numberline {9.2}Evaluating Requirements}{65}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Limitations}{67}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Future Work}{67}{section.9.4}%
+\contentsline {chapter}{\numberline {10}Reflection and Conclusion}{68}{chapter.10}%
+\contentsline {chapter}{References}{69}{section*.57}%
+\contentsline {chapter}{\numberline {A}Current Solutions}{72}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Initial User Requirements}{74}{appendix.B}%
