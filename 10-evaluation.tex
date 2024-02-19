@@ -14,7 +14,7 @@ The development methodology had also changed after iteration 1 was complete, mov
 
 The final gantt chart demonstrates the ongoing process of the project, with dedicated development period catered around the progress of the report. The core development periods were between November and December, then January to the start of semester two. Approximately, development consisted of two months, on average twenty to twenty-five hours each week. Breaking up the development in such a way enabled for both development and report writing to be progressing effectively without one hindering the other.
 
-The project overall was managed more effectively than originally planned, running ahead of schedule throughout the academic year. Having extra time allowed for the project to be refined and improved without the pressure of an immediate deadline. Receiving constant feedback from the client yielded a more developed understanding of the requirements, the projects direction and suggestions for new requirements. The requirements originated as user stories, broken down into smaller, system requirements. Doing so made the use of GitHub projects and issues more effective with the ability to visualise project progress, further aiding to an iterative agile development process.
+The project overall was managed more effectively than originally planned, running ahead of schedule throughout the academic year. Having extra time allowed for refinements and improvements without the pressure of an immediate deadline. Constant feedback from the client yielded a more developed understanding of the requirements, the projects direction and suggestions for new requirements. The requirements originated as user stories, broken down into smaller, system requirements. Doing so made the use of GitHub projects and issues more effective with the ability to visualise project progress, further aiding to an iterative agile development process.
 
 To summarise, the project was managed effectively, with the exception of the early start of iteration 1. The time spent on both development and report writing was balanced well around other modules and commitments, limiting the chance of burnout. The primary issue was the early stages where development decisions were made without designs and requirements which had a knock-on effect in later project stages when integrating more complex features with pre-existing code. It is critical to ensure the project is well planned and development doesn't begin until the requirements and designs are complete to limit the chance of future rework and refactoring.
 
@@ -35,6 +35,16 @@ To summarise, the project was managed effectively, with the exception of the ear
 \clearpage
 \section{Evaluating Requirements}
 \label{evaluation:requirements}
+
+For this project, assessing its success based solely on the fulfilment of the defined requirements might not provide a comprehensive evaluation. All requirements were established ahead of the three development iterations, with a revision made after primary research was completed \see{fig:research-results}. User stories were created and broken down into smaller system requirements, which were assigned to the development iterations based on priority ordering via the MoSCoW method \see{chap:requirements}. Further analysis was required to determine is all requirements were met and if they combine to meet all project objectives. For all discussion surrounding the project's objectives \see{chap:reflection-and-conclusion}.
+
+Overall, 47 of 51 system requirements were met \see{evaluatedrq}. The four requirements not met was due to the prioritisation of other requirements, the missed requirements were not critical to the system's functionality. The primary reason these were not met was due to the focus on \hyperref[SR:50]{SR50} at the end of development which was a complex but ideal feature to implement. Therefore, some of the initial requirements were not met, should there have been extra development time, these would be the first to be implemented.
+
+The requirements missed were primary from 'User Story 05' \see{tab:user-story-05} due to the requirements' prioritisation ranking as 'Could' with the MoSCoW method. These focused on integrating weather data into the route planning algorithm. Whilst consideration occurred for extending development and implementing, there was no such weather data API which would serve effectively for this specific purpose. This was primarily due to limited funds and the complexity of the feature.
+
+All requirements met can be evidenced by the work undertaken within the 'Implementation' chapter of this report \see{chap:implementation}. The routing machine provides users with core routing functionality and customisability (\hyperref[tab:user-story-02]{User Story 02}), whilst provides the user with the ability to export and share routes locally or to external services such as Garmin, Strava and Google Drive (\hyperref[tab:user-story-03]{User Story 03}, \hyperref[tab:user-story-04]{User Story 04}) \see{fig:garmin-connect}. Furthermore, the map component enables users to view and manipulate the route (\hyperref[tab:user-story-06]{User Story 06}) \see{fig:route-import}.
+
+Many requirements were reliant on others to be built first, therefore the MoSCoW method was both used to determine the prioritisation based on user feedback with consideration of requirements' dependencies on other requirements. This enabled a fully functional, well-rounded system to be developed which was developed in a logical order, with a focus on modularity. Reflections on the requirements and objectives can be found in the conclusion \see{reflection-and-conclusion:outcomes/objectives-met}
 
 \begingroup
 \setlength{\tabcolsep}{10pt} % Default value: 6pt
@@ -84,7 +94,7 @@ To summarise, the project was managed effectively, with the exception of the ear
     \small
     \begin{tabularx}{\textwidth}{ p{1cm} p{11cm} p{1cm} }
         \hline
-        SR & Description & Met? \\ 
+        ID & Description & Met? \\ 
         \hline
         & \textbf{\hyperref[tab:user-story-05]{User Story 05}} \\
         \hyperref[SR:19]{SR19} & The system must provide the user with a weather condition overlay. & Y \\
@@ -122,7 +132,7 @@ To summarise, the project was managed effectively, with the exception of the ear
     \small
     \begin{tabularx}{\textwidth}{ p{1cm} p{11cm} p{1cm} }
         \hline
-        SR & Description & Met? \\ 
+        ID & Description & Met? \\ 
         \hline
         & \textbf{\hyperref[tab:user-story-07]{User Story 07 Cont.}}  \\
         \hyperref[SR:38]{SR38} & The infrastructure input modal must provide an input box providing the user with the option to supply more detail & Y\\
