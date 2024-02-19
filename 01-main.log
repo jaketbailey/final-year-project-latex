@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  19 FEB 2024 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  19 FEB 2024 21:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -928,143 +928,139 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
  (./02-introduction.tex
 Chapter 1.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11
-
-
-]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 35.
- (/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 20.
+(/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [12] [13]
-Underfull \hbox (badness 1163) in paragraph at lines 112--112
+) [11
+
+
+] [12] [13]
+Underfull \hbox (badness 1163) in paragraph at lines 119--119
 \T1/ptm/m/n/12 fall ill un-ex-pect-edly dur-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
 []|\T1/ptm/m/n/12 Supervisor
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 113--114
+Underfull \hbox (badness 1584) in paragraph at lines 120--121
 \T1/ptm/m/n/12 due to the lack of tech-ni-
  []
 
 
-Overfull \hbox (5.74583pt too wide) in paragraph at lines 115--115
+Overfull \hbox (5.74583pt too wide) in paragraph at lines 122--122
 []|\T1/ptm/m/n/12 Management| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--115
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
 []|\T1/ptm/m/n/12 During the project, the
  []
 
 
-Underfull \hbox (badness 8132) in paragraph at lines 115--115
+Underfull \hbox (badness 8132) in paragraph at lines 122--122
 \T1/ptm/m/n/12 re-quire-ments ini-tially sug-
  []
 
 
-Underfull \hbox (badness 4429) in paragraph at lines 115--115
+Underfull \hbox (badness 4429) in paragraph at lines 122--122
 \T1/ptm/m/n/12 gested may change. To
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 115--115
+Underfull \hbox (badness 2591) in paragraph at lines 122--122
 \T1/ptm/m/n/12 mit-i-gate this, com-mu-ni-cate
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 115--115
+Underfull \hbox (badness 1275) in paragraph at lines 122--122
 \T1/ptm/m/n/12 the cur-rent re-quire-ments to
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 116--116
+Underfull \hbox (badness 4995) in paragraph at lines 123--123
 []|\T1/ptm/m/n/12 Time Avail-
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 116--117
+Underfull \hbox (badness 3281) in paragraph at lines 123--124
 \T1/ptm/m/n/12 project may be-come more
  []
 
 
-Underfull \hbox (badness 6708) in paragraph at lines 116--117
+Underfull \hbox (badness 6708) in paragraph at lines 123--124
 \T1/ptm/m/n/12 sider po-ten-tial fu-ture set-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--118
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []|\T1/ptm/m/n/12 Data
  []
 
 
-Overfull \hbox (7.98041pt too wide) in paragraph at lines 118--118
+Overfull \hbox (7.98041pt too wide) in paragraph at lines 125--125
 \T1/ptm/m/n/12 loss/corruption| 
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 118--118
+Underfull \hbox (badness 1668) in paragraph at lines 125--125
 []|\T1/ptm/m/n/12 Data loss would mean the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
 []|\T1/ptm/m/n/12 Hardware
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
 \T1/ptm/m/n/12 for de-vel-op-ment/hosting
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 119--119
+Underfull \hbox (badness 1609) in paragraph at lines 126--126
 \T1/ptm/m/n/12 crashes/hardware gets dam-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
 \T1/ptm/m/n/12 aged. En-sure mul-ti-ple
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 119--119
+Underfull \hbox (badness 2334) in paragraph at lines 126--126
 \T1/ptm/m/n/12 de-vices are be-ing used so
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
 \T1/ptm/m/n/12 de-vel-op-ment can con-tinue
  []
 
 
-Underfull \hbox (badness 3000) in paragraph at lines 119--119
+Underfull \hbox (badness 3000) in paragraph at lines 126--126
 \T1/ptm/m/n/12 even whilst one de-vice is
  []
 
 
-Overfull \hbox (9.97255pt too wide) in paragraph at lines 120--120
+Overfull \hbox (9.97255pt too wide) in paragraph at lines 127--127
 []|\T1/ptm/m/n/12 Documentation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 []|\T1/ptm/m/n/12 Documentation for frame-
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 120--121
+Underfull \hbox (badness 5475) in paragraph at lines 127--128
 \T1/ptm/m/n/12 range of read-ily avail-able
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 120--121
+Underfull \hbox (badness 2020) in paragraph at lines 127--128
 \T1/ptm/m/n/12 on-line for all the re-quired
  []
 
@@ -1607,12 +1603,15 @@ Overfull \hbox (3.09445pt too wide) in alignment at lines 161--161
 
  (./11-reflection_and_conclusion.tex
 Chapter 10.
-) [73
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73
 
 
 
 
-] [74
+]) [74] [75
 
 
 
@@ -1621,30 +1620,30 @@ Overfull \hbox (21.26544pt too wide) in paragraph at lines 151--151
 \T1/ptm/m/n/12 cling? [Pub-lisher: Rout-ledge _eprint: https://doi.org/10.1080/21650020.2014.955210].
  []
 
-[75] [76]
+[76] [77]
 \openout2 = `12-appendix-a.aux'.
 
  (./12-appendix-a.tex
 Appendix A.
-<figures/plotarouteui.png, id=1597, 1289.56781pt x 717.43031pt>
+<figures/plotarouteui.png, id=1612, 1289.56781pt x 717.43031pt>
 File: figures/plotarouteui.png Graphic file (type png)
 <use figures/plotarouteui.png>
 Package pdftex.def Info: figures/plotarouteui.png  used on input line 4.
 (pdftex.def)             Requested size: 426.79134pt x 237.43146pt.
-<figures/komootui.png, id=1598, 1444.64719pt x 733.23938pt>
+<figures/komootui.png, id=1613, 1444.64719pt x 733.23938pt>
 File: figures/komootui.png Graphic file (type png)
 <use figures/komootui.png>
 Package pdftex.def Info: figures/komootui.png  used on input line 11.
 (pdftex.def)             Requested size: 426.79134pt x 216.61702pt.
-<figures/gmapsui.png, id=1599, 1445.4pt x 730.98094pt>
+<figures/gmapsui.png, id=1614, 1445.4pt x 730.98094pt>
 File: figures/gmapsui.png Graphic file (type png)
 <use figures/gmapsui.png>
 Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
 (pdftex.def)             Requested size: 426.79134pt x 215.83827pt.
-) [77
+) [78
 
 
- <./figures/plotarouteui.png (PNG copy)>] [78 <./figures/komootui.png (PNG copy)> <./figures/gmapsui.png (PNG copy)>]
+ <./figures/plotarouteui.png (PNG copy)>] [79 <./figures/komootui.png (PNG copy)> <./figures/gmapsui.png (PNG copy)>]
 \openout2 = `13-appendix-b.aux'.
 
  (./13-appendix-b.tex
@@ -1779,12 +1778,12 @@ Overfull \hbox (5.55505pt too wide) in paragraph at lines 125--125
 []|\T1/ptm/m/n/12 Should| 
  []
 
-) [79
+) [80
 
 
 
 
-] [80] [81] (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix-a.aux) (./13-appendix-b.aux))
+] [81] [82] (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix-a.aux) (./13-appendix-b.aux))
 Package rerunfilecheck Info: File `01-main.out' has not changed.
 (rerunfilecheck)             Checksum: B6ECE2E8C10805BFBBAC426D4F3CE369;13022.
 Package logreq Info: Writing requests to '01-main.run.xml'.
@@ -1792,18 +1791,18 @@ Package logreq Info: Writing requests to '01-main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25436 strings out of 477985
- 473740 string characters out of 5840059
- 1891388 words of memory out of 5000000
+ 25437 strings out of 477985
+ 473747 string characters out of 5840059
+ 1892388 words of memory out of 5000000
  44828 multiletter control sequences out of 15000+600000
  571489 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,12n,92p,2233b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (81 pages, 64742065 bytes).
+Output written on 01-main.pdf (82 pages, 64745480 bytes).
 PDF statistics:
- 1718 PDF objects out of 1728 (max. 8388607)
- 1418 compressed objects within 15 object streams
- 273 named destinations out of 1000 (max. 500000)
+ 1733 PDF objects out of 2073 (max. 8388607)
+ 1432 compressed objects within 15 object streams
+ 274 named destinations out of 1000 (max. 500000)
  859 words of extra memory for PDF output out of 10000 (max. 10000000)
 
