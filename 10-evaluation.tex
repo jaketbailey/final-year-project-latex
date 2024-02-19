@@ -44,7 +44,7 @@ The requirements missed were primary from 'User Story 05' \see{tab:user-story-05
 
 All requirements met can be evidenced by the work undertaken within the 'Implementation' chapter of this report \see{chap:implementation}. The routing machine provides users with core routing functionality and customisability (\hyperref[tab:user-story-02]{User Story 02}), whilst provides the user with the ability to export and share routes locally or to external services such as Garmin, Strava and Google Drive (\hyperref[tab:user-story-03]{User Story 03}, \hyperref[tab:user-story-04]{User Story 04}) \see{fig:garmin-connect}. Furthermore, the map component enables users to view and manipulate the route (\hyperref[tab:user-story-06]{User Story 06}) \see{fig:route-import}.
 
-Many requirements were reliant on others to be built first, therefore the MoSCoW method was both used to determine the prioritisation based on user feedback with consideration of requirements' dependencies on other requirements. This enabled a fully functional, well-rounded system to be developed which was developed in a logical order, with a focus on modularity. Reflections on the requirements and objectives can be found in the conclusion \see{reflection-and-conclusion:outcomes/objectives-met}
+Many requirements were reliant on others to be built first, therefore the MoSCoW method was both used to determine the prioritisation based on user feedback with consideration of requirements' dependencies on other requirements. This enabled a fully functional, well-rounded system to be developed which was developed in a logical order, with a focus on modularity. Reflections on the requirements and objectives can be found in the conclusion \see{reflection-and-conclusion:outcomes/objectives-met}.
 
 \begingroup
 \setlength{\tabcolsep}{10pt} % Default value: 6pt
@@ -165,6 +165,21 @@ Many requirements were reliant on others to be built first, therefore the MoSCoW
 \section{Limitations}
 \label{evaluation:limitations}
 
+
+
 \section{Future Work}
 \label{evaluation:future}
 
+The four outstanding requirements that were not met will be migrated into the next development iteration. The main focus will be integrating weather data within route planning. The following limitations will also be addressed:
+\begin{itemize}
+    \item Rewriting Routing UI to increase modularity and efficiency of the code.
+    \item Improving route import, including support for Garmin, Strava and other services.
+    \item Minimise number of floating overlays and integrate into core UI elements.
+    \item Improve round trip support, build native support for round trips.
+\end{itemize}
+Addressing the limitations of the project will be the primary focus, it's improvement to include some desired improvements to the system including:
+\begin{itemize}
+    \item Implementing a cloud-based server to store user data and routes.
+    \item Implementing a system to allow users to save routes and access them from different devices.
+    \item Implementing a system to allow sharing of1 routes with other users.
+\end{itemize}
