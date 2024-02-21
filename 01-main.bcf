@@ -2818,4 +2818,131 @@
       <bcf:entrytype>article</bcf:entrytype>
       <bcf:entrytype>report</bcf:entrytype>
       <bcf:constraint type="mandatory">
-        <bcf:field>
+        <bcf:field>author</bcf:field>
+        <bcf:field>title</bcf:field>
+      </bcf:constraint>
+    </bcf:constraints>
+  </bcf:datamodel>
+  <!-- CITATION DATA -->
+  <!-- SECTION 0 -->
+  <bcf:bibdata section="0">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">refs.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="0">
+    <bcf:citekey order="3" intorder="1">noauthor_zotero_nodate</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">noauthor_free_nodate</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">noauthor_komoot_nodate</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">noauthor_google_nodate</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">noauthor_free_nodate</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">noauthor_komoot_nodate</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">noauthor_google_nodate</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">noauthor_material_nodate</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">reynolds_impact_2009</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">hong_can_2020</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">noauthor_strava_nodate</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">boettge_assessing_2017</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">reynolds_impact_2009</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">doorley_analysis_2015</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">reynolds_impact_2009</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">hull_bicycle_2014</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">hull_bicycle_2014</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">hull_bicycle_2014</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">hull_bicycle_2014</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">hull_bicycle_2014</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">hull_bicycle_2014</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">hull_bicycle_2014</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">shoman_evaluation_2023</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">flynn_weather_2012</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">hull_bicycle_2014</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">miranda-moreno_weather_2011</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">noauthor_openrouteservice_nodate</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">noauthor_project_nodate</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">noauthor_leaflet_nodate</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">noauthor_opencyclemaporg_nodate</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">noauthor_gin_nodate</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">dapeng_liu_case_2011</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">dapeng_liu_case_2011</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">noauthor_openrouteservice_nodate</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">noauthor_strava_nodate</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">international_garmin_nodate</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">noauthor_home_nodate</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">noauthor_marvel_nodate</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">noauthor_ideal_nodate</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">noauthor_postgis_nodate</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">noauthor_visual_nodate</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">noauthor_react_nodate</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">noauthor_openstreetmap_nodate</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">noauthor_leaflet_nodate-1</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">noauthor_project_nodate</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">noauthor_chartjs_nodate</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">noauthor_weather_nodate</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">noauthor_gpx_nodate</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">noauthor_geojson_nodate</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">noauthor_email_nodate</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">noauthor_keyhazard_nodate</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">noauthor_pq_nodate</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">noauthor_leaflet_nodate-2</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">noauthor_places_nodate</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">noauthor_gegewebleaflet-routing-machine-openroute_2020</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">noauthor_leaflet-simple-map-screenshoter_2022</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="apa">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="5">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">pubstate</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">month</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="7">
+      <bcf:sortitem order="1">day</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="8">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="9">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="apa/apasortcite//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="apasortcite"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="0"
+                name="apa/global//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>

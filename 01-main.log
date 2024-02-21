@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  21 FEB 2024 12:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  21 FEB 2024 13:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1114,15 +1114,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./04-methodology.tex
 Chapter 3.
-
-Overfull \hbox (20.75558pt too wide) in paragraph at lines 12--13
-[]\T1/ptm/m/n/12 The In-cre-men-tal model breaks larger tasks into smaller, more achiev-able sub-tasks/increments.
- []
-
-)
-Underfull \vbox (badness 1997) has occurred while \output is active []
-
- [24
+) [24
 
 
 
@@ -1151,12 +1143,658 @@ Chapter 5.
 
 
 ]
-<figures/logarithmic-scoring.png, id=842, 1888.05376pt x 943.525pt>
+<figures/logarithmic-scoring.png, id=841, 1888.05376pt x 943.525pt>
 File: figures/logarithmic-scoring.png Graphic file (type png)
 <use figures/logarithmic-scoring.png>
 Package pdftex.def Info: figures/logarithmic-scoring.png  used on input line 29.
 (pdftex.def)             Requested size: 401.50146pt x 200.63678pt.
-<figures/research-application.png, id=844, 1802.735pt x 1993.4475pt>
+<figures/research-application.png, id=843, 1802.735pt x 1993.4475pt>
 File: figures/research-application.png Graphic file (type png)
 <use figures/research-application.png>
-Package pdftex.
+Package pdftex.def Info: figures/research-application.png  used on input line 36.
+(pdftex.def)             Requested size: 401.50146pt x 443.97414pt.
+ [31 <./figures/logarithmic-scoring.png>] [32 <./figures/research-application.png>]
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 54--55
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 72--73
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 76--77
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 77--78
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 78--79
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 79--80
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 91--92
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 95--96
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 108--109
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 110--111
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 111--112
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 112--113
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 124--125
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 128--129
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 129--130
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 130--131
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 131--132
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 143--144
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 147--148
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 148--149
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 149--150
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 163--164
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 167--168
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 171--172
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 172--173
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 184--185
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 188--189
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 191--192
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 203--204
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 206--207
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 218--219
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 220--221
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 221--222
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 233--234
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 235--236
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 236--237
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+) [33
+
+] [34] [35] [36]
+\openout2 = `07-design.aux'.
+
+ (./07-design.tex
+Chapter 6.
+[37
+
+
+
+
+] [38]
+<figures/lofi-1.png, id=916, 7042.31pt x 5119.125pt>
+File: figures/lofi-1.png Graphic file (type png)
+<use figures/lofi-1.png>
+Package pdftex.def Info: figures/lofi-1.png  used on input line 41.
+(pdftex.def)             Requested size: 351.31378pt x 255.34636pt.
+<figures/lofi-2.png, id=917, 7042.31pt x 5119.125pt>
+File: figures/lofi-2.png Graphic file (type png)
+<use figures/lofi-2.png>
+Package pdftex.def Info: figures/lofi-2.png  used on input line 48.
+(pdftex.def)             Requested size: 351.31378pt x 255.34636pt.
+<figures/hifi-1.png, id=918, 1462.71469pt x 813.0375pt>
+File: figures/hifi-1.png Graphic file (type png)
+<use figures/hifi-1.png>
+Package pdftex.def Info: figures/hifi-1.png  used on input line 55.
+(pdftex.def)             Requested size: 401.50146pt x 223.17041pt.
+<figures/hifi-2.png, id=919, 1446.15282pt x 815.29594pt>
+File: figures/hifi-2.png Graphic file (type png)
+<use figures/hifi-2.png>
+Package pdftex.def Info: figures/hifi-2.png  used on input line 62.
+(pdftex.def)             Requested size: 401.50146pt x 226.35304pt.
+ [39 <./figures/lofi-1.png (PNG copy)> <./figures/lofi-2.png (PNG copy)>] [40 <./figures/hifi-1.png (PNG copy)> <./figures/hifi-2.png (PNG copy)>]
+<figures/use-case.png, id=935, 577.4373pt x 830.3823pt>
+File: figures/use-case.png Graphic file (type png)
+<use figures/use-case.png>
+Package pdftex.def Info: figures/use-case.png  used on input line 78.
+(pdftex.def)             Requested size: 401.50146pt x 577.39911pt.
+ [41
+
+] [42 <./figures/use-case.png>]
+<figures/client-server.png, id=960, 2034.60126pt x 1398.22375pt>
+File: figures/client-server.png Graphic file (type png)
+<use figures/client-server.png>
+Package pdftex.def Info: figures/client-server.png  used on input line 98.
+(pdftex.def)             Requested size: 250.93842pt x 172.43066pt.
+<figures/erd.png, id=966, 2269.47874pt x 1710.39pt>
+File: figures/erd.png Graphic file (type png)
+<use figures/erd.png>
+Package pdftex.def Info: figures/erd.png  used on input line 110.
+(pdftex.def)             Requested size: 351.31378pt x 264.74234pt.
+ [43
+
+ <./figures/client-server.png> <./figures/erd.png>]
+<figures/components.png, id=978, 751.608pt x 643.203pt>
+File: figures/components.png Graphic file (type png)
+<use figures/components.png>
+Package pdftex.def Info: figures/components.png  used on input line 123.
+(pdftex.def)             Requested size: 401.50146pt x 343.59494pt.
+ [44 <./figures/components.png>]) [45
+
+]
+\openout2 = `08-implementation.aux'.
+
+ (./08-implementation.tex
+Chapter 7.
+[46
+
+
+
+
+]
+<figures/Progress Images/Iteration-1/SR25/Basic Route.png, id=1011, 1445.4pt x 700.86844pt>
+File: figures/Progress Images/Iteration-1/SR25/Basic Route.png Graphic file (type png)
+<use figures/Progress Images/Iteration-1/SR25/Basic Route.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-1/SR25/Basic Route.png  used on input line 21.
+(pdftex.def)             Requested size: 426.5953pt x 206.85065pt.
+<figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png, id=1018, 1444.64719pt x 703.87968pt>
+File: figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png Graphic file (type png)
+<use figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png  used on input line 31.
+(pdftex.def)             Requested size: 426.5953pt x 207.84677pt.
+ [47 <./figures/Progress Images/Iteration-1/SR25/Basic Route.png>]
+<figures/Progress Images/Iteration-1/SR1/waypoint-arr.png, id=1034, 361.35pt x 506.89375pt>
+File: figures/Progress Images/Iteration-1/SR1/waypoint-arr.png Graphic file (type png)
+<use figures/Progress Images/Iteration-1/SR1/waypoint-arr.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-1/SR1/waypoint-arr.png  used on input line 42.
+(pdftex.def)             Requested size: 200.75073pt x 281.6078pt.
+<figures/Progress Images/Iteration-1/SR28/elevation-hover.png, id=1035, 1926.44719pt x 1027.58907pt>
+File: figures/Progress Images/Iteration-1/SR28/elevation-hover.png Graphic file (type png)
+<use figures/Progress Images/Iteration-1/SR28/elevation-hover.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-1/SR28/elevation-hover.png  used on input line 49.
+(pdftex.def)             Requested size: 426.5953pt x 227.54419pt.
+ [48 <./figures/Progress Images/Iteration-1/SR1/Basic Destination Overlay Set up.png (PNG copy)> <./figures/Progress Images/Iteration-1/SR1/waypoint-arr.png>]
+<figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png, id=1045, 1443.14156pt x 705.38531pt>
+File: figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png Graphic file (type png)
+<use figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png  used on input line 60.
+(pdftex.def)             Requested size: 301.1261pt x 147.17735pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49 <./figures/Progress Images/Iteration-1/SR28/elevation-hover.png (PNG copy)> <./figures/Progress Images/Iteration-1/SR19&SR28 Combined/SR19&SR28 Merged.png (PNG copy)>] [50]
+<figures/Progress Images/Iteration-2/SR17/SR17png.png, id=1073, 1435.61343pt x 702.37407pt>
+File: figures/Progress Images/Iteration-2/SR17/SR17png.png Graphic file (type png)
+<use figures/Progress Images/Iteration-2/SR17/SR17png.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-2/SR17/SR17png.png  used on input line 89.
+(pdftex.def)             Requested size: 426.5953pt x 208.7097pt.
+<figures/Progress Images/Iteration-2/SR18/SR18 Upload Example 1.png, id=1074, 794.97pt x 642.14906pt>
+File: figures/Progress Images/Iteration-2/SR18/SR18 Upload Example 1.png Graphic file (type png)
+<use figures/Progress Images/Iteration-2/SR18/SR18 Upload Example 1.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-2/SR18/SR18 Upload Example 1.png  used on input line 96.
+(pdftex.def)             Requested size: 426.5953pt x 344.59969pt.
+<figures/Progress Images/Iteration-2/SR18/SR18 Strava Modal.png, id=1075, 1445.4pt x 730.22812pt>
+File: figures/Progress Images/Iteration-2/SR18/SR18 Strava Modal.png Graphic file (type png)
+<use figures/Progress Images/Iteration-2/SR18/SR18 Strava Modal.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-2/SR18/SR18 Strava Modal.png  used on input line 103.
+(pdftex.def)             Requested size: 426.5953pt x 215.5157pt.
+ [51 <./figures/Progress Images/Iteration-2/SR17/SR17png.png (PNG copy)>] [52 <./figures/Progress Images/Iteration-2/SR18/SR18 Upload Example 1.png (PNG copy)> <./figures/Progress Images/Iteration-2/SR18/SR18 Strava Modal.png (PNG copy)>]
+<figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point.png, id=1101, 1927.2pt x 1026.08344pt>
+File: figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point.png Graphic file (type png)
+<use figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point.png  used on input line 122.
+(pdftex.def)             Requested size: 426.5953pt x 227.11685pt.
+<figures/Progress Images/Iteration-2/SR32-37/sr32-hazard-popup.png, id=1102, 682.80093pt x 579.66562pt>
+File: figures/Progress Images/Iteration-2/SR32-37/sr32-hazard-popup.png Graphic file (type png)
+<use figures/Progress Images/Iteration-2/SR32-37/sr32-hazard-popup.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-2/SR32-37/sr32-hazard-popup.png  used on input line 129.
+(pdftex.def)             Requested size: 301.1261pt x 255.64627pt.
+<figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API further developed.png, id=1103, 847.165pt x 847.165pt>
+File: figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API further developed.png Graphic file (type png)
+<use figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API further developed.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API further developed.png  used on input line 136.
+(pdftex.def)             Requested size: 426.5953pt x 426.59337pt.
+ [53 <./figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point.png (PNG copy)>]
+<figures/Progress Images/Iteration-2/SR40-45/SR40 - Attractions and Accommodation KeyPOI.png, id=1120, 1925.69438pt x 992.95969pt>
+File: figures/Progress Images/Iteration-2/SR40-45/SR40 - Attractions and Accommodation KeyPOI.png Graphic file (type png)
+<use figures/Progress Images/Iteration-2/SR40-45/SR40 - Attractions and Accommodation KeyPOI.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-2/SR40-45/SR40 - Attractions and Accommodation KeyPOI.png  used on input line 150.
+(pdftex.def)             Requested size: 426.5953pt x 219.96693pt.
+<figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png, id=1121, 1923.43594pt x 988.44281pt>
+File: figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png Graphic file (type png)
+<use figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png  used on input line 157.
+(pdftex.def)             Requested size: 426.5953pt x 219.22273pt.
+ [54 <./figures/Progress Images/Iteration-2/SR32-37/sr32-hazard-popup.png (PNG copy)>] [55 <./figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API further developed.png>] [56 <./figures/Progress Images/Iteration-2/SR40-45/SR40 - Attractions and Accommodation KeyPOI.png (PNG copy)> <./figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png (PNG copy)>]
+<figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png, id=1154, 1925.69438pt x 1026.08344pt>
+File: figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png Graphic file (type png)
+<use figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png  used on input line 189.
+(pdftex.def)             Requested size: 426.5953pt x 227.30472pt.
+ [57
+
+]
+<figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png, id=1164, 1927.95282pt x 1027.58907pt>
+File: figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png Graphic file (type png)
+<use figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png  used on input line 204.
+(pdftex.def)             Requested size: 426.5953pt x 227.3717pt.
+ [58 <./figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png (PNG copy)> <./figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png (PNG copy)>]
+<figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png, id=1178, 1926.44719pt x 954.56625pt>
+File: figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png Graphic file (type png)
+<use figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png  used on input line 219.
+(pdftex.def)             Requested size: 426.5953pt x 211.37437pt.
+<figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png, id=1184, 1278.27562pt x 1031.35312pt>
+File: figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png Graphic file (type png)
+<use figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png>
+Package pdftex.def Info: figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png  used on input line 236.
+(pdftex.def)             Requested size: 426.5953pt x 344.18744pt.
+) [59 <./figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png (PNG copy)>] [60 <./figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png (PNG copy)>]
+\openout2 = `09-testing.aux'.
+
+ (./09-testing.tex
+Chapter 8.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 11.
+(/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+<figures/unit-tests.png, id=1215, 244.915pt x 382.42876pt>
+File: figures/unit-tests.png Graphic file (type png)
+<use figures/unit-tests.png>
+Package pdftex.def Info: figures/unit-tests.png  used on input line 17.
+(pdftex.def)             Requested size: 150.56305pt x 235.10767pt.
+ [61
+
+
+
+
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]) [62 <./figures/unit-tests.png>] [63]
+\openout2 = `10-evaluation.aux'.
+
+ (./10-evaluation.tex
+Chapter 9.
+[64
+
+
+
+
+]
+<figures/Old FYP Gantt - Timeline 1.pdf, id=1249, 597.23125pt x 421.575pt>
+File: figures/Old FYP Gantt - Timeline 1.pdf Graphic file (type pdf)
+<use figures/Old FYP Gantt - Timeline 1.pdf>
+Package pdftex.def Info: figures/Old FYP Gantt - Timeline 1.pdf  used on input line 23.
+(pdftex.def)             Requested size: 426.79134pt x 301.26944pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/Actual FYP Gantt.pdf, id=1250, 597.23125pt x 421.575pt>
+File: figures/Actual FYP Gantt.pdf Graphic file (type pdf)
+<use figures/Actual FYP Gantt.pdf>
+Package pdftex.def Info: figures/Actual FYP Gantt.pdf  used on input line 30.
+(pdftex.def)             Requested size: 426.79134pt x 301.26944pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[65]
+
+LaTeX Warning: Text page 66 contains only floats.
+
+[66 <./figures/Old FYP Gantt - Timeline 1.pdf> <./figures/Actual FYP Gantt.pdf
+
+pdfTeX warning: pdflatex (file ./figures/Actual FYP Gantt.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Overfull \hbox (3.09445pt too wide) in alignment at lines 86--86
+[][][] 
+ []
+
+[67
+
+]
+
+LaTeX Warning: Text page 68 contains only floats.
+
+
+Underfull \vbox (badness 3735) has occurred while \output is active []
+
+ [68]
+Overfull \hbox (3.09445pt too wide) in alignment at lines 124--124
+[][][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 28.90706pt on input line 125.
+
+[69]
+Overfull \hbox (3.09445pt too wide) in alignment at lines 161--161
+[][][] 
+ []
+
+[70
+
+
+] [71
+
+]) [72]
+\openout2 = `11-reflection_and_conclusion.aux'.
+
+ (./11-reflection_and_conclusion.tex
+Chapter 10.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73
+
+
+
+
+] [74]) [75] [76
+
+
+
+]
+Overfull \hbox (21.26544pt too wide) in paragraph at lines 151--151
+\T1/ptm/m/n/12 cling? [Pub-lisher: Rout-ledge _eprint: https://doi.org/10.1080/21650020.2014.955210].
+ []
+
+[77] [78]
+\openout2 = `12-appendix-a.aux'.
+
+ (./12-appendix-a.tex
+Appendix A.
+<figures/plotarouteui.png, id=1621, 1289.56781pt x 717.43031pt>
+File: figures/plotarouteui.png Graphic file (type png)
+<use figures/plotarouteui.png>
+Package pdftex.def Info: figures/plotarouteui.png  used on input line 4.
+(pdftex.def)             Requested size: 426.79134pt x 237.43146pt.
+<figures/komootui.png, id=1622, 1444.64719pt x 733.23938pt>
+File: figures/komootui.png Graphic file (type png)
+<use figures/komootui.png>
+Package pdftex.def Info: figures/komootui.png  used on input line 11.
+(pdftex.def)             Requested size: 426.79134pt x 216.61702pt.
+<figures/gmapsui.png, id=1623, 1445.4pt x 730.98094pt>
+File: figures/gmapsui.png Graphic file (type png)
+<use figures/gmapsui.png>
+Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
+(pdftex.def)             Requested size: 426.79134pt x 215.83827pt.
+) [79
+
+
+ <./figures/plotarouteui.png (PNG copy)>] [80 <./figures/komootui.png (PNG copy)> <./figures/gmapsui.png (PNG copy)>]
+\openout2 = `13-appendix-b.aux'.
+
+ (./13-appendix-b.tex
+Appendix B.
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 11--11
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 16--16
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 31--31
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 35--35
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 36--36
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 37--37
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 38--38
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 50--50
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 54--54
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 55--55
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 67--67
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 69--69
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 70--70
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 71--71
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 72--72
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 73--73
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 85--85
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 89--89
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 90--90
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (0.88704pt too wide) in paragraph at lines 91--91
+[]|\T1/ptm/m/n/12 Could| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 103--103
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 107--107
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 108--108
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 109--109
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+
+Overfull \hbox (8.21872pt too wide) in paragraph at lines 121--121
+[]|\T1/ptm/m/n/12 Priority| 
+ []
+
+
+Overfull \hbox (5.55505pt too wide) in paragraph at lines 125--125
+[]|\T1/ptm/m/n/12 Should| 
+ []
+
+) [81
+
+
+
+
+] [82] [83] (./01-main.aux (./02-introduction.aux) (./03-litreview.aux) (./04-methodology.aux) (./05-project_management.aux) (./06-requirements.aux) (./07-design.aux) (./08-implementation.aux) (./09-testing.aux) (./10-evaluation.aux) (./11-reflection_and_conclusion.aux) (./12-appendix-a.aux) (./13-appendix-b.aux))
+Package rerunfilecheck Info: File `01-main.out' has not changed.
+(rerunfilecheck)             Checksum: AC63CC98F7658023A9ACB0E175ED0917;13012.
+Package logreq Info: Writing requests to '01-main.run.xml'.
+\openout1 = `01-main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 25438 strings out of 477985
+ 473766 string characters out of 5840059
+ 1891388 words of memory out of 5000000
+ 44828 multiletter control sequences out of 15000+600000
+ 571489 words of font info for 118 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 94i,12n,92p,2237b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on 01-main.pdf (83 pages, 64747520 bytes).
+PDF statistics:
+ 1742 PDF objects out of 2073 (max. 8388607)
+ 1440 compressed objects within 15 object streams
+ 275 named destinations out of 1000 (max. 500000)
+ 859 words of extra memory for PDF output out of 10000 (max. 10000000)
+
