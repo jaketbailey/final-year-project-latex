@@ -1,25 +1,25 @@
 \chapter{Literature Review} 
 \label{chap:litrev}
 
-This chapter presents the analysis and review of relevant literature conducted throughout this project. The research comprises of literature surrounding different routing algorithms and their current usage within current route planner applications. It also explores other relevant technologies which will be utilised in developing the artefact, such as web frameworks and programming languages.
+This chapter presents the analysis and review of relevant literature conducted throughout this project. The research comprises of literature surrounding current solutions and risk-based route planning.
 
 \section{Background}
 \label{litrev:background}
-This project has a high level of complexity. It utilises custom, user and system inputs into a data-driven route planning algorithm, displaying the output on an OpenStreetMap-based web application. 
+This project is high in complexity. It utilises custom, user and system inputs into a data-driven route planning algorithm, displaying the output on an OpenStreetMap-based web application. 
 
-This review begins with researching literature on different web technologies and programming languages to develop an understanding of what technologies were available to build the proposed system. Once an understanding of the technologies was developed, a review of current competing products was reviewed. This allowed for gaps in the current market to be identified, therefore developing an idea of requirements for the proposed system \see{litrev:competingproducts}. 
+This review begins with researching literature on existing systems and how they cater to a user's requirements. A review of competing products allowed for gaps in the current market to be identified, therefore developing an idea of requirements for the proposed system \see{litrev:competingproducts}. 
 
 Furthermore, research into how cyclists consider different risk factors when planning a ride was key in understanding what routing algorithm was implemented to fit the project's requirements best. An in-depth review of existing literature was conducted to understand two primary risk factors for cyclists: cycling infrastructure \see{litrev:cyclinginfrastructure} and weather conditions \see{litrev:weatherconditions}. 
 
 \section{Research Methods}
 \label{litrev:researchmethod}
 
-An initial exploration of sources and subject areas was conducted using Google Chrome to comprehensively understand the topic at hand. Certain regions of interest were also highlighted through crowd-sourcing ideas from knowledgeable individuals. After these areas were outlined, in-depth research was conducted primarily through Google Scholar and the University of Portsmouth EBSCO database. The Zotero Chrome plugin and app managed citations and bibliography items (\cite{noauthor_zotero_nodate}). All bibliography items have also been stored in a CSV file, utilising Zotero's export functionality; doing so ensures that all relevant sources can be re-visited at any time and are not lost after this project has concluded.
+An initial exploration of sources and subject areas was conducted using Google Chrome to comprehensively understand the topic at hand. Certain regions of interest were also highlighted through crowd-sourcing ideas from knowledgeable individuals. After these areas were outlined, in-depth research was conducted primarily through Google Scholar and the EBSCO database. The Zotero plugin and app managed citations and bibliography items (\cite{noauthor_zotero_nodate}). All bibliography items have also been stored in a CSV file, utilising Zotero's export functionality; doing so ensures that all sources can be re-visited and are not lost after this project's conclusion.
 
 \section{Competing Products}
 \label{litrev:competingproducts}
 
-There are many different route planners available with a range of different features, some common between applications and others specific to one. Applications like Plotaroute.com (\cite{noauthor_free_nodate}), Komoot (\cite{noauthor_komoot_nodate}) and Google Maps (\cite{noauthor_google_nodate}) have some commonalities, however serve slightly different purposes \see{fig:solutionsandfeatures}.
+There are many route planners available with many different features, some common between applications and others specific to one. Applications like Plotaroute.com (\cite{noauthor_free_nodate}), Komoot (\cite{noauthor_komoot_nodate}) and Google Maps (\cite{noauthor_google_nodate}) have some commonalities, however serve slightly different purposes \see{fig:solutionsandfeatures}.
 
 \begin{figure}[h!]
     \centering
@@ -30,16 +30,16 @@ There are many different route planners available with a range of different feat
 
 \subsection{Plotaroute.com}
 \label{litrev:plotaroute}
-Plotaroute.com (\cite{noauthor_free_nodate}), now referred to as Plotaroute, contains a wide range of features, including nearly all features highlighted in Figure 2.1 \see{fig:solutionsandfeatures}. The main shortfall of Plotaroute was identified as its UI (User Interface) rather than the features included. The UI of Plotaroute is very cluttered due to the number of features present in the application \see{fig:plotarouteui}. Unless the user is an expert and has used the application before, it is initially confusing what each part of the application does. Due to this, at first glace, it's unclear what type of route planner Plotaroute is, which will fundamentally affect a user's initial decision on whether or not to use the application.
+Plotaroute.com (\cite{noauthor_free_nodate}) (Plotaroute), contains a wide range of features, including nearly all features highlighted in Figure 2.1 \see{fig:solutionsandfeatures}. The main shortfall of Plotaroute was identified as its User Interface (UI) rather than the features included. The UI of Plotaroute is cluttered due to the number of features present in the application \see{fig:plotarouteui}. For first-time users, it can be initially confusing what each part of the application does. Due to this, at first glace, it's unclear what type of route planner Plotaroute is, which will fundamentally affect a user's initial decision on whether or not to use the application.
 
 \subsection{Komoot}
 \label{litrev:komoot}
-Komoot (\cite{noauthor_komoot_nodate}) offers a simpler-looking yet feature-rich application for planning and discovering routes \see{fig:komootui}. The application has a key focus on community, whereby a user doesn't necessarily need to plan a route, they can simply discover a route or even share a route of their own. This functionality allows the user to require minimal effort when planning location-specific rides, however doesn't offer discovery of longer routes, for example, Land's End to John O'Groats. When compared to Plotaroute, Komoot is clearly more user-friendly without sacrificing the core features needed by users. One primary setback with Komoot, however, is that some functionality for route planning is part of a paid-for service, therefore locking certain user bases out of some key desirable functionality.
+Komoot (\cite{noauthor_komoot_nodate}) offers a simpler-looking, feature-rich application for planning and discovering routes \see{fig:komootui}. The application has a focus on community, whereby a user doesn't necessarily need to plan a route, instead they can discover routes or share route their own. This allows the user to require minimal effort when planning location-specific rides, however doesn't offer discovery of longer routes. When compared to Plotaroute, Komoot is clearly more user-friendly without sacrificing core features needed by users. One primary setback with Komoot, is that some route planning functionality is part of a paid-for service, therefore locking certain users out of some desirable functionality.
 
 \subsection{Google Maps}
 \label{litrev:gmaps}
 
-Google Maps (\cite{noauthor_google_nodate}) further reduces the specific functionality and offers a very simple, multi-functional route planning and location finding application \see{fig:gmapsui}. Google Maps is likely the most user-friendly out of all the applications, simply due to its simplicity and consistency across other Google applications (\cite{noauthor_material_nodate}). With this simplicity, however, most cycling-specific functionality is not present; the only option the user has when calculating a route is what the Google routing algorithm calculates with potentially a few alternate routes. Therefore, limiting how much the user can customise their route.
+Google Maps (\cite{noauthor_google_nodate}) further reduces the specific functionality and offers a very simple, multi-functional route planning application \see{fig:gmapsui}. Google Maps is likely the most user-friendly out of all the applications, simply due to its consistency across other Google applications (\cite{noauthor_material_nodate}). This has trade-offs, however, most cycling-specific functionality is not present. There is little to no customisability with the Google routing algorithm, it plans automatically providing a few alternate routes.
 
 \label{fig:research-results}
 \begin{figure}[h!]
