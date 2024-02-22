@@ -392,29 +392,6 @@
       \verb https://geojson.org/
       \endverb
     \endentry
-    \entry{noauthor_gin_nodate}{online}{}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Gin Web Framework}
-      \field{langid}{english}
-      \field{title}{Gin Web Framework}
-      \field{titleaddon}{Gin Web Framework}
-      \field{urlday}{16}
-      \field{urlmonth}{11}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/home/jakeb/Zotero/storage/DQ8BBM4K/gin-gonic.com.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://gin-gonic.com/
-      \endverb
-      \verb{url}
-      \verb https://gin-gonic.com/
-      \endverb
-    \endentry
     \entry{noauthor_google_nodate}{online}{}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
@@ -704,28 +681,6 @@
       \verb https://www.komoot.com
       \endverb
     \endentry
-    \entry{noauthor_leaflet_nodate}{online}{}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Leaflet is a modern, lightweight open-source {JavaScript} library for mobile-friendly interactive maps.}
-      \field{langid}{english}
-      \field{title}{Leaflet — an open-source {JavaScript} library for interactive maps}
-      \field{urlday}{16}
-      \field{urlmonth}{11}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/home/jakeb/Zotero/storage/D5HNWBUR/leafletjs.com.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://leafletjs.com/
-      \endverb
-      \verb{url}
-      \verb https://leafletjs.com/
-      \endverb
-    \endentry
     \entry{noauthor_leaflet_nodate-2}{online}{}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
@@ -894,26 +849,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.3141/2247-06
-      \endverb
-    \endentry
-    \entry{noauthor_opencyclemaporg_nodate}{online}{}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{title}{{OpenCycleMap}.org - the {OpenStreetMap} Cycle Map}
-      \field{urlday}{16}
-      \field{urlmonth}{11}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb OpenCycleMap.org - the OpenStreetMap Cycle Map:/home/jakeb/Zotero/storage/BJWJMRU6/www.opencyclemap.org.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.opencyclemap.org/
-      \endverb
-      \verb{url}
-      \verb https://www.opencyclemap.org/
       \endverb
     \endentry
     \entry{noauthor_openrouteservice_nodate}{online}{}
@@ -1669,29 +1604,6 @@
       \verb https://geojson.org/
       \endverb
     \endentry
-    \entry{noauthor_gin_nodate}{online}{}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Gin Web Framework}
-      \field{langid}{english}
-      \field{title}{Gin Web Framework}
-      \field{titleaddon}{Gin Web Framework}
-      \field{urlday}{16}
-      \field{urlmonth}{11}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/home/jakeb/Zotero/storage/DQ8BBM4K/gin-gonic.com.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://gin-gonic.com/
-      \endverb
-      \verb{url}
-      \verb https://gin-gonic.com/
-      \endverb
-    \endentry
     \entry{noauthor_google_nodate}{online}{}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
@@ -1981,28 +1893,6 @@
       \verb https://www.komoot.com
       \endverb
     \endentry
-    \entry{noauthor_leaflet_nodate}{online}{}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Leaflet is a modern, lightweight open-source {JavaScript} library for mobile-friendly interactive maps.}
-      \field{langid}{english}
-      \field{title}{Leaflet — an open-source {JavaScript} library for interactive maps}
-      \field{urlday}{16}
-      \field{urlmonth}{11}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:/home/jakeb/Zotero/storage/D5HNWBUR/leafletjs.com.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://leafletjs.com/
-      \endverb
-      \verb{url}
-      \verb https://leafletjs.com/
-      \endverb
-    \endentry
     \entry{noauthor_leaflet_nodate-2}{online}{}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
@@ -2171,26 +2061,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.3141/2247-06
-      \endverb
-    \endentry
-    \entry{noauthor_opencyclemaporg_nodate}{online}{}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{title}{{OpenCycleMap}.org - the {OpenStreetMap} Cycle Map}
-      \field{urlday}{16}
-      \field{urlmonth}{11}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb OpenCycleMap.org - the OpenStreetMap Cycle Map:/home/jakeb/Zotero/storage/BJWJMRU6/www.opencyclemap.org.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.opencyclemap.org/
-      \endverb
-      \verb{url}
-      \verb https://www.opencyclemap.org/
       \endverb
     \endentry
     \entry{noauthor_openrouteservice_nodate}{online}{}
