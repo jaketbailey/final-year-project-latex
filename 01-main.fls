@@ -1452,11 +1452,17 @@ INPUT ./figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality 
 INPUT figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png
 INPUT ./figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png
 INPUT ./figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png
+INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
 INPUT ./figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png
 INPUT ./figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png
 INPUT figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png
 INPUT ./figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png
 INPUT ./figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png
+INPUT /usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT ./figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png
 INPUT ./figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png
 INPUT figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png
@@ -1495,17 +1501,11 @@ INPUT ./09-testing.tex
 INPUT 09-testing.tex
 INPUT ./09-testing.tex
 INPUT 09-testing.tex
-INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
 INPUT ./figures/unit-tests.png
 INPUT ./figures/unit-tests.png
 INPUT figures/unit-tests.png
 INPUT ./figures/unit-tests.png
 INPUT ./figures/unit-tests.png
-INPUT /usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT ./10-evaluation.tex
 INPUT ./10-evaluation.tex
 INPUT ./10-evaluation.tex

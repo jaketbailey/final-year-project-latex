@@ -50,19 +50,19 @@
 \contentsline {subsection}{\numberline {7.2.1}Leaflet - Open Street Map (OSM)}{43}{subsection.7.2.1}%
 \contentsline {subsection}{\numberline {7.2.2}Basic Route Planning}{44}{subsection.7.2.2}%
 \contentsline {subsection}{\numberline {7.2.3}Elevation Chart}{44}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}Weather Information Panel}{46}{subsection.7.2.4}%
-\contentsline {subsection}{\numberline {7.2.5}Main Challenges}{47}{subsection.7.2.5}%
+\contentsline {subsection}{\numberline {7.2.4}Weather Information Panel}{45}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.5}Main Challenges}{46}{subsection.7.2.5}%
 \contentsline {section}{\numberline {7.3}Iteration 2 - Route Sharing, Hazard Index and POI Integration}{47}{section.7.3}%
 \contentsline {subsection}{\numberline {7.3.1}Sharing Route Functionality}{47}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}Hazard Index Database Creation and Integration}{48}{subsection.7.3.2}%
-\contentsline {subsection}{\numberline {7.3.3}Key Point-of-Interest (POI) Integration}{50}{subsection.7.3.3}%
-\contentsline {subsection}{\numberline {7.3.4}Main Challenges}{51}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.2}Hazard Index Database Creation and Integration}{49}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Key Point-of-Interest (POI) Integration}{51}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Main Challenges}{52}{subsection.7.3.4}%
 \contentsline {section}{\numberline {7.4}Iteration 3 - Round Trip, Route Import and Garmin Integration}{54}{section.7.4}%
 \contentsline {subsection}{\numberline {7.4.1}Round Trip Routing}{54}{subsection.7.4.1}%
 \contentsline {subsection}{\numberline {7.4.2}Route Import}{54}{subsection.7.4.2}%
 \contentsline {subsection}{\numberline {7.4.3}Garmin Connect Integration}{55}{subsection.7.4.3}%
 \contentsline {subsection}{\numberline {7.4.4}Social Media Sharing}{56}{subsection.7.4.4}%
-\contentsline {subsection}{\numberline {7.4.5}Main Challenges}{57}{subsection.7.4.5}%
+\contentsline {subsection}{\numberline {7.4.5}Main Challenges}{56}{subsection.7.4.5}%
 \contentsline {chapter}{\numberline {8}Testing}{58}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Unit Testing}{58}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Postman}{59}{section.8.2}%
