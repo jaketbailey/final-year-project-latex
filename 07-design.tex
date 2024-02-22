@@ -1,40 +1,40 @@
 \chapter{Design}
 \label{chap:design}
 
-This chapter explains the design process undertaken considering both the research found within the literature review \see{chap:litrev} and the established requirements \see{chap:requirements}.
+This chapter explains the design process undertaken considering both the literature review research \see{chap:litrev} and the established requirements \see{chap:requirements}.
 \section{Assumptions and Decisions Taken}
 \label{design:assumptions/decisions}
 
-Discussions with the client required specific assumptions and decisions to be made to assit in the project's overall development and progression.
+Client discussion required specific assumptions and decisions to be made to assist in the project's overall development and progression.
 
-A decision was made to build the application as a web app, primarily to aid with accessibility and device compatibility of the artefact, this type of application also opens the artefact up to a large pre-existing userbase with greater ease. Different screen sizes have been acommodated for with the use of CSS media queries, however the artefact is aimed at desktop route planning, with the potential to be expanded to support mobile devices in the future. 
+A decision was made to build the artefact as a web app to aid with the accessibility and compatibility of the artefact. This type of artefact also provides an instantly accessible pre-existing user base with greater ease. Different screen sizes have been accommodated for with the use of CSS media queries, however, the artefact is aimed at desktop environments, with mobile support implemented in the future. 
 
-It was assumed that the target users would have a preexisting knolwedge of route planning and had used similar systems in the past. Due to this, instructions to use the application were not provided as a part of the artefact. Futhermore, a minimal user interface approach was used when developing the artefact to ensure the apps ease of use, whilst enabling key custom route planning functionality \see{design:ui}.
+It was assumed that the target users would have a pre-existing knowledge of route planning having used similar systems in the past. Therefore, instructions to use the artefact were not provided as a part of the artefact. Furthermore, a minimal UI was developed in the artefact to ensure ease of use, whilst enabling key custom route planning functionality \see{design:ui}.
 
-Research was undertaken into different available open source routing algorithms, finally deciding to implement Open Route Service (\cite{noauthor_openrouteservice_nodate}) due to its customisability and native support of round trip route planning.
+Research was undertaken into different available open-source routing algorithms. OpenRouteService (ORS) (\cite{noauthor_openrouteservice_nodate}) was chosen due to its customisability and native support of round-trip route planning.
 
-Specific data sets were stored within the browser LocalStorage, this was chosen for certain data such as user authentication tokens, last route plotted and other data which needed storing between browser sessions. Data sets such as the previous planned route (and related data sets) enabled the user to load the previous route when opening the application after having closed the tab/browser previously. Other data sets such as user tokens, enabled the application to remain logged into external services such as Strava (\cite{noauthor_strava_nodate}), Garmin Connect (\cite{international_garmin_nodate}) and Google Drive (\cite{noauthor_home_nodate}), only requiring the user to reauthenticate once these tokens had expired.
+LocalStorage was used to store specific data, such as user authentication tokens, last route plotted and other data that required storing between browser sessions. Data such as the previously planned route enabled the user to load the previous route when opening the artefact after having used it previously. Other data such as user tokens, enabled the artefact to remain logged into external services such as Strava (\cite{noauthor_strava_nodate}), Garmin Connect (\cite{international_garmin_nodate}) and Google Drive (\cite{noauthor_home_nodate}).
 
 \section{User Interface}
 \label{design:ui}
-Initially, multiple hand-drawn low-fidelity protoype was created to demonstrate two iterations of the artefact \see{fig:lofi1}, demonstrating some design changes and new features in the second low-fidelity prototype \see{fig:lofi2}. After the low-fidelity prototypes were complete, a high fidelity prototype was created based on the second design using MarvelApp (\cite{noauthor_marvel_nodate}).
+Initially, hand-drawn low-fidelity prototypes were created to demonstrate two iterations of the artefact \see{fig:lofi1}, demonstrating some design changes in the second low-fidelity prototype \see{fig:lofi2}. After the low-fidelity prototypes were complete, a high-fidelity prototype was created based on the second design using MarvelApp (\cite{noauthor_marvel_nodate}).
 
-The following 5 components form the overall User Interface (UI): Map,  Elevation Chart, Router, Route Preferences Panel and the Weather/Side Panel. The primary component which most other components were dependant on was the Map component; each other component would add enhanced functionality to the artefact.
+The following components form the overall User Interface (UI): Map,  ElevationChart, Router, RoutePreferencesPanel and the Weather/LeftPanel. The primary root component which other components depended on was the Map component; with other components adding enhanced functionality to the artefact.
 
 \subsection{Colour Scheme}
 \label{ui:colourscheme}
 
-The plain and simple colour scheme was chosen for simplicity and ease-of-use of the artefact. Despite dark mode being considered for the artefact, it was chosen against after conducting research on pre-existing route planners, it was found that a light map, and surrounding UI was generally considered more usable to the average user. A dark mode could be implemented in the future, enabling the user to switch modes should they choose, also altering the map layer to the corresponding dark/light theme.
+The plain colour scheme was chosen for simplicity and ease of use of the artefact. Despite dark mode being considered for the artefact, it was chosen against after researching pre-existing route planners, it was found that a light map, and surrounding UI was generally considered more usable to the average user. A dark mode could be implemented in the future, enabling the user to switch modes should they choose.
 
 \subsection{Low Fidelity Prototype}
 \label{ui:low-fi}
 
-Low-fidelity protoyping was vital in the project's early stages, ensuring that all UI elements would meet the user expectations and requirements. The project's clear focus on enhanced routing features, it was critical to ensure that the initialy designs were kept simple, to maximise usability, whilst still including all the required, key functionality. Two iterations were divided into two separate low-fidelity prototypes, where the first demonstrates the core functionality \see{fig:lofi1}, whereas the second also includes some extra functionality, for example the Hazard Index \see{fig:lofi2}.
+Low-fidelity prototyping was vital in the project's early stages, ensuring that all UI elements would meet the user expectations and requirements. With the project's focus on enhanced routing features, it was critical to ensure that the designs were kept simple, maximising usability, whilst still including all the required functionality. Two iterations were divided into two separate low-fidelity prototypes, where the first demonstrates the core functionality \see{fig:lofi1}, whereas the second also includes some extra functionality, for example the Hazard Index \see{fig:lofi2}.
 
 \subsection{High-Fidelity Prototype}
 \label{ui:hi-fi}
 
-The high-fidelity prototype was made after low-fidelity prototyping has concluded. The second low-fidelity prototype was expanded upon at this stage, keeping the design simple, whilst ensuring the required functionality could be implemented. It was critical to ensure tthe high-fidelity protype wouldn't overbare the user with too much information at once, therefore the necessary functionality is available in the main view \see{fig:hifi1}, whereas extra options are hidden behind dropdown menus \see{fig:hifi2}.
+The high-fidelity prototype was made after low-fidelity prototyping had concluded. The second low-fidelity prototype was expanded upon at this stage, keeping the design simple, whilst ensuring the required functionality could be implemented. It was critical to ensure the high-fidelity prototype wouldn't overbear the user with too much information at once, therefore the necessary functionality is available in the main view \see{fig:hifi1}, whereas extra options are hidden behind dropdown menus \see{fig:hifi2}.
 
   \begin{figure}[!ht]
     \centering
@@ -67,11 +67,11 @@ The high-fidelity prototype was made after low-fidelity prototyping has conclude
   \clearpage
 \section{Use Cases}
 \label{design:usecase}
-Use cases were determined by discerning potential uses of the artefact, subsequently a use case diagram was then created to visualise the artefacts different uses. The diagram is formed of actors, tasks and system components which are requred to response when each task is performed. Visual Paradigm was used to create the use case diagram (\cite{noauthor_ideal_nodate}).
+Use cases were determined by discerning potential uses of the artefact, subsequently, a use case diagram was then created to visualise these uses. The diagram is formed of actors, tasks and system components that are required when each task is performed. Visual Paradigm was used to create the use case diagram (\cite{noauthor_ideal_nodate}).
 
 \subsection{Use Case Diagram}
 \label{usecase:diagram}
-During the requirements gathering process, the target user groups were identified, each user group would access identical functionality \see{chap:requirements}, therefore all users were grouped into one single actor. Doing so enables all users to access all functionalities of the artefact, where they can use as little or as many of the extended features as they require \see{fig:usecase}.
+The target user groups were identified during requirements gathering. Users were grouped into a single actor because each user group would access identical functionality \see{chap:requirements}. Therefore, all users can access all functionalities, where they can use the extended features as they require \see{fig:usecase}.
 
 \begin{figure}[!ht]
   \centering
@@ -83,14 +83,14 @@ During the requirements gathering process, the target user groups were identifie
 \section{System Design}
 \label{design:system}
 
-It is vital to design not only the viewable client-side of the application, but to also consider the internal system, comprising of the Go Gin Web Server, PostgreSQL database as well as the React.js client. This chapter delves further into the internal design of the artefact. 
+It is vital to also design the back-end system. The back end is comprised of the Go/Gin Web Server, PostgreSQL (PSQL) database and the React client. This chapter delves further into the internal design of the artefact. 
 
 \subsection{Architecture Design}
 \label{system:architecture-design}
 
-The client-server architecture was used to build the artefact \see{fig:clientserver}. This architecture was selected to enable easy expansion of the artefact, with the aim for the web application to be hosted centrally, along with the PostgreSQL (PSQL) database \see{system:database-design}. For security reasons, it was also necessary to implement this architecture due to different services requiring oauth, these services make enforce authentication through the server, rather than completely on the client-side application. Furthermore, this architecture enabled different processes to be handled via the server, reducing the overall load the client application requires to run.
+The client-server architecture was used to build the artefact \see{fig:clientserver}. This architecture was selected to enable easy expansion of the artefact, aiming to host the web application centrally, along with the PSQL database \see{system:database-design}. This architecture was critical for security reasons to use different services requiring oauth, which enforce authentication through the server. Furthermore, this architecture enabled different processes to be handled via the server, reducing the overall load the client application requires to run.
 
-Client-Server architectures do however, add the risk of a single point of failure, whereby the application is wholly dependant on the web server. Overall the risk was deemed minimal due to the lack of sensitive information being stored \see{tab:risk-assessment}. In the case of a system failure, the application would remain unaccessable until fixed, however there is a low chance of this occurring as the appropriate measures such as thorough testing have been undertaken to reduce the risk \see{chap:testing}.
+Client-server architectures do add the risk of a single point of failure, whereby the application is wholly dependant on the web server. Overall the risk was deemed minimal because sensitive information isn't stored \see{tab:risk-assessment}. In the case of a system failure, the application would remain inaccessible until fixed, however, thorough testing has been undertaken to reduce the risk \see{chap:testing}.
 
 \clearpage
 \begin{figure}[!ht]
@@ -103,7 +103,7 @@ Client-Server architectures do however, add the risk of a single point of failur
 \subsection{Database Design}
 \label{system:database-design}
 
-The database is a pivitol part of the artefact's extended functionality, it primarily servers as a hazard index database, whilst also storing different areas of concerning cycling infrastructure. PostgreSQL was chosen as the Relational Database Management System (RDBMS), as PostGIS was available to use to add the functionality for storing, indexing and querying of geospatial data (\cite{noauthor_postgis_nodate}). This data is used to display concerning areas on the map for which users may want to avoid, with the potential to include native routing support to avoid these hazards, futher highlighted under future work \see{evaluation:future} \see{fig:erd}. 
+The database crucial in extending the artefacts functionality, it servers as a hazard index database, whilst also storing hazardous cycling infrastructure. PSQL was chosen as the Relational Database Management System (RDBMS), as PostGIS was available to use to add the functionality for storing, indexing and querying geospatial data (\cite{noauthor_postgis_nodate}). This is used to display hazard areas on the map that users should avoid, with the potential to include native routing support to avoid these hazards, further highlighted under future work \see{evaluation:future} \see{fig:erd}. 
 
 \begin{figure}[!ht]
   \centering
@@ -114,9 +114,9 @@ The database is a pivitol part of the artefact's extended functionality, it prim
 
 \subsection{Modular Architecture}
 \label{system:modular-architecture}
-React.js allows for a modular design approach utilising the component-based framework and storing variables in the form of states to re-render the application depending on the states of different variables. All the necessary data, functions and states can be passed to and from different components using the props functionality built into React, whereby a component inherits data from its parent component \see{fig:components}.
+React.js provides a modular design approach with components where variables are stored in the form of state which can re-render the application where necessary. All necessary data, functions and states can be passed to and from different components using the built-in props functionality, where components have a parent-child relationship \see{fig:components}.
 
-While the App.jsx file is the starting point of the React application, the Map component acts as the primary parent for most of the artefact's key components. Multiple states and variables are declared within Map and are transferred across the rest of its children via props, this is necessary, because all the key functionality of the route planner is wholly dependent on the Map component. However, not all child components of Map are required for the application to function, demonstrating the modular functionality of the application. The LeftPanel component and its children remain standalone from the rest of the application as these components act to display information, rarely updating.
+While the App.jsx file is the starting point of the React application, the Map component acts as the primary parent for most of the artefact's components. Multiple states and variables are declared within Map and are transferred across the rest of its children. This setup is necessary because most components are dependent on the Map to function. However, not all child components of Map are required for the application to function, demonstrating the modular functionality of the application. The LeftPanel component and its children remain standalone from the rest of the application as these components act to display information on load.
 
 \begin{figure}[!ht]
   \centering
@@ -129,10 +129,10 @@ While the App.jsx file is the starting point of the React application, the Map c
 \section{Critique of Designs}
 \label{design:critique}
 
-The progressive approach was used to develop the UI, and whilst beneficial to the overall project and its aims, mobile devices were not catered for. While this can be seen as bad software development practice, the artefact is aimed at users on a desktop environment, exporting routes to external mobile navigation/fitness applications. Therefore, the designs were catered for a desktop experience, over a mobile-first design.
+The progressive approach was used to develop the UI, and whilst beneficial to the overall project and its aims, mobile devices were not catered for. While this can be seen as bad practice, the artefact is aimed at users on a desktop environment, exporting routes to external mobile navigation/fitness applications. Therefore, a mobile-first design was not opted for.
 
-Both high-fidelity designs only demonstrate a light mode colour scheme. Due to this, all users are forced to use the artefact in a brighter, light mode with no option of customisability. In hindsight, it would have been beneficial to develop multiple high-fidelity designs to include both a light and dark mode for the artefact.
+Both high-fidelity designs only demonstrate a light colour scheme. Due to this, all users are forced to use the light mode with no option to customise. In hindsight, it would have been beneficial to develop multiple high-fidelity designs to include both a light and dark mode.
 
-The database was designed to only store hazard and cycling infrastructure information, ideally, the database would store more than just this data. To expand some of the artefact's basic functionality, the database would also store user oAuth tokens, as well as their planned routes. Implementing such tables would enable the user to load more than just the last planned route into the application, without the requirement to store GPX/GeoJSON files locally, instead, they could save routes to their account. These tables would also enable a more expansive sharing functionality to social media, enabling users to share links to routes, rather than map screenshots of their routes \see{evaluation:future}.
+The database was designed to store hazard and cycling infrastructure information, ideally, the database would store more than just this data. To expand some of the artefact's basic functionality, the database would also store user oAuth tokens, as well as their planned routes. Implementing such tables would enable the user to save and load routes to the their accounts on the artefact without the requirement to store GPX/GeoJSON files locally \see{evaluation:future}. These tables would also enable a more expansive sharing functionality to social media, enabling users to share links to routes, rather than map screenshots of their routes.
 
-Finally, the modular architecture approach, was ideal for developing the artefact, however, the modules could have been better structured to maximise the benefits of the modular approach. The artefact should be customisable, whereby specific modules can be disabled entirely if the user doesn't require them. At this stage, the design only caters to the manual disabling of each module, with certain modules being necessary for the artefact to function \see{evaluation:limitations}.
+Finally, the modular architecture approach, was ideal for developing the artefact, however, the modules could have been better structured to maximise the benefits of this approach. The artefact should be customisable, whereby modules can be disabled entirely if they are not required. At this stage, the design only caters to the manual disabling of each module, with certain modules being necessary for the artefact to function.
