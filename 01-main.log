@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  23 FEB 2024 09:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  23 FEB 2024 10:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/jakeb/final-year-project-latex/01-main.tex
-(/home/jakeb/final-year-project-latex/01-main.tex
+**/home/jakeb/git/final-year-project-latex/01-main.tex
+(/home/jakeb/git/final-year-project-latex/01-main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./abdnthesis.cls
 Document Class: abdnthesis 2013/08/11 2.3 ABDN Thesis Class
@@ -857,10 +857,10 @@ Package hyperref Info: Link coloring OFF on input line 62.
 \openout5 = `01-main.out'.
 
 Package epstopdf Info: Source file: <figures/UoP_Master_Logo_Linear_PMS.eps>
-(epstopdf)                    date: 2024-01-09 10:06:48
+(epstopdf)                    date: 2024-01-09 21:48:08
 (epstopdf)                    size: 672822 bytes
 (epstopdf)             Output file: <figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-16 16:32:25
+(epstopdf)                    date: 2024-01-09 21:48:08
 (epstopdf)                    size: 15628 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf figures/UoP_Master_Logo_Linear_PMS.eps>
 (epstopdf)             \includegraphics on input line 67.
@@ -1504,7 +1504,7 @@ Chapter 8.
 <figures/unit-tests.png, id=1166, 244.915pt x 382.42876pt>
 File: figures/unit-tests.png Graphic file (type png)
 <use figures/unit-tests.png>
-Package pdftex.def Info: figures/unit-tests.png  used on input line 17.
+Package pdftex.def Info: figures/unit-tests.png  used on input line 19.
 (pdftex.def)             Requested size: 150.56305pt x 235.10767pt.
 [58
 
@@ -1769,14 +1769,14 @@ Package logreq Info: Writing requests to '01-main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  25414 strings out of 477985
- 472864 string characters out of 5840059
+ 472876 string characters out of 5840059
  1891388 words of memory out of 5000000
  44810 multiletter control sequences out of 15000+600000
  571489 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 94i,12n,92p,2233b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,12n,92p,2237b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (80 pages, 64741819 bytes).
+Output written on 01-main.pdf (80 pages, 64741769 bytes).
 PDF statistics:
  1688 PDF objects out of 1728 (max. 8388607)
  1390 compressed objects within 14 object streams

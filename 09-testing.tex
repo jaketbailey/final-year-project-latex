@@ -6,6 +6,8 @@ This chapter outlines the process of testing with React.js and Go. The chapter w
 \section{Unit Testing}
 \label{testing:unit}
 
+% add some context here (why am I testing, how does it fit into what the user expects)
+
 For unit testing, two frameworks were used. For the Go/Gin backend, the built-in Go test framework was used. For the React.js front, the Jest testing framework was used. The respective plugins were installed in VS Code to allow for easy running and visualisation of the tests \see{fig:unit-tests}.
 
 Multiple tests were written to test the API GET endpoints. The tests were run via the aforementioned VS Code plugin or the terminal using the command `\texttt{go test}'. Using mock data inputs, the tests were written to ensure that the correct JSON object was returned in the correct format to be exploited by the front end.
