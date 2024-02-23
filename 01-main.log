@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  23 FEB 2024 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  23 FEB 2024 14:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1499,7 +1499,7 @@ Package pdftex.def Info: figures/Progress Images/Iteration-3/SR50/SR50 - Garmin 
 <figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png, id=1233, 1278.27562pt x 1031.35312pt>
 File: figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png>
-Package pdftex.def Info: figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png  used on input line 235.
+Package pdftex.def Info: figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png  used on input line 234.
 (pdftex.def)             Requested size: 426.5953pt x 344.18744pt.
  [58 <./figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png (PNG copy)>]) [59 <./figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png (PNG copy)>]
 \openout2 = `09-testing.aux'.
