@@ -6,9 +6,9 @@ This chapter outlines the process of testing with React.js and Go. The chapter w
 \section{Unit Testing}
 \label{testing:unit}
 
-% add some context here (why am I testing, how does it fit into what the user expects)
+Unit testing was critical to the development and functionality of the artefact. They were used primarily to test the core logic of the front and back end. These tests culminate to ensure that the end product is functioning as expected, delivering the complete application that the user expects.
 
-For unit testing, two frameworks were used. For the Go/Gin backend, the built-in Go test framework was used. For the React.js front, the Jest testing framework was used. The respective plugins were installed in VS Code to allow for easy running and visualisation of the tests \see{fig:unit-tests}.
+For the Go/Gin backend, the built-in Go test framework was used. For the React.js front, the Jest testing framework was used. The respective plugins were installed in VS Code to allow for easy running and visualisation of the tests \see{fig:unit-tests}.
 
 Multiple tests were written to test the API GET endpoints. The tests were run via the aforementioned VS Code plugin or the terminal using the command `\texttt{go test}'. Using mock data inputs, the tests were written to ensure that the correct JSON object was returned in the correct format to be exploited by the front end.
 
@@ -21,7 +21,7 @@ Testing React.js components was a more complex process than writing tests for va
     \label{fig:unit-tests}
   \end{figure}
 
-Manual unit tests were also conducted on the front end to ensure that the components behaved as expected. This was done by running the application and manually testing the components to ensure that they rendered correctly and that the data was displayed as expected \see{tab:unit-test-results}.
+Manual unit tests were conducted on the front end to ensure that the components behaved as expected. The application was run through set tasks to ensure functionality \see{tab:unit-test-results}.
 
 \begin{table}
 \caption{Manual Unit Test Results}
@@ -66,3 +66,8 @@ Postman was also used extensively through development to test the API. It was us
 \label{testing:chrome-dev}
 
 The Chrome Developer Tools were also used to test the front end during development. The debugger was used to ensure that the JavaScript was running correctly and that the data was being passed correctly between the front and back end. Logs and breakpoints were also used to track the flow of data through the front end, ensuring that the state was being updated correctly and that the correct data was being passed to the components.
+
+\section{Conclusion}
+\label{testing:conclusion}
+
+A multi-faceted approach to testing was used where all core logic was tested to ensure the reliability of the final product. Testing enabled effective software development, ensuring all deadlines were met and that the artefact was delivered to a high standard.

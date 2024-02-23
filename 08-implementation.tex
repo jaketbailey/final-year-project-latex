@@ -241,3 +241,8 @@ Where $x_1$ and $y_1$ are the latitude and longitude of the start point, and $x_
 \label{iteration3:main-challenges}
 
 The main challenge of i3 was the oAuth 1.0 protocol for the Garmin Connect API. Despite having implemented oAuth 2.0 for Strava \see{iteration2:sharing-route}, Garmin did use an alternative protocol. The logic used for the Strava oAuth process was not transferable, therefore it had to be implemented from scratch. Minor issues with React were also found where in developer mode, the artefact would re-render twice, leading to the user-independent token being changed twice, causing issues with the oAuth process. This was resolved through thorough debugging, ensuring correct use of the useEffect and testing in production mode.
+
+\section{Conclusion}
+\label{implementation:conclusion}
+
+The development of the artefact proved challenging, but highly rewarding. Most functionality was implemented with time to spare, illustrating the effective task and time management strategies outlined in \see{chap:pm}. In the following chapter, the testing strategies are covered, demonstrating how crucial regular testing is during development. The testing methods used ensured that implementation and development delivered an artefact at a high standard, meeting most requirements and all deadlines.

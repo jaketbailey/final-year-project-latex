@@ -166,12 +166,18 @@ Many requirements were reliant on others to be built first, therefore the MoSCoW
 \section{Limitations}
 \label{evaluation:limitations}
 
+This section will discuss the limitations found during the development of the project. The limitations are based on the requirements and the development process, with a focus on round-trip routing, route imports with LRM, compatibility, and cloud-based route-sharing limitations.
+
+\subsection{Round Trip Routing}
 The first limitation found was with the routing algorithm and library used to integrate with Leaflet (Leaflet Routing Machine (LRM) and OpenRouteService (ORS). The library was not as customisable as initially thought, leading to the need to fork the connecting library between Routing Machine and ORS to enable round-trip routing. LRM requires a minimum of two inputs (A to B), therefore when implementing round-trip, it was not possible to integrate this into the LRM without significant changes to the library. This feature should have proven simple, however, the limitations of LRM required DOM elements in the UI to be hidden to enable the round trip feature, with custom triggers to remove the 2 input minimum. Ideally, LRM would not be used and a custom routing machine would be built from scratch for future versions of the system.
 
+\subsection{Route Import}
 Furthermore, another limitation found when integrating LRM was the inability to import routes. Currently the system imports routes by parsing either a GPX or GeoJSON file, taking the route coordinates and adding them as a 'Waypoint' in LRM. Each 'Waypoint' acts as a 'via' position in the route. Consequently, in long routes, there can be hundreds of 'Waypoints' which are all added as 'via' points in the UI. This caused many issues when querying geolocation for each waypoint whereby the API would block access due to the number of requests. To resolve this, the system will not make geolocation requests when there are six or more waypoints. The drawback to this is that the system will not provide named locations for waypoints when there are six or more waypoints. These issues with LRM further highlight the need to build a custom routing machine.
 
+\subsection{Compatibility Issues}
 Compatibility is another limitation where the system is currently only compatible with desktop devices, having little responsiveness to support mobile. This is because the focus was on desktop-based route planning rather than mobile, however, in future iterations, mobile support will be considered \see{design:assumptions/decisions}. Minimising the amount of overlays on the UI will also be a core focus to improve the user experience, to integrate the overlays into the core UI elements.
 
+\subsection{Cloud-based Route Sharing}
 A final limitation is the lack of a cloud-based server to store user data and routes. This was a feature that was considered, however, due to the complexity and time constraints, it was not feasible to implement. This would have allowed users to save routes and access them from different devices, as well as share routes with other users. These routes would also be implemented into the social sharing functionality. Direct links to routes would be generated and shared, with the ability to view shared routes natively in the system.
 
 \section{Future Work}
@@ -190,3 +196,11 @@ Addressing the limitations of the project will be the primary focus, however, th
     \item Implementing a system to allow sharing of routes with other users.
     \item Implementing native avoid areas in the route planning algorithm.
 \end{itemize}
+
+\section{Conclusion}
+\label{evaluation:conclusion}
+
+The project was precisely managed, ensuring a balance between development tasks and other project commitments. Through constant effort, the established requirements were largely fulfilled, marking a significant achievement in system development. Recognising the project's limitations, proactive measures were taken to address them, accompanied by a clear idea for future work. This culminates in the following chapter which offers a reflective analysis of the project's accomplishments and the goals achieved.
+
+
+
