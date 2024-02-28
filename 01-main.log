@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  23 FEB 2024 14:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  24 FEB 2024 20:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1083,18 +1083,18 @@ File: figures/current_apps.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/current_apps.pdf  used on input line 26.
 (pdftex.def)             Requested size: 426.79134pt x 301.59483pt.
  [18 <./figures/current_apps.pdf>]
-<figures/current_apps_post_research.pdf, id=750, 845.1575pt x 597.23125pt>
+<figures/current_apps_post_research.pdf, id=751, 845.1575pt x 597.23125pt>
 File: figures/current_apps_post_research.pdf Graphic file (type pdf)
 <use figures/current_apps_post_research.pdf>
 Package pdftex.def Info: figures/current_apps_post_research.pdf  used on input line 47.
 (pdftex.def)             Requested size: 426.79134pt x 301.59483pt.
  [19 <./figures/current_apps_post_research.pdf>] [20]
-<figures/bicycle_infrastructure_score_table.jpg, id=800, 926.71219pt x 229.60782pt>
+<figures/bicycle_infrastructure_score_table.jpg, id=801, 926.71219pt x 229.60782pt>
 File: figures/bicycle_infrastructure_score_table.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_score_table.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_score_table.jpg  used on input line 67.
 (pdftex.def)             Requested size: 401.50146pt x 99.47919pt.
-<figures/bicycle_infrastructure_scores.jpg, id=803, 295.3434pt x 161.8848pt>
+<figures/bicycle_infrastructure_scores.jpg, id=804, 295.3434pt x 161.8848pt>
 File: figures/bicycle_infrastructure_scores.jpg Graphic file (type jpg)
 <use figures/bicycle_infrastructure_scores.jpg>
 Package pdftex.def Info: figures/bicycle_infrastructure_scores.jpg  used on input line 74.
@@ -1133,12 +1133,12 @@ Chapter 5.
 
 
 ]
-<figures/logarithmic-scoring.png, id=889, 1888.05376pt x 943.525pt>
+<figures/logarithmic-scoring.png, id=890, 1888.05376pt x 943.525pt>
 File: figures/logarithmic-scoring.png Graphic file (type png)
 <use figures/logarithmic-scoring.png>
 Package pdftex.def Info: figures/logarithmic-scoring.png  used on input line 28.
 (pdftex.def)             Requested size: 401.50146pt x 200.63678pt.
-<figures/research-application.png, id=891, 1802.735pt x 1993.4475pt>
+<figures/research-application.png, id=892, 1802.735pt x 1993.4475pt>
 File: figures/research-application.png Graphic file (type png)
 <use figures/research-application.png>
 Package pdftex.def Info: figures/research-application.png  used on input line 35.
@@ -1336,22 +1336,22 @@ Chapter 6.
 
 
 ]
-<figures/lofi-1.png, id=954, 7042.31pt x 5119.125pt>
+<figures/lofi-1.png, id=956, 7042.31pt x 5119.125pt>
 File: figures/lofi-1.png Graphic file (type png)
 <use figures/lofi-1.png>
 Package pdftex.def Info: figures/lofi-1.png  used on input line 41.
 (pdftex.def)             Requested size: 351.31378pt x 255.34636pt.
-<figures/lofi-2.png, id=955, 7042.31pt x 5119.125pt>
+<figures/lofi-2.png, id=957, 7042.31pt x 5119.125pt>
 File: figures/lofi-2.png Graphic file (type png)
 <use figures/lofi-2.png>
 Package pdftex.def Info: figures/lofi-2.png  used on input line 48.
 (pdftex.def)             Requested size: 351.31378pt x 255.34636pt.
-<figures/hifi-1.png, id=956, 1462.71469pt x 813.0375pt>
+<figures/hifi-1.png, id=958, 1462.71469pt x 813.0375pt>
 File: figures/hifi-1.png Graphic file (type png)
 <use figures/hifi-1.png>
 Package pdftex.def Info: figures/hifi-1.png  used on input line 55.
 (pdftex.def)             Requested size: 401.50146pt x 223.17041pt.
-<figures/hifi-2.png, id=957, 1446.15282pt x 815.29594pt>
+<figures/hifi-2.png, id=959, 1446.15282pt x 815.29594pt>
 File: figures/hifi-2.png Graphic file (type png)
 <use figures/hifi-2.png>
 Package pdftex.def Info: figures/hifi-2.png  used on input line 62.
@@ -1778,13 +1778,13 @@ Package logreq Info: Writing requests to '01-main.run.xml'.
 Here is how much of TeX's memory you used:
  25445 strings out of 477985
  473353 string characters out of 5840059
- 1892388 words of memory out of 5000000
+ 1893388 words of memory out of 5000000
  44828 multiletter control sequences out of 15000+600000
  571489 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,12n,92p,2233b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (82 pages, 64663450 bytes).
+Output written on 01-main.pdf (82 pages, 64663392 bytes).
 PDF statistics:
  1788 PDF objects out of 2073 (max. 8388607)
  1487 compressed objects within 15 object streams
