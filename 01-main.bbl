@@ -415,6 +415,48 @@
       \verb https://www.google.com/maps
       \endverb
     \endentry
+    \entry{govuk_net_2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0baaf83382cae6919f47ceece5e07cb1}{%
+           family={{GOV}.{UK}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{fullhash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{bibnamehash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{authorbibnamehash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{authornamehash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{authorfullhash}{0baaf83382cae6919f47ceece5e07cb1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This strategy sets out policies and proposals for decarbonising all sectors of the {UK} economy to meet our net zero target by 2050.}
+      \field{day}{5}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shorttitle}{Net Zero Strategy}
+      \field{title}{Net Zero Strategy: Build Back Greener}
+      \field{titleaddon}{{GOV}.{UK}}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb net-zero-strategy-beis.pdf:/home/jakeb/Zotero/storage/QCCII993/net-zero-strategy-beis.pdf:application/pdf;Snapshot:/home/jakeb/Zotero/storage/I2D3YEJG/net-zero-strategy.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.gov.uk/government/publications/net-zero-strategy
+      \endverb
+      \verb{url}
+      \verb https://www.gov.uk/government/publications/net-zero-strategy
+      \endverb
+    \endentry
     \entry{noauthor_gpx_nodate}{online}{}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
@@ -1625,6 +1667,48 @@
       \endverb
       \verb{url}
       \verb https://www.google.com/maps
+      \endverb
+    \endentry
+    \entry{govuk_net_2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0baaf83382cae6919f47ceece5e07cb1}{%
+           family={{GOV}.{UK}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{fullhash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{bibnamehash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{authorbibnamehash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{authornamehash}{0baaf83382cae6919f47ceece5e07cb1}
+      \strng{authorfullhash}{0baaf83382cae6919f47ceece5e07cb1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This strategy sets out policies and proposals for decarbonising all sectors of the {UK} economy to meet our net zero target by 2050.}
+      \field{day}{5}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shorttitle}{Net Zero Strategy}
+      \field{title}{Net Zero Strategy: Build Back Greener}
+      \field{titleaddon}{{GOV}.{UK}}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb net-zero-strategy-beis.pdf:/home/jakeb/Zotero/storage/QCCII993/net-zero-strategy-beis.pdf:application/pdf;Snapshot:/home/jakeb/Zotero/storage/I2D3YEJG/net-zero-strategy.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.gov.uk/government/publications/net-zero-strategy
+      \endverb
+      \verb{url}
+      \verb https://www.gov.uk/government/publications/net-zero-strategy
       \endverb
     \endentry
     \entry{noauthor_gpx_nodate}{online}{}
