@@ -8,17 +8,7 @@ This chapter evaluates the project as a whole focusing on the development proces
 
 During the early stages of the academic year, starting a project was exciting and was progressing well. The problem proved challenging over time, yet rewarding when understanding the fundamentals that build route planning systems. Time management, planning and determining theoretical deadlines for development and report writing were crucial to ensuring steady progression despite the pressing deadlines of other modules. Due to this, the project swiftly began to move ahead of schedule, resulting in the initial Gantt chart \see{fig:initial-gantt} being revised to adjust for the rapid progress \see{fig:final-gantt}.
 
-The first iteration began around November before the designs were complete and the requirements gathering phase had begun. This led to the first iteration being developed blindly, with no clear direction. Therefore, the first iteration merely set up the basic structure of the system, leading to development choices that would later not align with the requirements \see{chap:requirements}. Furthermore, because development began before designs were also complete, the iteration didn't accommodate for the design decisions made after the iteration was complete \see{chap:design}. This led to a significant amount of refactoring in the second iteration, which could have been avoided if the development was started after the designs were complete.
-
-The development methodology also changed after iteration 1 was complete, moving from an incremental to an iterative approach. The incremental approach was not feasible due to the complexity of the project, it proved beneficial to progressively build and improve all aspects of the system in iterations. Allowing for the system to be built in a modular fashion, enabling easier integration of new features and changes.
-
-The final Gantt chart demonstrates the ongoing process of the project, with a dedicated development period catered around the report's progress. The core development periods were between November and December, then January to the start of semester two. Approximately, development consisted of two months, on average twenty to twenty-five hours each week. Breaking up the development in such a way enabled both development and report writing to be progressing simultaneously without one hindering the other.
-
-Overall the project was managed more effectively than originally planned, running ahead of schedule throughout the academic year. The extra time allowed for refinements and improvements without the pressure of an immediate deadline. Constant feedback from the client yielded a more developed understanding of the requirements, the project direction and suggestions for new requirements. The requirements originated as user stories, broken down into smaller, system requirements. Doing so made the use of GitHub projects and issues more effective with the ability to visualise project progress, further aiding an iterative agile development process.
-
-To summarise, the project was managed effectively, except for the early start of iteration 1. The time spent on both development and report writing was well-balanced around other modules and commitments, limiting the chance of burnout. The primary issue was the early stages where development decisions were made without designs and requirements resulting in a knock-on effect in later project stages when integrating more complex features with pre-existing code. It is critical to ensure the project is well planned and development doesn't begin until the requirements and designs are complete to limit the chance of future rework and refactoring.
-
-\begin{figure}[h!]
+\begin{figure}[ht!]
     \centering
     \includegraphics[width=1\linewidth]{figures/Old FYP Gantt - Timeline 1.pdf}
     \caption{Initial Gantt Chart}
@@ -32,16 +22,39 @@ To summarise, the project was managed effectively, except for the early start of
     \label{fig:final-gantt}
 \end{figure}
 
+\subsection{Development Methodology}
+The first iteration began around November before the designs were complete and the requirements gathering phase had begun. This led to the first iteration being developed blindly, with no clear direction. Therefore, the first iteration merely set up the basic structure of the system, leading to development choices that would later not align with the requirements \see{chap:requirements}. Furthermore, because development began before designs were also complete, the iteration didn't accommodate for the design decisions made after the iteration was complete \see{chap:design}. This led to a significant amount of refactoring in the second iteration, which could have been avoided if the development was started after the designs were complete.
+
+The development methodology also changed after iteration 1 was complete, moving from an incremental to an iterative approach. The incremental approach was not feasible due to the complexity of the project, it proved beneficial to progressively build and improve all aspects of the system in iterations. Allowing for the system to be built in a modular fashion, enabling easier integration of new features and changes.
+
+\subsection{Development Time}
+The final gantt chart \see{fig:final-gantt} demonstrates the ongoing process of the project, with a dedicated development period catered around the report's progress. The core development periods were between September and December, then January into February. Approximately, development consisted of four months with more intense development within January and February \see{fig:development-gantt}. Breaking up the development in such a way enabled both development and report writing to be progressing simultaneously without one hindering the other.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=1\linewidth]{figures/dev-gantt.pdf}
+    \caption{Actual Development Gantt Chart}
+    \label{fig:development-gantt}
+\end{figure}
+
+\subsection{Project Management}
+Overall the project was managed more effectively than originally planned, running ahead of schedule throughout the academic year. The extra time allowed for refinements and improvements without the pressure of an immediate deadline. Constant feedback from the client yielded a more developed understanding of the requirements, the project direction and suggestions for new requirements. The requirements originated as user stories, broken down into smaller, system requirements \see{requirements:user-stories}. Doing so made the use of GitHub projects \see{pm:kanban} and issues more effective with the ability to visualise project progress, further aiding an iterative agile development process \see{methodology:chosen}.
+
+To summarise, the project was managed effectively, except for the early start of iteration 1. The time spent on both development and report writing was well-balanced around other modules and commitments, limiting the chance of burnout. The primary issue was the early stages where development decisions were made without designs and requirements resulting in a knock-on effect in later project stages when integrating more complex features with pre-existing code. It is critical to ensure the project is well planned and development doesn't begin until the requirements and designs are complete to limit the chance of future rework and refactoring.
+
 \clearpage
 \section{Evaluating Requirements}
 \label{evaluation:requirements}
 
 For this project, assessing its success based solely on the fulfilment of the defined requirements might not provide a comprehensive evaluation. All requirements were established ahead of the three development iterations, with a revision made after primary research was completed \see{fig:research-results}. User stories were created and broken down into smaller system requirements, which were assigned to the development iterations based on priority order via the MoSCoW method \see{chap:requirements}. Further analysis was required to determine if all requirements were met and if they combined to meet all objectives. For all discussion surrounding the project's objectives \see{chap:reflection-and-conclusion}.
 
+\subsection{Unmet Requirements}
 Overall, 47 of 51 system requirements were met \see{evaluatedrq}. The four requirements not met were due to the prioritisation of other requirements, the missed requirements were not critical to the system's functionality. They were not met because of the focus on \hyperref[SR:50]{SR50} at the end of development which was a complex but ideal feature to implement. Therefore, some of the initial requirements were not met. Should there have been extra development time, these would be the first to be implemented.
 
 The requirements missed were primarily from 'User Story 05' \see{tab:user-story-05} as these were marked as 'Could' with the MoSCoW method. These focused on integrating weather data into the route planning algorithm. Whilst consideration occurred for extending development and implementation, there was no such weather data API that could serve effectively for this specific purpose. This was due to limited funds and the complexity of the feature.
 
+\subsection{Met Requirements}
+\label{evaluation:requirements:met}
 All requirements met can be evidenced by the work undertaken within the 'Implementation' chapter of this report \see{chap:implementation}. The routing machine provides users with core routing functionality and customisability (\hyperref[tab:user-story-02]{User Story 02}), whilst providing the user with the ability to export and share routes locally or to external services such as Garmin, Strava and Google Drive (\hyperref[tab:user-story-03]{User Story 03}, \hyperref[tab:user-story-04]{User Story 04}) \see{fig:garmin-connect}. Furthermore, the map component enables users to view and manipulate the route (\hyperref[tab:user-story-06]{User Story 06}) \see{fig:route-import}.
 
 Many requirements were reliant on others to be built first, therefore the MoSCoW method was used to determine the prioritisation based on user feedback with consideration of requirements' dependencies on other requirements. This enabled a functional, well-rounded system to be developed in a logical order, with a focus on modularity. Reflections on the requirements and objectives can be found in the conclusion \see{reflection-and-conclusion:outcomes/objectives-met}.
@@ -78,11 +91,6 @@ Many requirements were reliant on others to be built first, therefore the MoSCoW
         \hyperref[SR:14]{SR14} & The system must provide an export feature to export the route to the 'GeoJSON' file format. & Y\\ 
         \hyperref[SR:15]{SR15} & The system must provide an export online (to Google Drive, OneDrive and/or other cloud services) & Y\\
         \hline
-        & \textbf{\hyperref[tab:user-story-04]{User Story 04}}  \\
-        \hyperref[SR:16]{SR16} & The system must provide a share functionality overlay. & Y \\
-        \hyperref[SR:17]{SR17} & The share overlay must provide an option to share direct over email. & Y\\
-        \hyperref[SR:18]{SR18} & The system must provide an option to share the route direct to Strava. & Y\\ 
-        \hline
     \end{tabularx}
 \end{table}
 \clearpage
@@ -95,6 +103,11 @@ Many requirements were reliant on others to be built first, therefore the MoSCoW
     \begin{tabularx}{\textwidth}{ p{1cm} p{11cm} p{1cm} }
         \hline
         ID & Description & Met? \\ 
+        \hline
+        & \textbf{\hyperref[tab:user-story-04]{User Story 04}}  \\
+        \hyperref[SR:16]{SR16} & The system must provide a share functionality overlay. & Y \\
+        \hyperref[SR:17]{SR17} & The share overlay must provide an option to share direct over email. & Y\\
+        \hyperref[SR:18]{SR18} & The system must provide an option to share the route direct to Strava. & Y\\ 
         \hline
         & \textbf{\hyperref[tab:user-story-05]{User Story 05}} \\
         \hyperref[SR:19]{SR19} & The system must provide the user with a weather condition overlay. & Y \\
@@ -116,11 +129,6 @@ Many requirements were reliant on others to be built first, therefore the MoSCoW
         & \textbf{\hyperref[tab:user-story-07]{User Story 07}}  \\
         \hyperref[SR:32]{SR32} & The system must provide a user input modal to input Hazard and Infrastructure Data. & Y \\
         \hyperref[SR:33]{SR33} & The hazard input modal must provide a Type drop-down menu based on the OSM Hazard Types. & Y\\
-        \hyperref[SR:34]{SR34} & The hazard input modal must provide a date entry point to specify the date the hazard was seen. & Y\\
-        \hyperref[SR:35]{SR35} & The hazard input modal must provide a submit button to add the hazard to the hazard index. & Y\\
-        \hyperref[SR:36]{SR36} & The infrastructure input modal must provide a Type drop-down menu with different types of cycling/road infrastructure & Y\\
-        \hyperref[SR:37]{SR37} & The infrastructure input modal must provide a date entry point to specify when the bad infrastructure was found & Y\\
-        \hline
     \end{tabularx}
 \end{table}
 \clearpage
@@ -135,6 +143,10 @@ Many requirements were reliant on others to be built first, therefore the MoSCoW
         ID & Description & Met? \\ 
         \hline
         & \textbf{\hyperref[tab:user-story-07]{User Story 07 Cont.}}  \\
+        \hyperref[SR:34]{SR34} & The hazard input modal must provide a date entry point to specify the date the hazard was seen. & Y\\
+        \hyperref[SR:35]{SR35} & The hazard input modal must provide a submit button to add the hazard to the hazard index. & Y\\
+        \hyperref[SR:36]{SR36} & The infrastructure input modal must provide a Type drop-down menu with different types of cycling/road infrastructure & Y\\
+        \hyperref[SR:37]{SR37} & The infrastructure input modal must provide a date entry point to specify when the bad infrastructure was found & Y\\
         \hyperref[SR:38]{SR38} & The infrastructure input modal must provide an input box providing the user with the option to supply more detail & Y\\
         \hyperref[SR:39]{SR39} & Both Hazard and Infrastructure data should be displayed on the map, with an option to toggle on/off, and report errors & Y\\
         \hline
@@ -200,7 +212,7 @@ Addressing the limitations of the project will be the primary focus, however, th
 \section{Conclusion}
 \label{evaluation:conclusion}
 
-The project was precisely managed, ensuring a balance between development tasks and other project commitments. Through constant effort, the established requirements were largely fulfilled, marking a significant achievement in system development. Recognising the project's limitations, proactive measures were taken to address them, accompanied by a clear idea for future work. This culminates in the following chapter which offers a reflective analysis of the project's accomplishments and the goals achieved.
+The project was precisely managed, ensuring a balance between development tasks and other project commitments. Through constant effort, the established requirements were largely fulfilled, marking a significant achievement in system development \see{evaluation:requirements:met}. Recognising the project's limitations \see{evaluation:limitations}, proactive measures were taken to address them, accompanied by a clear idea for future work. This culminates in the following chapter which offers a reflective analysis of the project's accomplishments and the goals achieved.
 
 
 
