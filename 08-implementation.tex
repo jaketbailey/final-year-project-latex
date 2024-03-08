@@ -10,7 +10,7 @@ Visual Studio Code (VSCode) was chosen as the development environment (\cite{noa
 
 \section{Iteration 1 - Basic UI and Core Routing}
 \label{implementation:iteration1}
-The initial stages of development began using a first draft of elicited requirements \see{appendix:initial-user-requirements} where later on, a new set of user requirements was formed based on primary research. This method proved effective in not delaying initial development, where the core requirements were unlikely to change greatly. Furthermore, Iteration 1 (i1) consisted of implementing the building blocks of the artefact, including setting up a React.js App, web server, database and core routing functionalities.
+The initial stages of development began using a first draft of elicited requirements \see{appendix:initial-user-requirements} where later on, a new set of user requirements was formed based on primary research \see{litrev:competingproducts}. This method proved effective in not delaying initial development, where the core requirements were unlikely to change greatly. Furthermore, Iteration 1 (i1) consisted of implementing the building blocks of the artefact, including setting up map \see{iteration1:leaflet-osm} and core routing functionalities \see{iteration1:basic-routing}.
 
 \subsection{Leaflet - Open Street Map (OSM)}
 \label{iteration1:leaflet-osm}
@@ -71,7 +71,7 @@ Furthermore, the only other challenge faced was retrieving the user's geolocatio
 \section{Iteration 2 - Route Sharing, Hazard Index and POI Integration}
 \label{implementation:iteration2}
 
-Unlike i1, Iteration 2 (i2) development was conducted after the primary research and requirements review had been completed. The remaining updated requirements were prioritised and distributed between i2 and Iteration 3 (i3) \see{implementation:iteration3}. I2 builds on i1, enhancing existing functionality and introducing new features. 
+Unlike i1 \see{implementation:iteration1}, Iteration 2 (i2) development was conducted after the primary research \see{litrev:competingproducts} and requirements review \see{chap:requirements} had been completed. The remaining updated requirements were prioritised and distributed between i2 and Iteration 3 (i3) \see{implementation:iteration3}. I2 builds on i1, enhancing existing functionality and introducing new features. 
 
 \subsection{Sharing Route Functionality}
 \label{iteration2:sharing-route}
@@ -82,7 +82,7 @@ Each email would contain a simple amount of text with the included GPX and/or Ge
 
 Initially, it was planned to use the Strava API to upload GPX files directly to the Strava Routes, however, it was found that the Strava API had no such endpoint to integrate with routes. It was decided to still implement Strava integration, but with activities, enabling route export as an activity for users without dedicated fitness devices. 
 
-A modal was created \see{fig:strava-modal} and a POST request endpoint was set up to handle the request to the Strava API. The user authenticate with strava, to enable access to upload activities to their account. Once logged in, the user could select the route to upload, then the artefact would send the GPX file to the Strava API and saved to their account \see{fig:strava-example}.
+A modal was created \see{fig:strava-modal} and a POST request endpoint was set up to handle the request to the Strava API. The user authenticate with Strava, to enable access to upload activities to their account. Once logged in, the user could select the route to upload, then the artefact would send the GPX file to the Strava API and saved to their account \see{fig:strava-example}.
 
 \begin{figure}[!ht]
   \centering
@@ -172,12 +172,12 @@ The Strava API was also challenging as it was required to implement oAuth 2.0 ma
 \section{Iteration 3 - Round Trip, Route Import and Garmin Integration}
 \label{implementation:iteration3}
 
-Finally, i3 included the remainder of the critical and desired requirements. These included round-trip routing, route import, Garmin Connect integration and social media sharing. There were only a few requirements that were not implemented due to time constraints, these were the lowest priority requirements and were not critical to the artefact's functionality.
+Finally, i3 included the remainder of the critical and desired requirements. These included round-trip routing \see{iteration3:round-trip}, route import \see{iteration3:route-import}, Garmin Connect integration \see{iteration3:garmin-integration} and social media sharing \see{iteration3:social-sharing}. There were only a few requirements that were not implemented due to time constraints, these were the lowest priority requirements and were not critical to the artefact's functionality.
 
 \subsection{Round Trip Routing}
 \label{iteration3:round-trip}
 
-The ORS API was implemented shortly after it was found that OSRM didn't support round-trip routing, only A to B routing \see{iteration1:basic-routing}. The new API was implemented towards the end of i1 ahead of knowing the requirements for i3. 
+The ORS API was implemented shortly after it was found that OSRM didn't support round-trip routing, only A to B routing \see{iteration1:basic-routing}. The new API was implemented towards the end of i1 \see{implementation:iteration1} ahead of knowing the requirements for i3. 
 
 To implement round-trip, the library used for using ORS with Leaflet Routing Machine (\cite{noauthor_gegewebleaflet-routing-machine-openroute_2020}) was customised to fit the artefact's needs. A fork was created to allow the round-trip feature to be used with the library. This fork allowed for only one waypoint to act as an input to trigger the API call for round-trip routing. The API call would then return a route in the same format as an A to B route, with the start and end being the same point. The route was then drawn on the map and the elevation chart was updated. \see{fig:round-trip}.
 
@@ -245,4 +245,4 @@ The main challenge of i3 was the oAuth 1.0 protocol for the Garmin Connect API. 
 \section{Conclusion}
 \label{implementation:conclusion}
 
-The development of the artefact proved challenging, but highly rewarding. Most functionality was implemented with time to spare, illustrating the effective task and time management strategies outlined in \see{chap:pm}. In the following chapter, the testing strategies are covered, demonstrating how crucial regular testing is during development. The testing methods used ensured that implementation and development delivered an artefact at a high standard, meeting most requirements and all deadlines.
+The development of the artefact proved challenging, but highly rewarding. Most functionality was implemented with time to spare, illustrating the effective task and time management strategies outlined in \see{chap:pm}. In the following chapter, the testing strategies are covered \see{chap:testing}, demonstrating how crucial regular testing is. The testing methods used ensured that implementation delivered an artefact at a high standard, meeting most requirements and all deadlines.

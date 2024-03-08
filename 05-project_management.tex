@@ -1,23 +1,44 @@
 \chapter{Project Management}
 \label{chap:pm}
 
-As stated throughout \see{chap:methodology}, the Iterative SDLC model was chosen for this project. All tasks will be managed with GitHub projects Kanban, Table and Milestones functionality. Furthermore, the project will be managed with Git for version control and regular meetings with the project supervisor were scheduled to monitor progress.
+As stated throughout \see{chap:methodology}, the Iterative SDLC model was chosen for this project. All tasks will be managed with GitHub projects Kanban, Table and Milestones functionality \see{pm:kanban}. Furthermore, the project will be managed with Git for version control \see{pm:version_control} and regular meetings with the project supervisor were scheduled to monitor progress \see{pm:supervisor_meetings}.
 
 \section{GitHub}
 
 \subsection{Kanban Board and Projects}
 \label{pm:kanban}
 
-From the beginning, a GitHub project was created with the code repository to manage all development and writing tasks to be completed. All tasks were initially added to the backlog and allocated a milestone and label to categorise each task.
+From the beginning, a GitHub project was created with the code repository to manage all development and writing tasks to be completed \see{fig:kanban}. All tasks were initially added to the backlog and allocated a milestone and label to categorise each task.
 
-Milestones were created for each iteration of the prototype and each section of this document. Each task would then be assigned a 'To Do' status when selected for development/writing and would progress throughout the other Kanban Board stages until it was marked as 'Done' and closed. This allowed for the effective management of subtasks on a per-milestone and status basis.
+\begin{figure}
+    \centering
+    \includegraphics[width=400px]{figures/kanban.png}
+    \caption{GitHub Kanban Board}
+    \label{fig:kanban}
+\end{figure}
+
+Milestones were created for each iteration of the prototype and each section of this document \see{fig:milestones}. Each task would then be assigned a 'To Do' status when selected for development/writing and would progress throughout the other Kanban Board stages until it was marked as 'Done' and closed. This allowed for the effective management of subtasks on a per-milestone and status basis.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=400px]{figures/milestones.png}
+    \caption{GitHub Milestones}
+    \label{fig:milestones}
+\end{figure}
 
 An 'In Review' status was added to the Kanban board for tasks that required guidance from the project supervisor \see{pm:supervisor_meetings}.
 
 \subsection{Version Control}
 \label{pm:version_control}
 
-GitHub will host the source code with Git Software Version Management (SVM). Using GitHub and Git enables branches to be created in the repository to manage code changes and link each change to a pull request which enables effective iterative development. Branches allow for branch-level testing and pull requests for automated merges once the increment has been completed. These merges will also throw merge conflicts arise between iterations, ensuring the code base remains accurate, forcing the conflict to be resolved before changes are made. Commits are also highly valuable during development as they allow code changes to be managed and reversed if needed. 
+GitHub will host the source code with Git Software Version Management (SVM). Using GitHub and Git enables branches to be created in the repository to manage code changes and link each change to a pull request which enables effective iterative development \see{fig:gitgraph}. Branches allow for branch-level testing and pull requests for automated merges once the increment has been completed. These merges will also throw merge conflicts arise between iterations, ensuring the code base remains accurate, forcing the conflict to be resolved before changes are made. Commits are also highly valuable during development as they allow code changes to be managed and reversed if needed. 
+
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=400px]{figures/gitgraph.pdf}
+    \caption{Git Pull Requests and Branches}
+    \label{fig:gitgraph}
+\end{figure}
 
 \section{Supervisor Meetings}
 \label{pm:supervisor_meetings}
@@ -110,4 +131,4 @@ With the project requiring regular client interaction, regular meetings were sch
 \section{Conclusion}
 \label{pm:conclusion}
 
-Planning the project management techniques was a key factor when understanding how the requirements in the following chapter would be met. Between the methodology and project management plan, it was clear how the user stories could be broken down into system requirements, and therefore tasks to complete. Pre-planning was one of the key successes of the project whereby the project was completed ahead of schedule. Further highlighting how the techniques used influenced the elicited requirements.
+Planning the project management techniques was a key factor when understanding how the requirements in the following chapter would be met. Between the methodology \see{chap:methodology} and project management plan \see{chap:pm}, it was clear how the user stories could be broken down into system requirements, and therefore tasks to complete \see{chap:requirements}. Pre-planning was one of the key successes of the project whereby the project was completed ahead of schedule. Further highlighting how the techniques used influenced the elicited requirements.

@@ -7,9 +7,9 @@ This chapter explains the design process undertaken considering both the literat
 
 Client discussion required specific assumptions and decisions to be made to assist in the project's overall development and progression.
 
-A decision was made to build the artefact as a web application, instantly providing an easily accessible pre-existing user base. Different screen sizes have been accommodated with the use of CSS media queries, however, the artefact was aimed at desktop environments, with mobile support implemented in the future. 
+A decision was made to build the artefact as a web application, instantly providing an easily accessible pre-existing user base. Different screen sizes were accommodated with the use of CSS media queries, however, the artefact was aimed at desktop environments, with mobile support implemented in the future. 
 
-It was assumed that the target users would have a pre-existing knowledge of route planning having used similar systems in the past. Therefore, instructions to use the artefact were not provided as a part of the artefact. Furthermore, a minimal UI was developed in the artefact to ensure ease of use, whilst enabling key custom route planning functionality \see{design:ui}.
+It was assumed that the target users would have a pre-existing knowledge of route planning having used similar systems in the past. Therefore, instructions to use the artefact were not provided as a part of the artefact. Furthermore, a minimal UI was developed in the artefact to ensure ease of use, whilst enabling custom route planning functionality \see{design:ui}.
 
 Research was undertaken into different available open-source routing algorithms. OpenRouteService (ORS) (\cite{noauthor_openrouteservice_nodate}) was chosen due to its customisability and native support of round-trip route planning.
 
@@ -83,7 +83,7 @@ The target user groups were identified during requirements gathering. Users were
 \section{System Design}
 \label{design:system}
 
-It is vital to also design the back-end system. The back end is comprised of the Go/Gin Web Server, PostgreSQL (PSQL) database and the React client. This chapter delves further into the internal design of the artefact. 
+It is vital to also design the back-end system. The back-end is comprised of the Go/Gin Web Server, PostgreSQL (PSQL) database and the React client. This section delves further into the internal design of the artefact. 
 
 \subsection{Architecture Design}
 \label{system:architecture-design}
@@ -125,19 +125,19 @@ While the App.jsx file is the starting point of the React application, the Map c
   \label{fig:components}
 \end{figure}
 
-\clearpage
+\clearpage 
 \section{Critique of Designs}
 \label{design:critique}
 
 The progressive approach was used to develop the UI, and whilst beneficial to the overall project and its aims, mobile devices were not catered for. While this can be seen as bad practice, the artefact is aimed at users on a desktop environment, exporting routes to external mobile navigation/fitness applications. Therefore, a mobile-first design was not opted for.
 
-Both high-fidelity designs only demonstrate a light colour scheme. Due to this, all users are forced to use the light mode with no option to customise. In hindsight, it would have been beneficial to develop multiple high-fidelity designs to include both a light and dark mode.
+Both high-fidelity designs \see{ui:hi-fi} only demonstrate a light colour scheme. Due to this, all users are forced to use the light mode with no option to customise. In hindsight, it would have been beneficial to develop multiple high-fidelity designs to include both a light and dark mode.
 
-The database was designed to store hazard and cycling infrastructure information, ideally, the database would store more than just this data. To expand some of the artefact's basic functionality, the database would also store user oAuth tokens, as well as their planned routes. Implementing such tables would enable the user to save and load routes to the their accounts on the artefact without the requirement to store GPX/GeoJSON files locally \see{evaluation:future}. These tables would also enable a more expansive sharing functionality to social media, enabling users to share links to routes, rather than map screenshots of their routes.
+The database was designed to store hazard and cycling infrastructure information \see{system:database-design}, ideally, the database would store more than just this data. To expand some of the artefact's basic functionality, the database would also store user oAuth tokens, as well as their planned routes. Implementing such tables would enable the user to save and load routes to the their accounts on the artefact without the requirement to store GPX/GeoJSON files locally \see{evaluation:future}. These tables would also enable a more expansive sharing functionality to social media, enabling users to share links to routes, rather than map screenshots of their routes.
 
-Finally, the modular architecture approach, was ideal for developing the artefact, however, the modules could have been better structured to maximise the benefits of this approach. The artefact should be customisable, whereby modules can be disabled entirely if they are not required. At this stage, the design only caters to the manual disabling of each module, with certain modules being necessary for the artefact to function.
+Finally, the modular architecture approach \see{system:modular-architecture}, was ideal for developing the artefact, however, the modules could have been better structured to maximise the benefits of this approach. The artefact should be customisable, whereby modules can be disabled entirely if they are not required. At this stage, the design only caters to the manual disabling of each module, with certain modules being necessary for the artefact to function.
 
 \section{Conclusion}
 \label{design:conclusion}
 
-Overall, the design process proved critical, ensuring that the artefact met all the requirements and objectives. The designs were followed closely during iterations 2 and 3, however, iteration 1 was developed before these were complete. The following chapter will delve into the implementation of the artefact, demonstrating how the design decisions made were integrated into the final product.
+Overall, the design process proved critical, ensuring that the artefact met all the requirements \see{chap:requirements} and objectives \see{intro:aimsandobjectives}. The designs were followed closely during iterations 2 and 3 \see{chap:implementation}, however, iteration 1 \see{implementation:iteration1} was developed before these were complete. The following chapter will delve into the implementation of the artefact, demonstrating how the design decisions made were integrated into the final product.
