@@ -5,36 +5,36 @@ This chapter explains the design process undertaken considering both the literat
 \section{Assumptions and Decisions Taken}
 \label{design:assumptions/decisions}
 
-Client discussion required specific assumptions and decisions to be made to assist in the project's overall development and progression.
+Client discussion required assumptions and decisions to be made to assist in the project's development and progression.
 
-A decision was made to build the artefact as a web application, instantly providing an easily accessible pre-existing user base. Different screen sizes were accommodated with the use of CSS media queries, however, the artefact was aimed at desktop environments, with mobile support implemented in the future. 
+A decision was made to build the artefact as a web application, providing an easily accessible pre-existing user base. Different screen sizes were accommodated with the use of CSS media queries, however, the artefact was aimed at desktop environments, with mobile support implemented in the future. 
 
-It was assumed that the target users would have a pre-existing knowledge of route planning having used similar systems in the past. Therefore, instructions to use the artefact were not provided as a part of the artefact. Furthermore, a minimal UI was developed in the artefact to ensure ease of use, whilst enabling custom route planning functionality \see{design:ui}.
+It was assumed that the target users would have a pre-existing knowledge of route planning having used similar systems in the past. Therefore, instructions to use the artefact were not provided. Furthermore, a minimal UI was developed to ensure ease of use, whilst enabling custom route planning functionality \see{design:ui}.
 
 Research was undertaken into different available open-source routing algorithms. OpenRouteService (ORS) (\cite{noauthor_openrouteservice_nodate}) was chosen due to its customisability and native support of round-trip route planning.
 
-LocalStorage was used to store specific data, such as user authentication tokens, last route plotted and other data that required storing between browser sessions. Data such as the previously planned route enabled the user to load the previous route when opening the artefact after having used it previously. Other data such as user tokens, enabled the artefact to remain logged into external services such as Strava (\cite{noauthor_strava_nodate}), Garmin Connect (\cite{international_garmin_nodate}) and Google Drive (\cite{noauthor_home_nodate}).
+LocalStorage was used to store specific data, such as authentication tokens and last route planned. Data such as the last planned route enabled the user to load the previous route when opening the artefact after having used it previously. Other data such as authentication tokens, enabled the artefact to remain logged into external services such as Strava (\cite{noauthor_strava_nodate}), Garmin Connect (\cite{international_garmin_nodate}) and Google Drive (\cite{noauthor_home_nodate}).
 
 \section{User Interface}
 \label{design:ui}
-Initially, hand-drawn low-fidelity prototypes were created to demonstrate two iterations of the artefact \see{fig:lofi1}, demonstrating some design changes in the second low-fidelity prototype \see{fig:lofi2}. After the low-fidelity prototypes were complete, a high-fidelity prototype was created based on the second design using MarvelApp (\cite{noauthor_marvel_nodate}).
+Initially, hand-drawn low-fidelity prototypes were created for two iterations of the artefact \see{fig:lofi1}, demonstrating some design changes in the second low-fidelity prototype \see{fig:lofi2}. After the low-fidelity prototypes were complete, a high-fidelity prototype was created based on the second design using MarvelApp (\cite{noauthor_marvel_nodate}).
 
 The following components form the overall User Interface (UI): Map,  ElevationChart, Router, RoutePreferencesPanel and the Weather/LeftPanel. The primary root component which other components depended on was the Map component; with other components adding enhanced functionality to the artefact.
 
 \subsection{Colour Scheme}
 \label{ui:colourscheme}
 
-The plain colour scheme was chosen for simplicity and ease of use of the artefact. Despite dark mode being considered for the artefact, it was chosen against after researching pre-existing route planners, it was found that a light map, and surrounding UI was generally considered more usable to the average user. A dark mode could be implemented in the future, enabling the user to switch modes should they choose.
+The plain colour scheme was chosen for simplicity and ease of use of the artefact. Dark mode was chosen against after researching pre-existing route planners, it was found that a light map, and surrounding UI was generally considered more usable to the average user. A dark mode could be implemented in the future, enabling the user to switch modes should they choose.
 
 \subsection{Low Fidelity Prototype}
 \label{ui:low-fi}
 
-Low-fidelity prototyping was vital in the project's early stages, ensuring that all UI elements would meet the user expectations and requirements. With the project's focus on enhanced routing features, it was critical to ensure that the designs were kept simple, maximising usability, whilst still including all the required functionality. Two iterations were divided into two separate low-fidelity prototypes, where the first demonstrates the core functionality \see{fig:lofi1}, whereas the second also includes some extra functionality, for example the Hazard Index \see{fig:lofi2}.
+Low-fidelity prototyping was vital in the project's early stages, ensuring that all UI elements would meet the user expectations and requirements. With the project's focus on enhanced routing features, it was critical to ensure that the designs were simple, maximising usability, whilst still including all the required functionality. Two iterations were divided into two separate low-fidelity prototypes, where the first demonstrates the core functionality \see{fig:lofi1}, whereas the second also includes some extended functionality \see{fig:lofi2}.
 
 \subsection{High-Fidelity Prototype}
 \label{ui:hi-fi}
 
-The high-fidelity prototype was made after low-fidelity prototyping had concluded. The second low-fidelity prototype was expanded upon at this stage, keeping the design simple, whilst ensuring the required functionality could be implemented. It was critical to ensure the high-fidelity prototype wouldn't overbear the user with too much information at once, therefore the necessary functionality was available in the main view \see{fig:hifi1}, whereas extra options are hidden behind dropdown menus \see{fig:hifi2}.
+The high-fidelity prototype was made after low-fidelity prototyping had concluded. The second low-fidelity prototype was expanded upon at this stage. It was critical to ensure the high-fidelity prototype wouldn't overbear the user with too much information at once, therefore the necessary functionality was available in the main view \see{fig:hifi1}, whereas extra options are hidden behind dropdown menus \see{fig:hifi2}.
 
   \begin{figure}[!ht]
     \centering
