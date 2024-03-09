@@ -183,13 +183,6 @@ To implement round-trip, the library used for using ORS with Leaflet Routing Mac
 
 Once the updates were made to the forked library, the other functionalities of the artefact worked seamlessly in both the standard A to B and the round-trip mode. The only minor change required was to track the mode in which the user last left the artefact in LocalStorage. This then ensured that when the user returned and chose to load their previous route, the artefact would know which mode to load the route on.
 
-\begin{figure}[!ht]
-  \centering
-  \includegraphics[width=425px]{figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png}
-  \caption{Round Trip Route}
-  \label{fig:round-trip}
-\end{figure}
-
 \subsection{Route Import}
 \label{iteration3:route-import}
 
@@ -197,13 +190,22 @@ Route imports were a vital feature to enable route sharing across many applicati
 
 To interpret the GPX string, the \texttt{DOMParser} was used to parse the string into an XML document. The XML document was then traversed to find the route's latitude and longitude points, which were then stored in an array of coordinates. This array was then stored in a state variable called 'waypoints'. For GeoJSON, the \texttt{JSON.parse} method was used to parse the string, then the coordinates were extracted and stored in the same way as the coordinates in the GPX \see{fig:gpx-import}.
 
+\begingroup
+\label{fig:round-trip}
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=425px]{figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png}
+  \caption{Round Trip Route}
+\end{figure}
+
 \label{fig:route-import}
-\begin{figure}[!ht]
+\begin{figure}[h!]
   \centering
   \includegraphics[width=425px]{figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png}
   \caption{Import GPX Route}
   \label{fig:gpx-import}
 \end{figure}
+\endgroup
 
 \subsection{Garmin Connect Integration}
 \label{iteration3:garmin-integration}
