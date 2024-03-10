@@ -1,0 +1,122 @@
+%% Creator: Inkscape 1.3.2 (091e20ef0f, 2023-11-25, custom), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'gitgraph_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{1118.09417725bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.24903865)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{gitgraph_svg-tex.pdf}}%
+    \put(0.03489654,0.22266671){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}main\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{gitgraph_svg-tex.pdf}}%
+    \put(0.00533309,0.16933586){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}iteration-1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{gitgraph_svg-tex.pdf}}%
+    \put(0.00533309,0.11600498){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}iteration-2\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{gitgraph_svg-tex.pdf}}%
+    \put(0.00533309,0.06267412){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}iteration-3\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{gitgraph_svg-tex.pdf}}%
+    \put(0.06403,0.19023634){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Initial commit\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{gitgraph_svg-tex.pdf}}%
+    \put(0.06412134,0.10897917){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr25 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{gitgraph_svg-tex.pdf}}%
+    \put(0.09317615,0.10843646){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SR1 the system must provi...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{gitgraph_svg-tex.pdf}}%
+    \put(0.11973458,0.10553403){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Open Weather Map API basi...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{gitgraph_svg-tex.pdf}}%
+    \put(0.15315278,0.10911732){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr32 the system must disp...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{gitgraph_svg-tex.pdf}}%
+    \put(0.18093374,0.10737076){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SR16 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{gitgraph_svg-tex.pdf}}%
+    \put(0.21056209,0.10737086){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SR15 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{gitgraph_svg-tex.pdf}}%
+    \put(0.23968784,0.10689577){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}SR9 The update preference...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{gitgraph_svg-tex.pdf}}%
+    \put(0.33661444,0.19584282){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Iteration 1\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{gitgraph_svg-tex.pdf}}%
+    \put(0.33293325,0.11101864){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Write component unit test...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{gitgraph_svg-tex.pdf}}%
+    \put(0.3624702,0.05760095){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr25 the weather conditio...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{gitgraph_svg-tex.pdf}}%
+    \put(0.39041419,0.05600852){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr17 the share overlay mu...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{gitgraph_svg-tex.pdf}}%
+    \put(0.41964858,0.05563614){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr17 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{gitgraph_svg-tex.pdf}}%
+    \put(0.44927692,0.05563626){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr31 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{gitgraph_svg-tex.pdf}}%
+    \put(0.47890526,0.05563631){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr40 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{gitgraph_svg-tex.pdf}}%
+    \put(0.50990209,0.05693044){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr30 the system must allo...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{gitgraph_svg-tex.pdf}}%
+    \put(0.53976134,0.0571488){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sr9 the update preference...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{gitgraph_svg-tex.pdf}}%
+    \put(0.56779032,0.05563655){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr15 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{gitgraph_svg-tex.pdf}}%
+    \put(0.59741865,0.05563667){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr32 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{gitgraph_svg-tex.pdf}}%
+    \put(0.63130879,0.05966632){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}136 finalise increment 2 ...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{gitgraph_svg-tex.pdf}}%
+    \put(0.70197482,0.17711609){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Iteration 2 Complete\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{gitgraph_svg-tex.pdf}}%
+    \put(0.71921947,0.00541396){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sr39 both hazard and infr...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{gitgraph_svg-tex.pdf}}%
+    \put(0.74675242,0.0034331){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr11 the update preferenc...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{gitgraph_svg-tex.pdf}}%
+    \put(0.77518891,0.00230619){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr48 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{gitgraph_svg-tex.pdf}}%
+    \put(0.80481732,0.00230624){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr46 the system must prov...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{gitgraph_svg-tex.pdf}}%
+    \put(0.83630306,0.00406269){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sr51 the system must pro...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{gitgraph_svg-tex.pdf}}%
+    \put(0.86688579,0.00496497){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}143 sr50 the system mus...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{gitgraph_svg-tex.pdf}}%
+    \put(0.95880973,0.19584465){\rotatebox{45}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Iteration 3\end{tabular}}}}}%
+    \put(0.42824093,0.24131411){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}@jaketbailey/final-year-project\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

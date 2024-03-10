@@ -1,0 +1,2 @@
+{"rule":"SINGULAR_VERB_AFTER_THESE_OR_THOSE","sentence":"^\\QThese merges will also throw merge conflicts arise between iterations, ensuring the code base remains accurate, forcing the conflict to be resolved before changes are made.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QGoogle Maps is likely the most user-friendly out of all the applications, simply due to its consistency across other Google applications (\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q).\\E$"}

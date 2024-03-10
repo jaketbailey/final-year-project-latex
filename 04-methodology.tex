@@ -1,14 +1,33 @@
 \chapter{Methodology}
 \label{chap:methodology}
 
-Choosing which Software Development Life Cycle (SDLC) methodology is a key decision at the beginning of any software development project; the methodology demonstrates the expected route that development will take during the project's lifetime. I have decided to use the Incremental methodology whilst integrating key Project Management methods in other team-focused methodologies, such as Agile \see{chap:pm}.
+Choosing which development methodology was a key decision at the beginning of the project; the methodology influences the development route taken throughout the project. The Iterative Model has been chosen alongside the use of other key Agile project management methods \see{chap:pm}.
 
-\section{An Incremental Development Methodology}
+\section{An Iterative Development Methodology}
 \label{methodology:chosen}
 
-I have chosen the Incremental Development Model for this project since the Waterfall Model cannot precisely and completely describe the real software development life cycle (\cite{dapeng_liu_case_2011}).
-Each iteration will represent a full software life cycle vaguely following the waterfall methodology's structure: Requirements analysis, Design, Development, Testing, and Release. Incremental development allows for more flexibility during the software development process. It is feasible for a solo-development project as it does not require collaboration with other team members as the Agile methodology does.
+There was an initial dissonance when deciding between the Iterative and Incremental models. Both are similar, but the Incremental model delivers a portion of the software at a time \see{fig:incremental}, whereas the Iterative model delivers the entire software at the end of each iteration \see{fig:iterative}. Throughout development, there was an ongoing debate as to which model was being used. After reflecting on the development, it was clear that the Iterative model was used, despite initially believing that the Incremental model was in use. 
 
-The Incremental model breaks larger tasks into smaller, more achievable sub-tasks/increments. Each task can be broken down into all or some of the stages mentioned earlier. Therefore, if some stages are unnecessary for an increment, they don't need to be followed. Development of the increments can be managed using a Kanban board. It can also manage progress in completing this document. To see the added benefits of using Kanban, see Section 4.2.
+\begin{figure}
+    \centering
+    \includegraphics[width=400px]{figures/incremental-model.pdf}
+    \caption{Incremental Development Model}
+    \label{fig:incremental}
+\end{figure}
 
-There are some downsides to using the Incremental model, with one key failure of the model being merging changes between increments. This downfall of the model introduces a discontinuity of design purpose where the user interface and programming interfaces become discontinuous between increments (\cite{dapeng_liu_case_2011}). To mitigate this issue, a consistent programming interface be implemented to aid in developing easy-to-read source code throughout the development of increments.
+\begin{figure}
+    \centering
+    \includegraphics[width=400px]{figures/iterative-model.pdf}
+    \caption{Iterative Development Model}
+    \label{fig:iterative}
+\end{figure}
+
+On understanding the iterative model was in use, its flexibility to accommodate requirement changes proved fundamental when the initial requirement drafts were updated after research was conducted \see{chap:litrev}. When these requirement changes occurred, new system requirements (SR) were created after breaking down the user stories \see{chap:requirements}. Each SR was given a deadline to ensure changes were made within the iteration. Kanban boards were also used to track the progress of all tasks \see{pm:kanban}.
+
+The iterative model was chosen since the Waterfall Model cannot precisely and completely describe the real software development life cycle (\cite{dapeng_liu_case_2011}). Each iteration represents a full software life cycle vaguely following the waterfall structure: Requirements analysis, Design, Development, Testing, and Release.
+
+One key downside of the iterative model is merging changes between iterations. This introduces a potential discontinuity of design purpose where the user interface and programming interfaces become discontinuous between iterations (\cite{dapeng_liu_case_2011}). To mitigate this, a consistent programming interface was implemented to ensure the development of easy-to-read source code.
+
+\section{Conclusion}
+
+To conclude, the Iterative Model was a pivotal decision that shaped the project's development approach. It was complemented by various project management strategies \see{chap:pm} to ensure the project was managed effectively. It's critical to understand the synergy between the chosen methodology and project management techniques, as they are both invaluable to the project's success.
