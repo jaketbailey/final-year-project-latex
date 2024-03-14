@@ -8,6 +8,8 @@ This chapter evaluates the project as a whole focusing on the development proces
 
 During the early stages of the academic year, starting a project was exciting and was progressing well. The problem proved challenging over time, yet rewarding when understanding the fundamentals that build route planning systems. Time management, planning and determining theoretical deadlines for development and report writing were crucial to ensuring steady progression despite the pressing deadlines of other modules. Due to this, the project swiftly began to move ahead of schedule, resulting in the initial Gantt chart \see{fig:initial-gantt} being revised to adjust for the rapid progress \see{fig:final-gantt}.
 
+\newpage
+\begin{landscape}
 \begin{figure}[ht!]
     \centering
     \includegraphics[width=1\linewidth]{figures/Old FYP Gantt - Timeline 1.pdf}
@@ -21,6 +23,8 @@ During the early stages of the academic year, starting a project was exciting an
     \caption{Final Gantt Chart}
     \label{fig:final-gantt}
 \end{figure}
+\newpage
+\end{landscape}
 
 \subsection{Development Methodology}
 The first iteration began around November before the designs were complete and the requirements gathering phase had begun. This led to the first iteration being developed blindly, with no clear direction. Therefore, the first iteration merely set up the basic structure of the system, leading to development choices that would later not align with the requirements \see{chap:requirements}. Furthermore, because development began before designs were also complete, the iteration didn't accommodate for the design decisions made after the iteration was complete \see{chap:design}. This led to a significant amount of refactoring in the second iteration, which could have been avoided if the development was started after the designs were complete.
@@ -28,15 +32,18 @@ The first iteration began around November before the designs were complete and t
 The development methodology also changed after iteration 1 was complete, moving from an incremental to an iterative approach. The incremental approach was not feasible due to the complexity of the project, it proved beneficial to progressively build and improve all aspects of the system in iterations. Allowing for the system to be built in a modular fashion, enabling easier integration of new features and changes.
 
 \subsection{Development Time}
-The final gantt chart \see{fig:final-gantt} demonstrates the ongoing process of the project, with a dedicated development period catered around the report's progress. The core development periods were between September and December, then January into February. Approximately, development consisted of four months with more intense development within January and February \see{fig:development-gantt}. Breaking up the development in such a way enabled both development and report writing to be progressing simultaneously without one hindering the other.
+The final gantt chart \see{fig:final-gantt} demonstrates the ongoing process of the project, with a dedicated development period catered around the report's progress. The core development periods were between September and December, then January to April. Approximately, development consisted of six months with more intense development within January and February \see{fig:development-gantt}. Breaking up the development in such a way enabled both development and report writing to be progressing simultaneously without one hindering the other.
 
-\begin{figure}
-    \centering
-    \includegraphics[width=1\linewidth]{figures/dev-gantt.pdf}
-    \caption{Actual Development Gantt Chart}
-    \label{fig:development-gantt}
-\end{figure}
-
+\begin{landscape}
+    \newpage
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.9\linewidth]{figures/dev-gantt.pdf}
+        \caption{Actual Development Gantt Chart}
+        \label{fig:development-gantt}
+    \end{figure}
+    \newpage
+\end{landscape}
 \subsection{Project Management}
 Overall the project was managed more effectively than originally planned, running ahead of schedule throughout the academic year. The extra time allowed for refinements and improvements without the pressure of an immediate deadline. Constant feedback from the client yielded a more developed understanding of the requirements, the project direction and suggestions for new requirements. The requirements originated as user stories, broken down into smaller, system requirements \see{requirements:user-stories}. Doing so made the use of GitHub projects \see{pm:kanban} and issues more effective with the ability to visualise project progress, further aiding an iterative agile development process \see{methodology:chosen}.
 
@@ -46,7 +53,7 @@ To summarise, the project was managed effectively, except for the early start of
 \section{Evaluating Requirements}
 \label{evaluation:requirements}
 
-For this project, assessing its success based solely on the fulfilment of the defined requirements might not provide a comprehensive evaluation. All requirements were established ahead of the three development iterations, with a revision made after primary research was completed \see{fig:research-results}. User stories were created and broken down into smaller system requirements, which were assigned to the development iterations based on priority order via the MoSCoW method \see{chap:requirements}. Further analysis was required to determine if all requirements were met and if they combined to meet all objectives. For all discussion surrounding the project's objectives \see{chap:reflection-and-conclusion}.
+For this project, assessing its success based solely on the fulfillment of the defined requirements might not provide a comprehensive evaluation. All requirements were established ahead of the three development iterations, with a revision made after primary research was completed \see{fig:research-results}. User stories were created and broken down into smaller system requirements, which were assigned to the development iterations based on priority order via the MoSCoW method \see{chap:requirements}. Further analysis was required to determine if all requirements were met and if they combined to meet all objectives. For all discussion surrounding the project's objectives \see{chap:reflection-and-conclusion}.
 
 \subsection{Unmet Requirements}
 Overall, 47 of 51 system requirements were met \see{evaluatedrq}. The four requirements not met were due to the prioritisation of other requirements, the missed requirements were not critical to the system's functionality. They were not met because of the focus on \hyperref[SR:50]{SR50} at the end of development which was a complex but ideal feature to implement. Therefore, some of the initial requirements were not met. Should there have been extra development time, these would be the first to be implemented.
