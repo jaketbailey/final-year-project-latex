@@ -6,7 +6,7 @@ Choosing which development methodology was a key decision at the beginning of th
 \section{An Iterative Development Methodology}
 \label{methodology:chosen}
 
-There was an initial dissonance when deciding between the Iterative and Incremental models. Both are similar, but the Incremental model delivers a portion of the software at a time \see{fig:incremental}, whereas the Iterative model delivers the entire software at the end of each iteration \see{fig:iterative}. Throughout development, there was an ongoing debate as to which model was being used. After reflecting on the development, it was clear that the Iterative model was used, despite initially believing that the Incremental model was in use. 
+There was an initial dissonance when deciding between the Iterative and Incremental models. Both are similar, but the Incremental model delivers a portion of the software at a time \see{fig:incremental}, whereas the Iterative model delivers the entire software at the end of each iteration \see{fig:iterative}. The incremental model results in software being built sections at a time \see{fig:incremental-result} whereas the iterative model results in the system being expanded with more features over a period of time \see{fig:iterative-result} Throughout development, there was an ongoing debate as to which model was being used. After reflecting on the development, it was clear that the Iterative model was used, despite initially believing that the Incremental model was in use. 
 
 \begin{figure}
     \centering
@@ -22,8 +22,23 @@ There was an initial dissonance when deciding between the Iterative and Incremen
     \label{fig:iterative}
 \end{figure}
 
+\begin{figure}
+    \centering
+    \includegraphics[width=400px]{figures/incremental-result.pdf}
+    \caption{Incremental Development Model Outcome}
+    \label{fig:incremental-result}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=400px]{figures/iterative-result.pdf}
+    \caption{Iterative Development Model Outcome}
+    \label{fig:iterative-result}
+\end{figure}
+
 On understanding the iterative model was in use, its flexibility to accommodate requirement changes proved fundamental when the initial requirement drafts were updated after research was conducted \see{chap:litrev}. When these requirement changes occurred, new system requirements (SR) were created after breaking down the user stories \see{chap:requirements}. Each SR was given a deadline to ensure changes were made within the iteration. Kanban boards were also used to track the progress of all tasks \see{pm:kanban}.
 
+\clearpage
 The iterative model was chosen since the Waterfall Model cannot precisely and completely describe the real software development life cycle (\cite{dapeng_liu_case_2011}). Each iteration represents a full software life cycle vaguely following the waterfall structure: Requirements analysis, Design, Development, Testing, and Release.
 
 One key downside of the iterative model is merging changes between iterations. This introduces a potential discontinuity of design purpose where the user interface and programming interfaces become discontinuous between iterations (\cite{dapeng_liu_case_2011}). To mitigate this, a consistent programming interface was implemented to ensure the development of easy-to-read source code.
