@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  14 MAR 2024 11:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  14 MAR 2024 11:29
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1688,12 +1688,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
  <./figures/Old FYP Gantt - Timeline 1.pdf>] [73 <./figures/Actual FYP Gantt.pdf>] [74
 
 ]
+
+pdfTeX warning: pdflatex (file ./figures/dev-gantt.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <figures/dev-gantt.pdf, id=3434, 533.8846pt x 372.45349pt>
 File: figures/dev-gantt.pdf Graphic file (type pdf)
 <use figures/dev-gantt.pdf>
 Package pdftex.def Info: figures/dev-gantt.pdf  used on input line 41.
 (pdftex.def)             Requested size: 627.379pt x 437.68404pt.
-
 
 LaTeX Warning: Float too large for page by 34.49269pt on input line 44.
 
@@ -1755,17 +1756,17 @@ Overfull \hbox (21.26544pt too wide) in paragraph at lines 154--154
 
  (./12-appendix-a.tex
 Appendix A.
-<figures/plotarouteui.png, id=3872, 1289.56781pt x 717.43031pt>
+<figures/plotarouteui.png, id=3839, 1289.56781pt x 717.43031pt>
 File: figures/plotarouteui.png Graphic file (type png)
 <use figures/plotarouteui.png>
 Package pdftex.def Info: figures/plotarouteui.png  used on input line 4.
 (pdftex.def)             Requested size: 426.79134pt x 237.43146pt.
-<figures/komootui.png, id=3873, 1444.64719pt x 733.23938pt>
+<figures/komootui.png, id=3840, 1444.64719pt x 733.23938pt>
 File: figures/komootui.png Graphic file (type png)
 <use figures/komootui.png>
 Package pdftex.def Info: figures/komootui.png  used on input line 11.
 (pdftex.def)             Requested size: 426.79134pt x 216.61702pt.
-<figures/gmapsui.png, id=3874, 1445.4pt x 730.98094pt>
+<figures/gmapsui.png, id=3841, 1445.4pt x 730.98094pt>
 File: figures/gmapsui.png Graphic file (type png)
 <use figures/gmapsui.png>
 Package pdftex.def Info: figures/gmapsui.png  used on input line 18.
@@ -1918,47 +1919,47 @@ Overfull \hbox (5.55505pt too wide) in paragraph at lines 125--125
 
  (./14-appendix-c.tex
 Appendix C.
-<figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png, id=3896, 1442.38875pt x 707.64375pt>
+<figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png, id=3863, 1442.38875pt x 707.64375pt>
 File: figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented Avoid Ferries Example.png  used on input line 5.
 (pdftex.def)             Requested size: 426.5953pt x 209.28218pt.
-<figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png, id=3897, 1441.63594pt x 709.14937pt>
+<figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png, id=3864, 1441.63594pt x 709.14937pt>
 File: figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR7/SR9 Top Panel added and Avoid functionality implemented.png  used on input line 12.
 (pdftex.def)             Requested size: 426.5953pt x 209.83568pt.
-<figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png, id=3898, 1441.63594pt x 703.12688pt>
+<figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png, id=3865, 1441.63594pt x 703.12688pt>
 File: figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR12/SR13 GPX Icon Added (bottom right).png  used on input line 19.
 (pdftex.def)             Requested size: 426.5953pt x 208.05362pt.
-<figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png, id=3899, 1441.63594pt x 705.38531pt>
+<figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png, id=3866, 1441.63594pt x 705.38531pt>
 File: figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR12/SR13 GPX Successful upload Strava (manual).png  used on input line 26.
 (pdftex.def)             Requested size: 426.5953pt x 208.7219pt.
-<figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png, id=3900, 1440.88312pt x 705.38531pt>
+<figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png, id=3867, 1440.88312pt x 705.38531pt>
 File: figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR12/SR14 GeoJSON Export.png  used on input line 33.
 (pdftex.def)             Requested size: 426.5953pt x 208.84029pt.
-<figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png, id=3901, 1032.10594pt x 554.82281pt>
+<figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png, id=3868, 1032.10594pt x 554.82281pt>
 File: figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR19/Basic Weather Panel.png  used on input line 40.
 (pdftex.def)             Requested size: 426.5953pt x 229.31592pt.
-<figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png, id=3902, 1444.64719pt x 691.08188pt>
+<figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png, id=3869, 1444.64719pt x 691.08188pt>
 File: figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot.png  used on input line 47.
 (pdftex.def)             Requested size: 426.5953pt x 204.06773pt.
-<figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png, id=3903, 1445.4pt x 686.565pt>
+<figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png, id=3870, 1445.4pt x 686.565pt>
 File: figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Show Functionality.png  used on input line 54.
 (pdftex.def)             Requested size: 426.5953pt x 202.6292pt.
-<figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png, id=3904, 1445.4pt x 687.31781pt>
+<figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png, id=3871, 1445.4pt x 687.31781pt>
 File: figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png Graphic file (type png)
 <use figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-1/SR28/Basic Elevation Plot Hide Functionality.png  used on input line 61.
@@ -1973,137 +1974,137 @@ Package pdftex.def Info: figures/Progress Images/Iteration-1/SR28/Basic Elevatio
 
  (./15-appendix-d.tex
 Appendix D.
-<figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png, id=3927, 1925.69438pt x 989.94844pt>
+<figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png, id=3894, 1925.69438pt x 989.94844pt>
 File: figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR9-10/SR9 - Arrive Time.png  used on input line 5.
 (pdftex.def)             Requested size: 426.5953pt x 219.29987pt.
-<figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png, id=3928, 1927.2pt x 990.70125pt>
+<figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png, id=3895, 1927.2pt x 990.70125pt>
 File: figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR9-10/SR9 - Leave Time.png  used on input line 12.
 (pdftex.def)             Requested size: 426.5953pt x 219.28523pt.
-<figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png, id=3929, 1927.95282pt x 992.95969pt>
+<figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png, id=3896, 1927.95282pt x 992.95969pt>
 File: figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR9-10/SR9_10 - Leave_Arrival Time.png  used on input line 19.
 (pdftex.def)             Requested size: 426.5953pt x 219.70937pt.
-<figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png, id=3930, 1924.94156pt x 995.21812pt>
+<figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png, id=3897, 1924.94156pt x 995.21812pt>
 File: figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR15/SR15 - Save to GDrive Modal working.png  used on input line 26.
 (pdftex.def)             Requested size: 426.5953pt x 220.55835pt.
-<figures/Progress Images/Iteration-2/SR15/SR15 - Success.png, id=3931, 1925.69438pt x 992.95969pt>
+<figures/Progress Images/Iteration-2/SR15/SR15 - Success.png, id=3898, 1925.69438pt x 992.95969pt>
 File: figures/Progress Images/Iteration-2/SR15/SR15 - Success.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR15/SR15 - Success.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR15/SR15 - Success.png  used on input line 33.
 (pdftex.def)             Requested size: 426.5953pt x 219.96693pt.
-<figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png, id=3932, 542.025pt x 389.455pt>
+<figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png, id=3899, 542.025pt x 389.455pt>
 File: figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR17/SR17 Invalid Email.png  used on input line 40.
 (pdftex.def)             Requested size: 426.5953pt x 306.52509pt.
-<figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png, id=3933, 498.86375pt x 371.3875pt>
+<figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png, id=3900, 498.86375pt x 371.3875pt>
 File: figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR17/SR17 Invalid File type.png  used on input line 47.
 (pdftex.def)             Requested size: 426.5953pt x 317.59627pt.
-<figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png, id=3934, 521.95pt x 372.39125pt>
+<figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png, id=3901, 521.95pt x 372.39125pt>
 File: figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR17/SR17 Invalid Filename.png  used on input line 54.
 (pdftex.def)             Requested size: 426.5953pt x 304.36272pt.
-<figures/Progress Images/Iteration-2/SR17/SR17 Success.png, id=3935, 524.96124pt x 383.4325pt>
+<figures/Progress Images/Iteration-2/SR17/SR17 Success.png, id=3902, 524.96124pt x 383.4325pt>
 File: figures/Progress Images/Iteration-2/SR17/SR17 Success.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR17/SR17 Success.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR17/SR17 Success.png  used on input line 61.
 (pdftex.def)             Requested size: 426.5953pt x 311.59665pt.
-<figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png, id=3936, 386.19281pt x 291.33844pt>
+<figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png, id=3903, 386.19281pt x 291.33844pt>
 File: figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Activity Name.png  used on input line 68.
 (pdftex.def)             Requested size: 426.5953pt x 321.82024pt.
-<figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png, id=3937, 386.19281pt x 292.09125pt>
+<figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png, id=3904, 386.19281pt x 292.09125pt>
 File: figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing Avg Speed.png  used on input line 75.
 (pdftex.def)             Requested size: 426.5953pt x 322.6518pt.
-<figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png, id=3938, 378.66469pt x 282.30469pt>
+<figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png, id=3905, 378.66469pt x 282.30469pt>
 File: figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Fail - Missing DateTime.png  used on input line 82.
 (pdftex.def)             Requested size: 426.5953pt x 318.04428pt.
-<figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png, id=3939, 381.67593pt x 286.06876pt>
+<figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png, id=3906, 381.67593pt x 286.06876pt>
 File: figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR18/SR18 Create Activity Success.png  used on input line 89.
 (pdftex.def)             Requested size: 426.5953pt x 319.7488pt.
-<figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png, id=3940, 1436.36626pt x 730.22812pt>
+<figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png, id=3907, 1436.36626pt x 730.22812pt>
 File: figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR18/SR18 Share Panel.png  used on input line 96.
 (pdftex.def)             Requested size: 426.5953pt x 216.87508pt.
-<figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png, id=3941, 1444.64719pt x 726.46407pt>
+<figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png, id=3908, 1444.64719pt x 726.46407pt>
 File: figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR18/SR18 Strava Auth.png  used on input line 103.
 (pdftex.def)             Requested size: 426.5953pt x 214.51566pt.
-<figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png, id=3942, 453.19313pt x 834.86906pt>
+<figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png, id=3909, 453.19313pt x 834.86906pt>
 File: figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR18/SR18 Strava Example 3.png  used on input line 110.
 (pdftex.def)             Requested size: 301.1261pt x 554.73509pt.
-<figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png, id=3943, 1923.43594pt x 992.95969pt>
+<figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png, id=3910, 1923.43594pt x 992.95969pt>
 File: figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR30/SR30-Zoom Elevation Chart and Fly Map to same bounds.png  used on input line 117.
 (pdftex.def)             Requested size: 426.5953pt x 220.2245pt.
-<figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png, id=3944, 1927.2pt x 989.94844pt>
+<figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png, id=3911, 1927.2pt x 989.94844pt>
 File: figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR31/SR31 Colours updated and new waypoints.png  used on input line 124.
 (pdftex.def)             Requested size: 426.5953pt x 219.1186pt.
-<figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png, id=3945, 604.50844pt x 941.01563pt>
+<figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png, id=3912, 604.50844pt x 941.01563pt>
 File: figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic API for selecting hazards.png  used on input line 131.
 (pdftex.def)             Requested size: 426.5953pt x 664.06226pt.
-<figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png, id=3946, 921.4425pt x 904.1278pt>
+<figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png, id=3913, 921.4425pt x 904.1278pt>
 File: figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR32-37/SR32 - Basic Polygon from API.png  used on input line 138.
 (pdftex.def)             Requested size: 426.5953pt x 418.58023pt.
-<figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png, id=3947, 718.685pt x 941.5175pt>
+<figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png, id=3914, 718.685pt x 941.5175pt>
 File: figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR32-37/sr32-add-hazard-point-sql.png  used on input line 145.
 (pdftex.def)             Requested size: 426.5953pt x 558.88098pt.
-<figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png, id=3948, 1925.69438pt x 1025.33063pt>
+<figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png, id=3915, 1925.69438pt x 1025.33063pt>
 File: figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR32-37/sr32-add-polygon-marker-to-map.png  used on input line 152.
 (pdftex.def)             Requested size: 426.5953pt x 227.13795pt.
-<figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png, id=3949, 1926.44719pt x 1026.08344pt>
+<figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png, id=3916, 1926.44719pt x 1026.08344pt>
 File: figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR32-37/sr32-create-polygon.png  used on input line 159.
 (pdftex.def)             Requested size: 426.5953pt x 227.21078pt.
-<figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png, id=3950, 1417.54594pt x 993.7125pt>
+<figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png, id=3917, 1417.54594pt x 993.7125pt>
 File: figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR40-45/SR40 - Issue, multiple layers .png  used on input line 166.
 (pdftex.def)             Requested size: 426.5953pt x 299.04097pt.
-<figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png, id=3951, 1926.44719pt x 991.45406pt>
+<figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png, id=3918, 1926.44719pt x 991.45406pt>
 File: figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR40-45/SR40 - Map Legend.png  used on input line 173.
 (pdftex.def)             Requested size: 426.5953pt x 219.54263pt.
-<figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png, id=3952, 1927.2pt x 994.46532pt>
+<figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png, id=3919, 1927.2pt x 994.46532pt>
 File: figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR40-45/SR41 - Accommodation KeyPOI.png  used on input line 180.
 (pdftex.def)             Requested size: 426.5953pt x 220.11838pt.
-<figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png, id=3953, 1927.2pt x 991.45406pt>
+<figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png, id=3920, 1927.2pt x 991.45406pt>
 File: figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png Graphic file (type png)
 <use figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR40-45/SR42 - Attractions KeyPOI.png  used on input line 187.
@@ -2118,57 +2119,57 @@ Package pdftex.def Info: figures/Progress Images/Iteration-2/SR40-45/SR42 - Attr
 
  (./16-appendix-e.tex
 Appendix E.
-<figures/Progress Images/Iteration-3/SR39/Sr39-report-error-btn.png, id=4026, 1928.70563pt x 1023.825pt>
+<figures/Progress Images/Iteration-3/SR39/Sr39-report-error-btn.png, id=3993, 1928.70563pt x 1023.825pt>
 File: figures/Progress Images/Iteration-3/SR39/Sr39-report-error-btn.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR39/Sr39-report-error-btn.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR39/Sr39-report-error-btn.png  used on input line 5.
 (pdftex.def)             Requested size: 426.5953pt x 226.44511pt.
-<figures/Progress Images/Iteration-3/SR39/Sr39-report-error-modal.png, id=4027, 1927.2pt x 1020.81375pt>
+<figures/Progress Images/Iteration-3/SR39/Sr39-report-error-modal.png, id=3994, 1927.2pt x 1020.81375pt>
 File: figures/Progress Images/Iteration-3/SR39/Sr39-report-error-modal.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR39/Sr39-report-error-modal.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR39/Sr39-report-error-modal.png  used on input line 12.
 (pdftex.def)             Requested size: 426.5953pt x 225.95044pt.
-<figures/Progress Images/Iteration-3/SR39/Sr39-report-error-success.png, id=4028, 1566.60281pt x 1024.57782pt>
+<figures/Progress Images/Iteration-3/SR39/Sr39-report-error-success.png, id=3995, 1566.60281pt x 1024.57782pt>
 File: figures/Progress Images/Iteration-3/SR39/Sr39-report-error-success.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR39/Sr39-report-error-success.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR39/Sr39-report-error-success.png  used on input line 19.
 (pdftex.def)             Requested size: 426.5953pt x 278.98477pt.
-<figures/Progress Images/Iteration-3/SR46/SR46 - Vehicle Type Dropdown.png, id=4029, 1927.2pt x 1023.825pt>
+<figures/Progress Images/Iteration-3/SR46/SR46 - Vehicle Type Dropdown.png, id=3996, 1927.2pt x 1023.825pt>
 File: figures/Progress Images/Iteration-3/SR46/SR46 - Vehicle Type Dropdown.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR46/SR46 - Vehicle Type Dropdown.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR46/SR46 - Vehicle Type Dropdown.png  used on input line 26.
 (pdftex.def)             Requested size: 426.5953pt x 226.61696pt.
-<figures/Progress Images/Iteration-3/SR46/SR46-Rider Profiles.png, id=4030, 1927.2pt x 1026.08344pt>
+<figures/Progress Images/Iteration-3/SR46/SR46-Rider Profiles.png, id=3997, 1927.2pt x 1026.08344pt>
 File: figures/Progress Images/Iteration-3/SR46/SR46-Rider Profiles.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR46/SR46-Rider Profiles.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR46/SR46-Rider Profiles.png  used on input line 33.
 (pdftex.def)             Requested size: 426.5953pt x 227.11685pt.
-<figures/Progress Images/Iteration-3/SR48-49/SR49-Import-Geojson.png, id=4031, 1926.44719pt x 1026.08344pt>
+<figures/Progress Images/Iteration-3/SR48-49/SR49-Import-Geojson.png, id=3998, 1926.44719pt x 1026.08344pt>
 File: figures/Progress Images/Iteration-3/SR48-49/SR49-Import-Geojson.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR48-49/SR49-Import-Geojson.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR48-49/SR49-Import-Geojson.png  used on input line 40.
 (pdftex.def)             Requested size: 426.5953pt x 227.21078pt.
-<figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal Success.png, id=4032, 1928.70563pt x 1028.34187pt>
+<figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal Success.png, id=3999, 1928.70563pt x 1028.34187pt>
 File: figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal Success.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal Success.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal Success.png  used on input line 47.
 (pdftex.def)             Requested size: 426.5953pt x 227.44414pt.
-<figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal.png, id=4033, 1922.68312pt x 1025.33063pt>
+<figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal.png, id=4000, 1922.68312pt x 1025.33063pt>
 File: figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR50/SR50 - Save to Garmin Modal.png  used on input line 54.
 (pdftex.def)             Requested size: 426.5953pt x 227.4978pt.
-<figures/Progress Images/Iteration-3/SR51/SR51-Share to Reddit.png, id=4034, 964.35281pt x 464.4853pt>
+<figures/Progress Images/Iteration-3/SR51/SR51-Share to Reddit.png, id=4001, 964.35281pt x 464.4853pt>
 File: figures/Progress Images/Iteration-3/SR51/SR51-Share to Reddit.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR51/SR51-Share to Reddit.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR51/SR51-Share to Reddit.png  used on input line 61.
 (pdftex.def)             Requested size: 426.5953pt x 205.47272pt.
-<figures/Progress Images/Iteration-3/SR51/SR51-Share to X.png, id=4035, 632.3625pt x 316.18124pt>
+<figures/Progress Images/Iteration-3/SR51/SR51-Share to X.png, id=4002, 632.3625pt x 316.18124pt>
 File: figures/Progress Images/Iteration-3/SR51/SR51-Share to X.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR51/SR51-Share to X.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR51/SR51-Share to X.png  used on input line 68.
 (pdftex.def)             Requested size: 426.5953pt x 213.30215pt.
-<figures/Progress Images/Iteration-3/SR51/SR51-Updated Share Panel.png, id=4036, 1925.69438pt x 1020.81375pt>
+<figures/Progress Images/Iteration-3/SR51/SR51-Updated Share Panel.png, id=4003, 1925.69438pt x 1020.81375pt>
 File: figures/Progress Images/Iteration-3/SR51/SR51-Updated Share Panel.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR51/SR51-Updated Share Panel.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-3/SR51/SR51-Updated Share Panel.png  used on input line 75.
@@ -2183,22 +2184,22 @@ Package pdftex.def Info: figures/Progress Images/Iteration-3/SR51/SR51-Updated S
 
  (./17-appendix-f.tex
 Appendix F.
-<figures/project-meeting-1.png, id=4063, 341.77687pt x 164.11313pt>
+<figures/project-meeting-1.png, id=4030, 341.77687pt x 164.11313pt>
 File: figures/project-meeting-1.png Graphic file (type png)
 <use figures/project-meeting-1.png>
 Package pdftex.def Info: figures/project-meeting-1.png  used on input line 4.
 (pdftex.def)             Requested size: 301.1261pt x 144.60278pt.
-<figures/project-meeting-2.png, id=4064, 338.01282pt x 204.765pt>
+<figures/project-meeting-2.png, id=4031, 338.01282pt x 204.765pt>
 File: figures/project-meeting-2.png Graphic file (type png)
 <use figures/project-meeting-2.png>
 Package pdftex.def Info: figures/project-meeting-2.png  used on input line 11.
 (pdftex.def)             Requested size: 301.1261pt x 182.42459pt.
-<figures/project-meeting-3.png, id=4065, 340.27126pt x 219.82124pt>
+<figures/project-meeting-3.png, id=4032, 340.27126pt x 219.82124pt>
 File: figures/project-meeting-3.png Graphic file (type png)
 <use figures/project-meeting-3.png>
 Package pdftex.def Info: figures/project-meeting-3.png  used on input line 18.
 (pdftex.def)             Requested size: 301.1261pt x 194.54346pt.
-<figures/project-meeting-4.png, id=4066, 342.5297pt x 213.79875pt>
+<figures/project-meeting-4.png, id=4033, 342.5297pt x 213.79875pt>
 File: figures/project-meeting-4.png Graphic file (type png)
 <use figures/project-meeting-4.png>
 Package pdftex.def Info: figures/project-meeting-4.png  used on input line 25.
@@ -2213,7 +2214,7 @@ Package pdftex.def Info: figures/project-meeting-4.png  used on input line 25.
 
  (./18-appendix-g.tex
 Appendix G.
-<figures/commit-history.png, id=4083, 767.86874pt x 651.93562pt>
+<figures/commit-history.png, id=4050, 767.86874pt x 651.93562pt>
 File: figures/commit-history.png Graphic file (type png)
 <use figures/commit-history.png>
 Package pdftex.def Info: figures/commit-history.png  used on input line 4.
@@ -2228,7 +2229,7 @@ Package pdftex.def Info: figures/commit-history.png  used on input line 4.
 
  (./19-appendix-h.tex
 Appendix H.
-<figures/literature-review-source.pdf, id=4088, 578.16pt x 224.7597pt>
+<figures/literature-review-source.pdf, id=4055, 578.16pt x 224.7597pt>
 File: figures/literature-review-source.pdf Graphic file (type pdf)
 <use figures/literature-review-source.pdf>
 Package pdftex.def Info: figures/literature-review-source.pdf  used on input line 4.
@@ -2243,7 +2244,7 @@ Package pdftex.def Info: figures/literature-review-source.pdf  used on input lin
 
  (./20-appendix-i.tex
 Appendix I.
-<figures/ethics_certificate.pdf, id=4107, 598.235pt x 845.1575pt>
+<figures/ethics_certificate.pdf, id=4074, 598.235pt x 845.1575pt>
 File: figures/ethics_certificate.pdf Graphic file (type pdf)
 <use figures/ethics_certificate.pdf>
 Package pdftex.def Info: figures/ethics_certificate.pdf  used on input line 2.
@@ -2252,7 +2253,7 @@ File: figures/ethics_certificate.pdf Graphic file (type pdf)
 <use figures/ethics_certificate.pdf>
 Package pdftex.def Info: figures/ethics_certificate.pdf  used on input line 2.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<figures/ethics_certificate.pdf, id=4110, page=1, 598.235pt x 845.1575pt>
+<figures/ethics_certificate.pdf, id=4077, page=1, 598.235pt x 845.1575pt>
 File: figures/ethics_certificate.pdf Graphic file (type pdf)
 <use figures/ethics_certificate.pdf, page 1>
 Package pdftex.def Info: figures/ethics_certificate.pdf , page1 used on input line 2.
@@ -2280,7 +2281,7 @@ File: figures/ethics_certificate.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/ethics_certificate.pdf , page1 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [129 <./figures/ethics_certificate.pdf>]
-<figures/ethics_certificate.pdf, id=4133, page=2, 598.235pt x 845.1575pt>
+<figures/ethics_certificate.pdf, id=4100, page=2, 598.235pt x 845.1575pt>
 File: figures/ethics_certificate.pdf Graphic file (type pdf)
 <use figures/ethics_certificate.pdf, page 2>
 Package pdftex.def Info: figures/ethics_certificate.pdf , page2 used on input line 2.
@@ -2298,7 +2299,7 @@ Package pdftex.def Info: figures/ethics_certificate.pdf , page2 used on input li
 
  (./21-appendix-j.tex
 Appendix J.
-<figures/PID.pdf, id=4138, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=4105, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf>
 Package pdftex.def Info: figures/PID.pdf  used on input line 2.
@@ -2307,7 +2308,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf>
 Package pdftex.def Info: figures/PID.pdf  used on input line 2.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<figures/PID.pdf, id=4141, page=1, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=4108, page=1, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 1>
 Package pdftex.def Info: figures/PID.pdf , page1 used on input line 2.
@@ -2335,7 +2336,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page1 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [132 <./figures/PID.pdf>]
-<figures/PID.pdf, id=4163, page=2, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=4130, page=2, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 2>
 Package pdftex.def Info: figures/PID.pdf , page2 used on input line 2.
@@ -2349,7 +2350,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page2 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [133 <./figures/PID.pdf>]
-<figures/PID.pdf, id=4170, page=3, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=4137, page=3, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 3>
 Package pdftex.def Info: figures/PID.pdf , page3 used on input line 2.
@@ -2363,7 +2364,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page3 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [134 <./figures/PID.pdf>]
-<figures/PID.pdf, id=4175, page=4, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=4142, page=4, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 4>
 Package pdftex.def Info: figures/PID.pdf , page4 used on input line 2.
@@ -2377,7 +2378,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page4 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [135 <./figures/PID.pdf>]
-<figures/PID.pdf, id=4187, page=5, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=4154, page=5, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 5>
 Package pdftex.def Info: figures/PID.pdf , page5 used on input line 2.
@@ -2391,7 +2392,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page5 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [136 <./figures/PID.pdf>]
-<figures/PID.pdf, id=4193, page=6, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=4160, page=6, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 6>
 Package pdftex.def Info: figures/PID.pdf , page6 used on input line 2.
@@ -2405,7 +2406,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page6 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [137 <./figures/PID.pdf>]
-<figures/PID.pdf, id=4198, page=7, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=4165, page=7, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 7>
 Package pdftex.def Info: figures/PID.pdf , page7 used on input line 2.
@@ -2419,7 +2420,7 @@ File: figures/PID.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/PID.pdf , page7 used on input line 2.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
  [138 <./figures/PID.pdf>]
-<figures/PID.pdf, id=4204, page=8, 598.235pt x 845.1575pt>
+<figures/PID.pdf, id=4171, page=8, 598.235pt x 845.1575pt>
 File: figures/PID.pdf Graphic file (type pdf)
 <use figures/PID.pdf, page 8>
 Package pdftex.def Info: figures/PID.pdf , page8 used on input line 2.
@@ -2458,9 +2459,9 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  94i,17n,92p,2237b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (141 pages, 132150362 bytes).
+Output written on 01-main.pdf (141 pages, 132139238 bytes).
 PDF statistics:
- 4345 PDF objects out of 5155 (max. 8388607)
+ 4312 PDF objects out of 5155 (max. 8388607)
  3275 compressed objects within 33 object streams
  421 named destinations out of 1000 (max. 500000)
  1469 words of extra memory for PDF output out of 10000 (max. 10000000)
