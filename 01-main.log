@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  14 MAR 2024 11:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.9)  14 MAR 2024 13:29
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -830,18 +830,9 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
- (|'inkscape' -V )
-
-Package svg Warning: No version of Inkscape was detected by invoking
-(svg)                `inkscape -V'
-(svg)                so the Inkscape export will fail quite sure as the
-(svg)                command is probably unknown to your OS. You could set
-(svg)                `inkscapeversion=<version>' manually but this is very
-(svg)                unlikely to work on input line 63.
-
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
-(/usr/share/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+ (/usr/share/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 File: english-apa.lbx 2022/06/22 v9.16 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -877,10 +868,10 @@ Package hyperref Info: Link coloring OFF on input line 63.
 \openout5 = `01-main.out'.
 
 Package epstopdf Info: Source file: <figures/UoP_Master_Logo_Linear_PMS.eps>
-(epstopdf)                    date: 2024-01-09 21:48:08
+(epstopdf)                    date: 2024-01-09 10:06:48
 (epstopdf)                    size: 672822 bytes
 (epstopdf)             Output file: <figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-09 21:48:08
+(epstopdf)                    date: 2024-02-16 16:32:25
 (epstopdf)                    size: 15628 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/UoP_Master_Logo_Linear_PMS-eps-converted-to.pdf figures/UoP_Master_Logo_Linear_PMS.eps>
 (epstopdf)             \includegraphics on input line 68.
@@ -1585,8 +1576,10 @@ File: figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png Gra
 <use figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png>
 Package pdftex.def Info: figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png  used on input line 157.
 (pdftex.def)             Requested size: 426.5953pt x 219.22273pt.
- [61 <./figures/Progress Images/Iteration-2/SR40-45/SR40 - Attractions and Accommodation KeyPOI.png (PNG copy)> <./figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png (PNG copy)>] [62]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 191.
+ [61 <./figures/Progress Images/Iteration-2/SR40-45/SR40 - Attractions and Accommodation KeyPOI.png (PNG copy)> <./figures/Progress Images/Iteration-2/SR40-45/SR45 - Route ToVia POI.png (PNG copy)>] [62
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 192.
  (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ) [63
@@ -1595,23 +1588,23 @@ File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 <figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png, id=3200, 1925.69438pt x 1026.08344pt>
 File: figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png>
-Package pdftex.def Info: figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png  used on input line 197.
+Package pdftex.def Info: figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png  used on input line 198.
 (pdftex.def)             Requested size: 426.5953pt x 227.30472pt.
 <figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png, id=3201, 1927.95282pt x 1027.58907pt>
 File: figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png>
-Package pdftex.def Info: figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png  used on input line 204.
+Package pdftex.def Info: figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png  used on input line 205.
 (pdftex.def)             Requested size: 426.5953pt x 227.3717pt.
  [64 <./figures/Progress Images/Iteration-3/SR11/SR11- Round Trip functionality working.png (PNG copy)> <./figures/Progress Images/Iteration-3/SR48-49/SR48-Import GPX.png (PNG copy)>]
 <figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png, id=3212, 1926.44719pt x 954.56625pt>
 File: figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png>
-Package pdftex.def Info: figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png  used on input line 220.
+Package pdftex.def Info: figures/Progress Images/Iteration-3/SR50/SR50 - Garmin Connect App Course Viewer.png  used on input line 221.
 (pdftex.def)             Requested size: 426.5953pt x 211.37437pt.
 <figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png, id=3218, 1278.27562pt x 1031.35312pt>
 File: figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png Graphic file (type png)
 <use figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png>
-Package pdftex.def Info: figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png  used on input line 236.
+Package pdftex.def Info: figures/Progress Images/Iteration-3/SR51/SR51-Share to Facebook.png  used on input line 237.
 (pdftex.def)             Requested size: 426.5953pt x 344.18744pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2451,15 +2444,15 @@ Package logreq Info: Writing requests to '01-main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26559 strings out of 477985
- 517545 string characters out of 5840059
+ 26556 strings out of 477985
+ 517498 string characters out of 5840059
  1891388 words of memory out of 5000000
  45644 multiletter control sequences out of 15000+600000
  571489 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  94i,17n,92p,2237b,5049s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 01-main.pdf (141 pages, 132139238 bytes).
+Output written on 01-main.pdf (141 pages, 132139174 bytes).
 PDF statistics:
  4312 PDF objects out of 5155 (max. 8388607)
  3275 compressed objects within 33 object streams

@@ -1172,7 +1172,6 @@ INPUT /usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT /usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT /usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT /usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
-INPUT 'inkscape' -V 
 INPUT /usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 INPUT /usr/share/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 INPUT /usr/share/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx

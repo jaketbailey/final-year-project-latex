@@ -60,7 +60,7 @@
 \contentsline {subsection}{\numberline {7.3.1}Sharing Route Functionality}{56}{subsection.7.3.1}%
 \contentsline {subsection}{\numberline {7.3.2}Hazard Index Database Creation and Integration}{58}{subsection.7.3.2}%
 \contentsline {subsection}{\numberline {7.3.3}Key Point-of-Interest (POI) Integration}{60}{subsection.7.3.3}%
-\contentsline {subsection}{\numberline {7.3.4}Main Challenges}{61}{subsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.3.4}Main Challenges}{62}{subsection.7.3.4}%
 \contentsline {section}{\numberline {7.4}Iteration 3 - Round Trip, Route Import and Garmin Integration}{63}{section.7.4}%
 \contentsline {subsection}{\numberline {7.4.1}Round Trip Routing}{63}{subsection.7.4.1}%
 \contentsline {subsection}{\numberline {7.4.2}Route Import}{63}{subsection.7.4.2}%
