@@ -15,9 +15,9 @@
 \contentsline {subsection}{\numberline {2.3.1}Plotaroute.com}{20}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Komoot}{21}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Google Maps}{21}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}Risk Factors in Route Planning}{22}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Cycling Infrastructure}{22}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Weather Conditions}{23}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.4}Risk Factors in Route Planning}{21}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Cycling Infrastructure}{21}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Weather Conditions}{24}{subsection.2.4.2}%
 \contentsline {section}{\numberline {2.5}Conclusion}{24}{section.2.5}%
 \contentsline {chapter}{\numberline {3}Methodology}{25}{chapter.3}%
 \contentsline {section}{\numberline {3.1}An Iterative Development Methodology}{25}{section.3.1}%
